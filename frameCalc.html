@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Frame Time Calculator</title>
+<script src="//code.jquery.com/jquery-2.1.3.min.js" />
+<script>
+  function ComputeDifference() {
+    var start = $("#frameTimeStart").val();
+    var end = $("#frameTimeEnd").val();
+    
+    
+    
+    // hours;minutes;seconds;frames
+  }
+  
+  var fps = 30;
+  
+  function ParseFrameTime(textTime) {
+    var times = textTime.split(";").reverse();
+    alert(times);
+  }
+</script>
+</head>
+<body>
+<form>
+Start: <input type="text" id="frameTimeStart"/><br/>
+Difference: <input type="text" id="frameTimeDiff"/><br/>
+End: <input type="text" id="frameTimeEnd"/><br/>
+<button onclick="ComputeDifference">Compute Difference</button>
+<button onclick="ComputeEnd">Compute End</button>
+</form>
+</body>
+</html>
