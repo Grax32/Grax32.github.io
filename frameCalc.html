@@ -40,13 +40,16 @@
   }
 
   function ToFrameTime(frameCount) {
-      var seconds = parseInt(frameCount / fps);
-      var frames = frameCount - (seconds * fps);
+      var totalSeconds = Math.floor(frameCount / fps);
+      var frames = frameCount - (totalSeconds * fps);
       
-      var minutes = parseInt(seconds / 60);
-      seconds = seconds - (minutes * 60);      
+	  var hours = Math.floor(totalSeconds / 3600);
+	  totalSeconds -= hours * 3600;
+	  
+      var minutes = Math.floor(totalSeconds / 60);
+      var seconds = totalSeconds - (minutes * 60);      
 
-      return Pad2(minutes) + ";" + Pad2(seconds) + ";" + Pad2(frames);
+      return Pad2(hours) + ";" + Pad2(minutes) + ";" + Pad2(seconds) + ";" + Pad2(frames);
   }
 
 function Pad2(value) {
@@ -65,12 +68,18 @@ $(function () {
 </style>
 </head>
 <body>
-Start:
+<table>
+<tr><td>
+Start:</td><td>
 <input type="text" id="frameTimeStart" />
-<br/>Difference:
+</td></tr>
+<tr><td>Difference:</td><td>
 <input type="text" id="frameTimeDiff" />
-<br/>End:
+</td></tr>
+<tr><td>End:</td><td>
 <input type="text" id="frameTimeEnd" />
+</td></tr>
+</table>
 <br/>
 <br/>
 <button id="ComputeDifference">Compute Difference</button>
