@@ -22,6 +22,13 @@
 
       return false;
   }
+  
+  function FormatFrameTime(e) {
+    var target = $(e.currentTarget);
+    var frameCount = ParseFrameTime(target.val());
+    var formattedFrameTime = ToFrameTime(frameCount);
+    target.val(formattedFrameTime);
+  }
 
   function ParseFrameTime(textTime) {
       textTime = textTime.replace(":", ";");
@@ -66,6 +73,7 @@ $(function () {
   });
   $("#frameTimeDiff,#frameTimeStart").focusout(ComputeEnd);
   $("#frameTimeEnd").focusout(ComputeDifference);
+  $(".frameTime").change(FormatFrameTime);
 });
 </script>
 <style>
@@ -84,13 +92,13 @@ PFS:</td><td>
 </td></tr>
 <tr><td>
 Start:</td><td>
-<input type="text" id="frameTimeStart" />
+<input type="text" id="frameTimeStart" class="frameTime" />
 </td></tr>
 <tr><td>Difference:</td><td>
-<input type="text" id="frameTimeDiff" />
+<input type="text" id="frameTimeDiff" class="frameTime" />
 </td></tr>
 <tr><td>End:</td><td>
-<input type="text" id="frameTimeEnd" />
+<input type="text" id="frameTimeEnd" class="frameTime" />
 </td></tr>
 </table>
 <br/>
