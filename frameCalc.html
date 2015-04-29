@@ -59,6 +59,9 @@ function Pad2(value) {
 $(function () {
   $("#ComputeDifference").click(ComputeDifference);
   $("#ComputeEnd").click(ComputeEnd);
+  $("#framesPerSecond").change(function () {
+  	fps = $("#framesPerSecond").val();
+  });
 });
 </script>
 <style>
@@ -68,7 +71,12 @@ $(function () {
 </style>
 </head>
 <body>
+  Use this calculator to add and subtract values in the format of "hours;minutes;seconds;frames"
 <table>
+  <tr><td>
+PFS:</td><td>
+<input type="text" id="framesPerSecond" value="30" />
+</td></tr>
 <tr><td>
 Start:</td><td>
 <input type="text" id="frameTimeStart" />
