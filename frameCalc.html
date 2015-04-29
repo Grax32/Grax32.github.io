@@ -70,6 +70,7 @@ function Pad2(value) {
 $(function () {
   $("#framesPerSecond").change(function () {
   	fps = $("#framesPerSecond").val();
+    ComputeEnd();
   });
   $("#frameTimeDiff,#frameTimeStart").focusout(ComputeEnd);
   $("#frameTimeEnd").focusout(ComputeDifference);
