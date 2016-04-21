@@ -43,4 +43,4 @@ layout: default
   * Facebook
   * LinkedIn
   * Google Plus
-  * [](Resume)
+  * [Resume](/)
