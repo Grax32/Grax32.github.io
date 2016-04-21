@@ -3,7 +3,7 @@ layout: default
 ---
 # geeks research and eXplain
 
-Projects
+### Projects
 
 * Interpolation Format Provider 
   * A string format provider for .NET
@@ -11,7 +11,7 @@ Projects
   * High-speed, compact, and portable dependency injector for .NET Windows 8 apps, Windows Phone 8, .NET 4.0 and higher.
 * fFastMapper -- High-speed, compact, and portable object mapper for .NET Windows 8 apps, Windows Phone 8, .NET 4.0, and Silverlight 4.0 and higher.
 
-Media
+### Media
 
 * foo Network
   * Hello Tech Pros
@@ -24,3 +24,23 @@ Media
     * Being Unplugged
   * Geeks Research And eXplain - Explaining the mysterious parts of the tech world
   * Retro Notes - Doing retrospectives about whatever
+
+### About David Walker
+
+* Software Architect/Developer
+  * Github
+  * NuGet
+  * Resume
+* Blogger
+  * coding.grax.com
+* Photographer
+  * Instagram
+  * Grax Photos on Facebook
+* Aspiring movie maker
+  * Foo Network
+* Internet personality
+  * Twitter
+  * Facebook
+  * LinkedIn
+  * Google Plus
+  * [](Resume)
