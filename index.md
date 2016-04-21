@@ -13,14 +13,14 @@ Projects
 
 Media
 
-  * foo Network
-    * Hello Tech Pros
-      * Motivation
-      * Productivity
-      * Leadership
-      * Technology
-      * People
-      * Entrepreneurship
-      * Being Unplugged
-    * Geeks Research And eXplain - Explaining the mysterious parts of the tech world
-    * Retro Notes - Doing retrospectives about whatever
+* foo Network
+  * Hello Tech Pros
+    * Motivation
+    * Productivity
+    * Leadership
+    * Technology
+    * People
+    * Entrepreneurship
+    * Being Unplugged
+  * Geeks Research And eXplain - Explaining the mysterious parts of the tech world
+  * Retro Notes - Doing retrospectives about whatever
