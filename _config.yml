@@ -1,56 +1,37 @@
-baseurl: /starter
+# Name of your blog (this will show up at the top of your page and in the RSS feed)
+name: Grax Media
+
+# Short description (goes below the title; it will also be used in the RSS feed)
+description: Live to code!
+
+# Your name, as you want it to appear underneath each post and in the footer
+author: David Walker
+
+# Your email if you want it to be linked on the contact page
+author_email:
+
+# The directory for category index pages. Change it to something else if
+# for example you want links like /categories/category1 instead of /category1
+category_dir: /
+
+# Uncomment if you are planning to run the blog in a subdirectory
+# Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
+# Example, you must use http://localhost:4000/path/to/blog
+#baseurl: /path/to/blog 
+baseurl: 
+
+# The URL of your actual domain. This will be used to make absolute links in the RSS feed.
+url: http://coding-gt.grax.com.com
+
+#### Under the Hood Stuff #####
+
+# Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
 permalink: pretty
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://prose.github.io/starter/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
-  media: 'media'
-  metadata:
-    _posts:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "blog"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "blog"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "splash"
-        field:
-          element: "text"
-          label: "Splash image"
-          value: ""
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-            - name: "Pears"
-              value: "pears"
-            - name: "Mangos"
-              value: "mangos"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
+
+# How many articles do you wish to appear on the front page:
+paginate: 8
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+
+gems: [jekyll-paginate]
