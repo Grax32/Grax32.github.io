@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 # geeks research and eXplain
 
