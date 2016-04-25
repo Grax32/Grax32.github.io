@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+# Ridiculously Easy Schedules Azure Web Jobs
+
 If you are hosting on Azure, you might have been introduced to WebJobs.  WebJobs are great for performing background or batch tasks.
 
 When you do a deployment of an Azure WebJob, the job will end up in your root-level site's App_Data/jobs folder. 
@@ -9,7 +11,7 @@ I use (and love) the staging and production slots for deployment.  This means th
 
 Please note that if your site is not set to "Always On" (requires at least a Standard web app account), then your scheduled tasks will stop running when your Web App is unloaded.
 
-> "I find it easier to add the jobs as source files in my web project."
+## I find it easier to add the jobs as source files in my web project.
 
 Create the "Apps_Data/jobs/triggered" folder in your web project.  This folder will contain a folder for each of the WebJobs that can be triggered.
 
@@ -38,7 +40,7 @@ This tells our job to run once per minute (specifically, run on the "0" second o
 
 Feel free to customize the time string.  Try "0 0 * * * *" for every minute, "0 0 0 * * *", for every hour, "0 */15 * * * *" for every 15 minutes. 
 
-# Quick side-trip about Cron format
+## Quick side-trip about Cron format
 
 Cron format usually has 5 fields but WebJobs adds a 6th so that you can control the seconds as well.  The formats work the same for each of the fields. 
 
@@ -54,7 +56,7 @@ a "-" dash indicates a range, so 3-5 would match the Mar, Apr, May if in the mon
 
 The ranges of the fields are 0-59 for seconds and minutes, 0-23 for hour, 1-31 for day, 1-12 for month, and  0-6 for day of week.
 
-# And back to Easy WebJobs...
+## And back to Easy WebJobs...
 
 You should now have a folder that looks like this:
 
