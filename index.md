@@ -29,19 +29,20 @@ layout: default
 ### About David Walker
 
 * Software Architect/Developer
-  * Github
-  * NuGet
+  * Professional Scrum Master Level 1 [Scrum.org](http://www.scrum.org/)
+  * [Github](http://github.com/Grax32)
+  * [NuGet](https://www.nuget.org/profiles/Grax)
   * Resume
 * Blogger
   * coding.grax.com
 * Photographer
-  * Instagram
-  * Grax Photos on Facebook
+  * [Instagram](https://www.instagram.com/grax32/)
+  * [Grax Photos on Facebook](https://www.facebook.com/Grax-Photo-516272355223679/)
 * Movie/Video Maker
-  * Foo Network
+  * [Foo Network](http://foo.network/)
 * Internet personality
-  * Twitter
-  * Facebook
-  * LinkedIn
-  * Google Plus
+  * [Twitter](https://twitter.com/grax)
+  * [Facebook]
+  * [LinkedIn](https://www.linkedin.com/in/davidalanwalker)
+  * [Google Plus](https://plus.google.com/u/0/+FooNetwork/videos)
   * [Resume](/)
