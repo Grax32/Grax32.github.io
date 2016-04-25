@@ -38,15 +38,23 @@ This tells our job to run once per minute (specifically, run on the "0" second o
 
 Feel free to customize the time string.  Try "0 0 * * * *" for every minute, "0 0 0 * * *", for every hour, "0 */15 * * * *" for every 15 minutes. 
 
-Quick side-trip about Cron format
+#Quick side-trip about Cron format
+
 Cron format usually has 5 fields but WebJobs adds a 6th so that you can control the seconds as well.  The formats work the same for each of the fields. 
+
 * means always match
+
 "0" or any number means match exactly
-a "/" slash means match when divisible.  i.e. */15 means match whenever the number is divisible by 15.  This would match 0, 15, 30, and 45, so if this expression is in the minutes position, it would match every quarter hour, if it is in the day position, it would match the 15th and the 30th
+
+a "/" slash means match when divisible.  
+
+i.e. */15 means match whenever the number is divisible by 15.  This would match 0, 15, 30, and 45, so if this expression is in the minutes position, it would match every quarter hour, if it is in the day position, it would match the 15th and the 30th
+
 a "-" dash indicates a range, so 3-5 would match the Mar, Apr, May if in the month field, or Wed, Thurs, Frid in the day of the week field.
+
 The ranges of the fields are 0-59 for seconds and minutes, 0-23 for hour, 1-31 for day, 1-12 for month, and  0-6 for day of week.
 
-And back to Easy WebJobs...
+# And back to Easy WebJobs...
 
 You should now have a folder that looks like this:
 
