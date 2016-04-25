@@ -3,22 +3,18 @@ layout: default
 ---
 # geeks research and eXplain
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
 ### Projects
 
 * Interpolation Format Provider 
   * A string format provider for .NET
 * fFastInjector
-  * High-speed, compact, and portable dependency injector for .NET Windows 8 apps, Windows Phone 8, .NET 4.0 and higher.
-* fFastMapper -- High-speed, compact, and portable object mapper for .NET Windows 8 apps, Windows Phone 8, .NET 4.0, and Silverlight 4.0 and higher.
+  * High-speed, compact, and portable dependency injector for .NET Windows 8 apps, Windows Phone 8, .NET 4.0 and higher
+* fFastMapper
+  * High-speed, compact, and portable object mapper for .NET Windows 8 apps, Windows Phone 8, .NET 4.0 and higher
 
 ### Media
 
-* foo Network
+* Foo Network
   * Hello Tech Pros
     * Motivation
     * Productivity
@@ -41,7 +37,7 @@ layout: default
 * Photographer
   * Instagram
   * Grax Photos on Facebook
-* Aspiring movie maker
+* Movie/Video Maker
   * Foo Network
 * Internet personality
   * Twitter
