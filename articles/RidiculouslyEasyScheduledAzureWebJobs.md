@@ -42,11 +42,11 @@ Feel free to customize the time string.  Try "0 0 * * * *" for every minute, "0 
 
 Cron format usually has 5 fields but WebJobs adds a 6th so that you can control the seconds as well.  The formats work the same for each of the fields. 
 
-* means always match
+"*" means always match
 
 "0" or any number means match exactly
 
-a "/" slash means match when divisible.  
+"/" slash means match when divisible.  
 
 i.e. */15 means match whenever the number is divisible by 15.  This would match 0, 15, 30, and 45, so if this expression is in the minutes position, it would match every quarter hour, if it is in the day position, it would match the 15th and the 30th
 
