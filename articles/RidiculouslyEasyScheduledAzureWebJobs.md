@@ -38,7 +38,7 @@ This tells our job to run once per minute (specifically, run on the "0" second o
 
 Feel free to customize the time string.  Try "0 0 * * * *" for every minute, "0 0 0 * * *", for every hour, "0 */15 * * * *" for every 15 minutes. 
 
-#Quick side-trip about Cron format
+# Quick side-trip about Cron format
 
 Cron format usually has 5 fields but WebJobs adds a 6th so that you can control the seconds as well.  The formats work the same for each of the fields. 
 
