@@ -1,3 +1,6 @@
+---
+layout: pages
+---
 # Grax Coding: Method to Quickly Initialize All Elements of an Array to a Value in C#
 
 Update 1: I decided to revisit this with a [a new blog post](/2013/06/fast-array-fill-function-revisited.html)
