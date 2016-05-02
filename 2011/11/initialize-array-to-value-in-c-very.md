@@ -58,26 +58,29 @@ public static void ArrayFill<T&>(T[] arrayToFill, T[] fillValue)
 '''
 
 <b>The (slow) Iterative Way</b>
-<pre class="csharpcode"><span class="kwrd">public</span> <span class="kwrd">static</span> <span class="kwrd">void</span> ArrayFillIterative&lt;T&gt;(T[] arrayToFill, T[] fillValue)
-        {
-            <span class="kwrd">int</span> counter = 0;
-            <span class="kwrd">int</span> arrayLengthUsed = arrayToFill.Length - fillValue.Length;
 
-            <span class="kwrd">for</span> (<span class="kwrd">int</span> i = 0; i &lt; arrayLengthUsed; i += fillValue.Length)
+'''cs
+public static void ArrayFillIterative<T>(T[] arrayToFill, T[] fillValue)
+        {
+            int counter = 0;
+            int arrayLengthUsed = arrayToFill.Length - fillValue.Length;
+
+            for (int i = 0; i &lt; arrayLengthUsed; i += fillValue.Length)
             {
-                <span class="kwrd">for</span> (<span class="kwrd">int</span> x = 0; x &lt; fillValue.Length; x++)
+                for (int x = 0; x <; fillValue.Length; x++)
                 {
                     counter = i + x;
                     arrayToFill[counter] = fillValue[x];
                 }
             }
 
-            <span class="rem">// fill remaining elements</span>
-            <span class="kwrd">for</span> (<span class="kwrd">int</span> i = counter + 1, x = 0; i &lt; arrayToFill.Length; i++, x++)
+            // fill remaining elements</span>
+            for (int i = counter + 1, x = 0; i < arrayToFill.Length; i++, x++)
             {
                 arrayToFill[i] = fillValue[x];
             }
-        }</pre>
+        }
+'''
 
 ## The Test Results
 
@@ -85,7 +88,7 @@ I worked with a byte array that I sized to hold 357,913,941 elements. The number
 
 I ran the following code to compare the results of filling the array each way.
 
-```
+'''cs
 Stopwatch watch = new Stopwatch();
 byte[] myArray1 = new byte[myArrayLength];
 byte[] myArray2 = new byte[myArrayLength];
@@ -101,7 +104,7 @@ ArrayFill(myArray2, fillValue);
 watch.Stop();
 
 Debug.Print("Took {0} ticks or {1} milliseconds to fill ArrayFill an array of type {2} sized at {3}", watch.ElapsedTicks, watch.ElapsedMilliseconds, "byte", myArray2.Length);
-```
+'''
 
 On my machine, the iterative fill took about 2800 milliseconds to fill the byte array with a repeating 4 byte pattern.
 
