@@ -34,7 +34,7 @@ layout: default
   * [NuGet](https://www.nuget.org/profiles/Grax)
   * Resume
 * Blogger
-  * coding.grax.com
+  * [coding.grax.com](http://coding.grax.com/)
 * Photographer
   * [Instagram](https://www.instagram.com/grax32/)
   * [Grax Photos on Facebook](https://www.facebook.com/Grax-Photo-516272355223679/)
