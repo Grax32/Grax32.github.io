@@ -4,6 +4,7 @@ layout: pages
 # Grax Coding: Method to Quickly Initialize All Elements of an Array to a Value in C#
 
 Update 1: I decided to revisit this with a [a new blog post](/2013/06/fast-array-fill-function-revisited.html)
+
 Update 2: A reader ([+Michael Hsu](https://plus.google.com/113579231183226302374)) posted an improved version on [GitHub](https://github.com/mykohsu/Extensions/blob/master/ArrayExtensions.cs) and I blogged about it [here](http://coding.grax.com/2014/04/better-array-fill-function.html)
 
 In the course of my other work this week, I discovered a method for quickly initializing an array to a single value or to a repeating value.
@@ -25,7 +26,7 @@ To test this I wrote two functions. ArrayFillIterative, which sets each element 
 
 ## The (fast) Array.Copy Way
 
-'''cs
+```cs
 public static void ArrayFill<T>(T[] arrayToFill, T fillValue)
 {
     // if called with a single value, wrap the value in an array and call the main function
@@ -55,11 +56,11 @@ public static void ArrayFill<T&>(T[] arrayToFill, T[] fillValue)
         Array.Copy(arrayToFill, 0, arrayToFill, i, copyLength);
     }
 }
-'''
+```
 
 <b>The (slow) Iterative Way</b>
 
-'''cs
+```cs
 public static void ArrayFillIterative<T>(T[] arrayToFill, T[] fillValue)
         {
             int counter = 0;
@@ -80,7 +81,7 @@ public static void ArrayFillIterative<T>(T[] arrayToFill, T[] fillValue)
                 arrayToFill[i] = fillValue[x];
             }
         }
-'''
+```
 
 ## The Test Results
 
@@ -88,7 +89,7 @@ I worked with a byte array that I sized to hold 357,913,941 elements. The number
 
 I ran the following code to compare the results of filling the array each way.
 
-'''cs
+```cs
 Stopwatch watch = new Stopwatch();
 byte[] myArray1 = new byte[myArrayLength];
 byte[] myArray2 = new byte[myArrayLength];
@@ -104,7 +105,7 @@ ArrayFill(myArray2, fillValue);
 watch.Stop();
 
 Debug.Print("Took {0} ticks or {1} milliseconds to fill ArrayFill an array of type {2} sized at {3}", watch.ElapsedTicks, watch.ElapsedMilliseconds, "byte", myArray2.Length);
-'''
+```
 
 On my machine, the iterative fill took about 2800 milliseconds to fill the byte array with a repeating 4 byte pattern.
 
