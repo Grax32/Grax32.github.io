@@ -1,5 +1,8 @@
-Grax Coding: The Free Way Get Started In Programming 
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: The Free Way Get Started In Programming 
+---
 <h3>
 Introduction</h3>
 At our recent Code Camp, our keynote speaker was <a href="http://www.irisclasson.com/">Iris Classon</a>. &nbsp;She told us the inspiring tale of her journey into software development. &nbsp;Several of her stories struck a chord with me and reminded me of some of my own experiences. &nbsp;One part that stood out in particular was how she responded when she got her first exposure to computers and computer programming and how she really took to it and things just made sense.<br />

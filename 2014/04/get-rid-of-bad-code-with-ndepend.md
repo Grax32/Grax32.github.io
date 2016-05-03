@@ -1,5 +1,8 @@
-Grax Coding: Get Rid of Bad Code once and for all with nDepend 5
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Get Rid of Bad Code once and for all with nDepend 5
+---
 <h3>
 <b>What is nDepend?</b></h3>
 <a href="http://www.ndepend.com/">nDepend</a> is a tool used for analyzing a .NET code base. &nbsp;It can find issues, track metrics, and create reports.<br />

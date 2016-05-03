@@ -1,5 +1,8 @@
-Grax Coding: OrderByString enables string search parameters in LINQ OrderBy clauses
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: OrderByString enables string search parameters in LINQ OrderBy clauses
+---
 Here is something new to play with. &nbsp;I just released a package that adds commands for OrderBy that take strings for property name and direction.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">

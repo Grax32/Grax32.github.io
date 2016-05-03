@@ -1,5 +1,8 @@
-Grax Coding: Why is fFastInjector so fast?  Is it thread-safe and otherwise safe?
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Why is fFastInjector so fast?  Is it thread-safe and otherwise safe?
+---
 <h3>
 Why is fFastInjector so fast?</h3>
 fFastInjector gets its speed from creative use of static variables within a generic static class, optimizer friendly coding, coding to do activities not related to the resolution outside of the resolution piece.<br />

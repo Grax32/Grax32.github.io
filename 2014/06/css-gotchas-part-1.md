@@ -1,5 +1,8 @@
-Grax Coding: CSS Gotchas - Part 1
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: CSS Gotchas - Part 1
+---
 TLDR: 2 CSS Gotchas today.  First, the default CSS box model will cause an overflow if a box contains 2 boxes that are each set to 50% of the outer box's height or width if either of the boxes contain a margin, border, or padding.  Second, if you are not aware of vertical margin collapsing, you see unexpected results when the vertical margins collapse between 2 vertically stacked boxes.
 <br />
 <br />

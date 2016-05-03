@@ -1,5 +1,8 @@
-Grax Coding: Tiny Template Engine Pattern that you can probably Remember
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Tiny Template Engine Pattern that you can Remember
+---
 <b>Edit</b>: Updated with working code samples for JavaScript and C#. &nbsp;See also string interpolation.<br />
 <br />
 Let's say you have a bunch of property values and you need a simple template engine. &nbsp;Here is a fairly simple pattern that you can memorize to make a templating function for almost any language.<br />

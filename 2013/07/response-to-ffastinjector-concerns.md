@@ -1,5 +1,8 @@
-Grax Coding: Response to fFastInjector concerns
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Response to fFastInjector concerns
+---
 Below are some comments from Daniel de Palme's IOC Container performance benchmark and my responses.<br />
 <br />
 <a href="http://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison">http://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison</a>&nbsp;Post #48<br />

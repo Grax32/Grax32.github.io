@@ -1,5 +1,8 @@
-Grax Coding: String templating with Interpolation Format Provider
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: String templating with Interpolation Format Provider
+---
 So I wrote this <a href="http://coding.grax.com/2014/10/tiny-template-engine-pattern-that-you.html">other blog post</a> about a templating pattern that I like for simplicity and that it is something I can remember. &nbsp;The response to it was somewhere between meh and ick but the resulting discussion gave me some ideas. (I'm still proud of it by the way)<br />
 <br />
 C# and .NET have some interfaces and code surrounding ToString() and string.Format() that I decided to take advantage of. <br />

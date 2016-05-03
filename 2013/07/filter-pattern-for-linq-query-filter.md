@@ -1,5 +1,8 @@
-Grax Coding: Custom LINQ Filter Operators
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Custom LINQ Filter Operators
+---
 <div class="NoSpacing">
 Generics, expressions, and extension methods are amazing
 features that open the doors to incredible new features and abilities in C#

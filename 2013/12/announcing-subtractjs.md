@@ -1,5 +1,8 @@
-Grax Coding: Announcing SubtractJS
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Announcing SubtractJS
+---
 <h4>
 Quick Summary:</h4>
 SubtractJS is a layout assistant for HTML that makes it easy to mix fixed-width or fixed-height elements on the page edges with a re-sizable body. &nbsp;It is great for managing headers, footers, menu bars, navigation elements, or advertising elements.<br />

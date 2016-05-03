@@ -1,5 +1,8 @@
-Grax Coding: Better Array Fill Function
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Better Array Fill Function
+---
 So last week, <a class="g-profile" href="https://plus.google.com/113579231183226302374" target="_blank">+Michael Hsu</a>&nbsp;visited my blog and took my array fill function and <a href="https://github.com/mykohsu/Extensions/blob/master/ArrayExtensions.cs">made it better</a>.<br />
 <br />
 First, he turned it into an extension method and changed the signature so that the overload isn't needed. <br />

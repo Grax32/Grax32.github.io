@@ -1,5 +1,8 @@
-Grax Coding: Buying and Updating My New Surface RT Tablet
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Buying and Updating My New Surface RT Tablet
+---
 <div>
 This has been a great year for me for getting new or updated electronic devices. &nbsp;When I saw the Black Friday special for the $199 Surface RT 32GB, I decided it was time to buy.</div>
 <div>

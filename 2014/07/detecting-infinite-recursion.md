@@ -1,5 +1,8 @@
-Grax Coding: Detecting Infinite Recursion with a ThreadStatic Variable in C\#
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Detecting Infinite Recursion with a ThreadStatic Variable in C\#
+---
 TLDR: Use ThreadStatic static variables for a performant recursion test.<br />
 <br />
 As I was building fFastInjector, I found that it was fairly easy to create infinitely recursive configurations of the dependency injection. &nbsp;As fFastInjector examines a constructor to determine what to inject, it calls itself to resolve those injections. <br />

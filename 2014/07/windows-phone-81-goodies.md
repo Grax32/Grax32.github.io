@@ -1,5 +1,8 @@
-Grax Coding: Windows Phone 8.1 Goodies
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Windows Phone 8.1 Goodies
+---
 Two of my favorite features in Windows Phone 8.1 are the hands-free texting and the Word Flow Keyboard.<br />
 <br />
 With hands-free texting, I can reply to an incoming text without touching or looking at my phone. &nbsp;I can send a new text by pressing two buttons and then not touching or looking at the phone after that. &nbsp;This is great for when I am driving or working on a project like assembling a bookshelf or cooking.<br />

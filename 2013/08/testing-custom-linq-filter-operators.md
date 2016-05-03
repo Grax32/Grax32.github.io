@@ -1,5 +1,8 @@
-Grax Coding: Testing Custom LINQ Filter Operators (and LINQ Where clauses in general)
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Testing Custom LINQ Filter Operators (and LINQ Where clauses in general)
+---
 <b>Quick Summary</b><br />
 <br />
 In my last post, I outlined how to build a Custom LINQ Filter Operator.  In this post I will demonstrate how to write a unit test for that filter operator.  The same basic methodology can be used for testing Where clauses in general.<br />

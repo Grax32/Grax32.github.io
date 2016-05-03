@@ -1,5 +1,8 @@
-Grax Coding: Combining Function Expressions in C# using a ReplacementVisitor
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Combining Function Expressions in C# using a ReplacementVisitor
+---
 When working with expressions, I often want to combine multiple expressions into one. &nbsp;Using a ReplacementVisitor enables me to do that.<br />
 <h3>
 ReplacementVisitor</h3>

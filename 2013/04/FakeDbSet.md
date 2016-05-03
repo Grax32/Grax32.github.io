@@ -1,5 +1,8 @@
-Grax Coding: A FakeDbSet that implements IDbSet and uses IList for data manipulation 
-
+---
+layout: pages
+permalink: /2013/04/FakeDbSet.html
+title: A FakeDbSet that implements IDbSet and uses IList for data manipulation 
+---
 A FakeDbSet that implements IDbSet<T> and uses IList<T> for data manipulation
 
  If you have ever tried to test code that depends on DbSet<T> or IDbSet<T> by creating a fake that implements IDbSet<T>, you may have found it more complicated than you planned, due to the fact that there are a lot of methods needed to implement the IDbSet<T> interface to just get a minimal amount of functionality from your fake. 

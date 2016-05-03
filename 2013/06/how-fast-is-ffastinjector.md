@@ -1,12 +1,15 @@
-Grax Coding: How fast is fFastInjector?
-
+---
+layout: pages
+permalink: /2013/06/how-fast-is-ffastinjector.html
+title: How fast is fFastInjector?
+---
 I downloaded Danial Palme's wonderful <a href="http://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison">IoC Container Benchmark</a>&nbsp;and added an adapter for my own fFastInjector. &nbsp;As you can see from the results, fFastInjector is clearly faster than all other IoC containers, even managing to beat Hiro, Munq, and Funq by a significant margin.<br />
 <br />
 It is also tinier than TinyIOC. &nbsp;In fact, the only smaller IoC container of those I tested against was MicroSliver at 12 kb versus fFastInjector at 14kb.<br />
 <br />
 I have included 2 sets of graphs below. &nbsp;The first 3 show the relative speeds of all of the containers listed. &nbsp;The next 3 show the relative speeds of the 5 fastest containers. &nbsp;(I left out Speedioc due to some problems running it, but it also ranks near the top on speed).<br />
 <br />
-For more information, and installation and usage instructions, see my <a href="http://coding.grax.com/2013/05/fFastInjector-Initial.html">previous post</a>.<br />
+For more information, and installation and usage instructions, see my <a href="/2013/05/fFastInjector-Initial.html">previous post</a>.<br />
 <div>
 <br />
 <br />

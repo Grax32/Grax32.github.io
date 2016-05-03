@@ -1,5 +1,8 @@
-Grax Coding: Use of unassigned local variable in C#
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Use of unassigned local variable in C#
+---
 Here is a simple tip that you may not have run across yet. <br />
 <br />
 TLDR: Initialize a variable to null to indicate to the compiler that you plan to assign it later.<br />

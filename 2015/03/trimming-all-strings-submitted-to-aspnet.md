@@ -1,5 +1,8 @@
-Grax Coding: Trimming all strings submitted to ASP.NET
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Trimming all strings submitted to ASP.NET
+---
 <b>"Usernames cannot end with a space." 
 You had the time to code that error message, but not the time to call trim()?</b><br />
 &nbsp; &nbsp;&nbsp;<a href="https://twitter.com/shanselman/">@shanselman</a> <a href="https://twitter.com/shanselman/status/575075952767541249">https://twitter.com/shanselman/status/575075952767541249</a><br />

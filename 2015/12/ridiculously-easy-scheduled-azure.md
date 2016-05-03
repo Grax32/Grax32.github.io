@@ -1,10 +1,8 @@
 ---
 layout: pages
 permalink: /2015/12/ridiculously-easy-scheduled-azure.html
+title: Ridiculously Easy Scheduled Azure WebJobs
 ---
-
-# Grax Coding: Ridiculously Easy Scheduled Azure WebJobs
-
 If you are hosting on Azure, you might have been introduced to WebJobs. &nbsp;WebJobs are great for performing background or batch tasks.
 
 When you do a deployment of an Azure WebJob, the job will end up in your root-level site's App_Data/jobs folder. 

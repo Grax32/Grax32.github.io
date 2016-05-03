@@ -1,5 +1,8 @@
-Grax Coding: Generic TryParse, convert string to any type
-
+---
+layout: pages
+permalink: /2013/04/generic-tryparse.html
+title: Generic TryParse, convert string to any type
+---
 <pre style="background-color: white; background-position: initial initial; background-repeat: initial initial; font-family: Consolas; font-size: 13px;"><pre style="background-position: initial initial; background-repeat: initial initial; font-family: Consolas;">I came up with this nifty little extension method today.  This method works in a similar fashion to TryParse but you can pass in any type.  You may want to throw an exception if converter == null, as that means there is no converter available for the specified type.</pre>
 <pre style="background-position: initial initial; background-repeat: initial initial; font-family: Consolas;"></pre>
 <pre style="background-position: initial initial; background-repeat: initial initial; font-family: Consolas;">&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: blue;">using</span>&nbsp;System.ComponentModel;

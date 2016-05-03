@@ -1,5 +1,8 @@
-Grax Coding: Announcing fFastMapper release 0.5.2
-
+---
+layout: pages
+permalink: /2013/04/announcing-ffastmapper-release-052.html
+title: Announcing fFastMapper release 0.5.2
+---
 Announcing fFastMapper release 0.5.2. &nbsp;Get <a href="http://www.nuget.org/packages?q=ffastmapper" target="_blank">fFastMapper </a>from nuGet.<br />
 <br />
 fFastMapper is a component (like AutoMapper) to automatically copy values between objects of different types. &nbsp;The default mapping is based on a match of property name and property type.<br />

@@ -1,5 +1,8 @@
-Grax Coding: fFastInjector - World's Fastest Dependency Injector
-
+---
+layout: pages
+permalink: /2013/05/fFastInjector-Initial.html
+title: fFastInjector - World's Fastest Dependency Injector
+---
 <span style="color: red;">(2013-6-16: See updated lifestyle section for details on singleton lifestyle)</span><br />
 <h2>
 What is it?</h2>

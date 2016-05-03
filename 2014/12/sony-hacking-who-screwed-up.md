@@ -1,3 +1,8 @@
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Sony Hacking: Who Screwed Up
+---
 TLDR: Sony's leadership is setting the security bar too low for a Fortune 500 company and the result is repeated embarrassing hack attacks.<br />
 <br />
 Perhaps now Sony will get the message that their information security needs a lot of improvement before it rises to the level of sucking very badly. <br />

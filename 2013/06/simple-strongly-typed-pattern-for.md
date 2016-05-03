@@ -1,9 +1,12 @@
-Grax Coding: Simple Strongly-Typed pattern for ViewData, Session, Request, etc
-
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Simple Strongly-Typed pattern for ViewData, Session, Request, etc
+---
 Here is a simple pattern for setting up strongly-typed but flexible access to your ViewData, Session, and Request variables.<br />
 <div>
 <br />
-If you have worked with jQuery much, you are familiar with the pattern of using "SomeMethod(value)" to set a value and "SomeMethod()" to get the value back. &nbsp;What we are going to do is create extension methods on ViewData, Session, or Request to set and/or get strongly typed data.</div>
+If you have worked with jQuery much, you are familiar with the pattern of using "SomeMethod(value)" to set a value and "SomeMethod()" to get the value back. What we are going to do is create extension methods on ViewData, Session, or Request to set and/or get strongly typed data.</div>
 <ol>
 <li>Add a new class titled "ObjectDictionaryExtensions" (or whatever you want to call it)&nbsp;</li>
 <li>Add a static modifier to the ObjectDictionaryExtensions class</li>

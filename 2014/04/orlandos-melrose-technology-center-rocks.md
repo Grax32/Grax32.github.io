@@ -1,3 +1,8 @@
+---
+layout: pages
+permalink: /2011/11/post.html
+title: Grax Coding
+---
 Grax Coding: Orlando's Giant Melrose Technology Center is a Maker's Paradise
 
 <style>
