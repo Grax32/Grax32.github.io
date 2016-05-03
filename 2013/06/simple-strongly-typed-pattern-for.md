@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /2013/06/simple-strongly-type-pattern-for.html
+permalink: /2013/06/simple-strongly-typed-pattern-for.html
 title: Simple Strongly-Typed pattern for ViewData, Session, Request, etc
 ---
 Here is a simple pattern for setting up strongly-typed but flexible access to your ViewData, Session, and Request variables.<br />
