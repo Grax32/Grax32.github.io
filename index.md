@@ -3,6 +3,18 @@ layout: default
 ---
 # geeks research and eXplain
 
+### Subjects
+
+* Building Strong Teams
+
+* Building Great Code
+  * ASP.NET
+    * Strongly-Typed ViewData, Session, and Application Variables
+    * [Trim all strings Submitted to MVC Controllers](/2015/03/trimming-all-strings-submitted-to-aspnet)
+  * C#
+    * [Quickly Fill an Array With a Value (or Pattern of Values)](/2014/04/better-array-fill-function)
+  * Generic Coding
+
 ### Projects
 
 * Interpolation Format Provider 
