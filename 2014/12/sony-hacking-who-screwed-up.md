@@ -1,7 +1,7 @@
 ---
 layout: pages
 permalink: /2014/12/sony-hacking-who-screwed-up.html
-title: Sony Hacking: Who Screwed Up
+title: Sony Hacking\: Who Screwed Up
 ---
 TLDR: Sony's leadership is setting the security bar too low for a Fortune 500 company and the result is repeated embarrassing hack attacks.<br />
 <br />
