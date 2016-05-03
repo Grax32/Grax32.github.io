@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Geeks Research And eXplain
 ---
 # Geeks Research And eXplain
 
@@ -32,19 +33,24 @@ layout: default
 
 ### Media
 
-* Foo Network
-  * Original Creations
-    * Geeks Research And eXplain - Explaining the mysterious parts of the tech world
-    * Retro Notes - Doing retrospectives about whatever
-  * Recommended 
-    * Hello Tech Pros
-      * Motivation
-      * Productivity
-      * Leadership
-      * Technology
-      * People
-      * Entrepreneurship
-      * Being Unplugged
+#### Foo Network
+
+* Original Creations
+  * Geeks Research And eXplain - Explaining the mysterious parts of the tech world
+    * Mads Kristensen Interview
+  * Retro Notes - Doing retrospectives about whatever
+    * Nebraska.Code 2015 Retrospective
+    
+* Recommended 
+  * Hello Tech Pros
+    * Motivation
+    * Productivity
+    * Leadership
+    * Technology
+    * People
+    * Entrepreneurship
+    * Being Unplugged
+ 
 ### About David Walker
 
 * Software Architect/Developer
