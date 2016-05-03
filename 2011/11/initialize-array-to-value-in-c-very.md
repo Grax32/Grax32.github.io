@@ -34,9 +34,9 @@ public static void ArrayFill<T>(T[] arrayToFill, T fillValue)
     ArrayFill<T>(arrayToFill, new T[] { fillValue });
 }
 
-public static void ArrayFill<T&>(T[] arrayToFill, T[] fillValue)
+public static void ArrayFill<T>(T[] arrayToFill, T[] fillValue)
 {
-    if (fillValue.Length &gt;= arrayToFill.Length)
+    if (fillValue.Length >= arrayToFill.Length)
     {
         throw new ArgumentException("fillValue array length must be smaller than length of arrayToFill");
     }
@@ -46,7 +46,7 @@ public static void ArrayFill<T&>(T[] arrayToFill, T[] fillValue)
 
     int arrayToFillHalfLength = arrayToFill.Length / 2;
 
-    for (int i = fillValue.Length; i &lt; arrayToFill.Length; i *= 2)
+    for (int i = fillValue.Length; i < arrayToFill.Length; i *= 2)
     {
         int copyLength = i;
         if (i > arrayToFillHalfLength)
@@ -67,7 +67,7 @@ public static void ArrayFillIterative<T>(T[] arrayToFill, T[] fillValue)
             int counter = 0;
             int arrayLengthUsed = arrayToFill.Length - fillValue.Length;
 
-            for (int i = 0; i &lt; arrayLengthUsed; i += fillValue.Length)
+            for (int i = 0; i < arrayLengthUsed; i += fillValue.Length)
             {
                 for (int x = 0; x <; fillValue.Length; x++)
                 {
@@ -99,13 +99,15 @@ watch.Restart();
 ArrayFillIterative(myArray1, fillValue);
 watch.Stop();
 
-Debug.Print("Took {0} ticks or {1} milliseconds to iteratively fill an array of type {2} sized at {3}", watch.ElapsedTicks, watch.ElapsedMilliseconds,"byte", myArray1.Length);
+Debug.Print("Took {0} ticks or {1} milliseconds to iteratively fill an array of type {2} sized at {3}", 
+    watch.ElapsedTicks, watch.ElapsedMilliseconds,"byte", myArray1.Length);
 
 watch.Restart();
 ArrayFill(myArray2, fillValue);
 watch.Stop();
 
-Debug.Print("Took {0} ticks or {1} milliseconds to fill ArrayFill an array of type {2} sized at {3}", watch.ElapsedTicks, watch.ElapsedMilliseconds, "byte", myArray2.Length);
+Debug.Print("Took {0} ticks or {1} milliseconds to fill ArrayFill an array of type {2} sized at {3}", 
+    watch.ElapsedTicks, watch.ElapsedMilliseconds, "byte", myArray2.Length);
 ```
 
 On my machine, the iterative fill took about 2800 milliseconds to fill the byte array with a repeating 4 byte pattern.
