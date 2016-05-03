@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /2011/11/post.html
+permalink: /2013/12/announcing-subtractjs.html
 title: Announcing SubtractJS
 ---
 <h4>

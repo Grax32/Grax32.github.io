@@ -1,7 +1,7 @@
 ---
 layout: pages
-permalink: /2011/11/post.html
-title: Tiny Template Engine Pattern that you can Remember
+permalink: /2014/10/tiny-templatte-engine-pattern-that-you.html
+title: Tiny Template Engine Pattern That You Can Remember
 ---
 <b>Edit</b>: Updated with working code samples for JavaScript and C#. &nbsp;See also string interpolation.<br />
 <br />

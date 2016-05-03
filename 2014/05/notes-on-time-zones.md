@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /2011/11/post.html
+permalink: /2014/05/notes-on-time-zones.html
 title: Notes on Time Zones
 ---
 <b>TLDR Version</b><br />

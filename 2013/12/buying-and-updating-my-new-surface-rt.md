@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /2011/11/post.html
+permalink: /2013/12/buying-and-updating-my-new-surface-rt.html
 title: Buying and Updating My New Surface RT Tablet
 ---
 <div>

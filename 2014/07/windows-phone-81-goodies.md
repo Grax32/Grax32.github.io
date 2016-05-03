@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /2011/11/post.html
+permalink: /2014/07/windows-phone-81-goodies.html
 title: Windows Phone 8.1 Goodies
 ---
 Two of my favorite features in Windows Phone 8.1 are the hands-free texting and the Word Flow Keyboard.<br />

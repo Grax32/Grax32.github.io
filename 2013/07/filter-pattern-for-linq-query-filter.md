@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /2011/11/post.html
+permalink: /2013/07/filter-pattern-for-linq-query-filter.html
 title: Custom LINQ Filter Operators
 ---
 <div class="NoSpacing">

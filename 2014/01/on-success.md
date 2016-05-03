@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /2011/11/post.html
+permalink: /2014/01/on-success.html
 title: On Success
 ---
 > "... the strikingly successful groups in America today share three traits that, together, propel success. The first is a superiority complex &#8212; a deep-seated belief > in their exceptionality. The second appears to be the opposite &#8212; insecurity, a feeling that you or what you&#8217;ve done is not good enough. The third is impulse > control."

@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /2011/11/post.html
+permalink: /2014/05/debugging-visual-studio-2013-code.html
 title: Debugging Visual Studio 2013 Code Coverage with ILSpy
 ---
 So I am working on getting 100% code coverage for my tests on <a href="http://g.grax.com/Yv0pwI">fFastMapper </a>(My tool to do high-speed, precompiled mapping between 2 objects). &nbsp;The following method is a single line and was being called in my tests. &nbsp;However, Visual Studio 2013's code coverage tool was reporting that there was a block of code left untested. &nbsp;I couldn't see any way this was possible.<br />

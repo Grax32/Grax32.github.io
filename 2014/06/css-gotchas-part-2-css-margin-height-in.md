@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /2011/11/post.html
+permalink: /2014/06/css-gotchas-part-2-css-margin-height-in.html
 title: CSS Gotchas - Part 2 - CSS Margin Height In Percent is Calculated Using the Width of the Parent Object
 ---
 TLDR: In CSS, when you specify margin <b>height </b>using a percentage, that <b>height </b>is calculated using that percentage against the <b>width </b>of the parent object. <br />

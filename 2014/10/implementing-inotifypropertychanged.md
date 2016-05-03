@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /2011/11/post.html
+permalink: /2014/10/implementing-inotifypropertychanged.html
 title: Implementing INotifyPropertyChanged Manually Just Got A Little Easier
 ---
 Implementing INotifyPropertyChanged got a little easier in C# 5.0 in .NET 4.5.  With the addition of the CallerMemberName attribute, you can stop using magic strings* to identify the property that is changing.

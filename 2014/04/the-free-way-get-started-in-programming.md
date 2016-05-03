@@ -1,7 +1,7 @@
 ---
 layout: pages
-permalink: /2011/11/post.html
-title: The Free Way Get Started In Programming 
+permalink: /2014/04/the-free-way-get-started-in-programming.html
+title: The Free Way To Get Started In Programming 
 ---
 <h3>
 Introduction</h3>

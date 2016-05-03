@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /2011/11/post.html
+permalink: /2014/01/subtractjs-video.html
 title: SubtractJS: The Video
 ---
 <span style="font-size: large;">SubtractJS: The Video</span><br />

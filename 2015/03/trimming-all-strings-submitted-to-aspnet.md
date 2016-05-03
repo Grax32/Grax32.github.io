@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /2011/11/post.html
+permalink: /2015/03/trimming-all-strings-submitted-to-aspnet.html
 title: Trimming all strings submitted to ASP.NET
 ---
 <b>"Usernames cannot end with a space." 

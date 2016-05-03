@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /2011/11/post.html
+permalink: /2013/07/response-to-ffastinjector-concerns.html
 title: Response to fFastInjector concerns
 ---
 Below are some comments from Daniel de Palme's IOC Container performance benchmark and my responses.<br />
