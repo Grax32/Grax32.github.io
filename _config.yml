@@ -21,12 +21,11 @@ category_dir: /
 baseurl: 
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://coding-gt.grax.com.com
+url: http://coding-gt.grax.com
 
 #### Under the Hood Stuff #####
 
-# Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
-permalink: pretty
+permalink: none
 
 # How many articles do you wish to appear on the front page:
 paginate: 8
@@ -35,3 +34,5 @@ paginate: 8
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
 
 gems: [jekyll-sitemap]
+
+title: Geeks Research And eXplain: Programming
