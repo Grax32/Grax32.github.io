@@ -6,10 +6,10 @@ layout: default
 ### Subjects
 
 * Building Strong Teams
-
+  * [4 Steps to More Effective Meetings](/2015/06/4-steps-to-more-effective-meetings)
 * Building Great Code
   * ASP.NET
-    * Strongly-Typed ViewData, Session, and Application Variables
+    * [Strongly-Typed ViewData, Session, and Application Variables](/2013/06/simple-strongly-typed-pattern-for)
     * [Trim all strings Submitted to MVC Controllers](/2015/03/trimming-all-strings-submitted-to-aspnet)
   * C#
     * [Quickly Fill an Array With a Value (or Pattern of Values)](/2014/04/better-array-fill-function)
