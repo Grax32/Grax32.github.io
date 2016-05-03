@@ -7,13 +7,13 @@ In my business, meetings are constantly happening. As a developer by nature, I t
 
 In order to have more effective meetings, I recommend the following:
 
-1. **Be on time and start on time.** Time is valuable and meeting time is even more valuable, since you are spending that time multiplied by the number of people there. 
+* **Be on time and start the meeting on time.** Time is valuable and meeting time is even more valuable, since you are spending that time multiplied by the number of people there. 
 
 > If you waste fifteen of your own non-meeting minutes, you are wasting fifteen minutes. If you are fifteen minutes late to a meeting, you are wasting 15 minutes times the number of people there. So if there are 10 people in attendance, you have just wasted 2.5 hours.
 
-2. **Have a mission.** Every meeting must have a real reason to happen. Knowing why you are having a meeting and what you expect to get out of it helps to keep you focused on the task at hand.
-3. **End on time.** Ending on time shows respect for other people's schedules and other meetings that may happen elsewhere. Choosing to always end on time pushes you to properly estimate the necessary meeting time, encourages you to keep the conversation on task, and keeps the attendees engaged, since they know the time is limited and focused on the mission.
-4. **Set up ground rules** that establish that the meeting will be safe place for discussion. The following rules<sup>\*</sup> are a good starting point. 
+* **Have a mission.** Every meeting must have a real reason to happen. Knowing why you are having a meeting and what you expect to get out of it helps to keep you focused on the task at hand.
+* **End on time.** Ending on time shows respect for other people's schedules and other meetings that may happen elsewhere. Choosing to always end on time pushes you to properly estimate the necessary meeting time, encourages you to keep the conversation on task, and keeps the attendees engaged and focused on the mission, since they know the time is limited.
+* **Set up ground rules** that establish that the meeting will be safe place for discussion. The following rules<sup>\*</sup> are a good starting point. 
   * Be nice, open, and considerate.
   * Show mutual respect.
   * Actively participate.
