@@ -2,8 +2,6 @@
 layout: default
 title: Geeks Research And eXplain
 ---
-# Geeks Research And eXplain
-
 ### Subjects
 
 * Building Strong Careers
@@ -24,11 +22,11 @@ title: Geeks Research And eXplain
 
 ### Projects
 
-* Interpolation Format Provider 
+* Interpolation Format Provider &bull; [NuGet](/) &bull; [GitHub](/)
   * A string format provider for .NET
-* fFastInjector
+* fFastInjector &bull; [NuGet](/) &bull; [CodePlex](/)
   * High-speed, compact, and portable dependency injector for .NET Windows 8 apps, Windows Phone 8, .NET 4.0 and higher
-* fFastMapper
+* fFastMapper &bull; [NuGet](/) &bull; [CodePlex](/)
   * High-speed, compact, and portable object mapper for .NET Windows 8 apps, Windows Phone 8, .NET 4.0 and higher
 
 ### Media
@@ -37,19 +35,13 @@ title: Geeks Research And eXplain
 
 * Original Creations
   * Geeks Research And eXplain - Explaining the mysterious parts of the tech world
-    * Mads Kristensen Interview
+    * [Mads Kristensen Interview](https://www.youtube.com/watch?v=73-CqZEF7Ak&feature=youtu.be)
   * Retro Notes - Doing retrospectives about whatever
-    * Nebraska.Code 2015 Retrospective
+    * [Nebraska.Code 2015 Retrospective](https://www.youtube.com/watch?v=AWard2V9tVY)
     
-* Recommended 
-  * Hello Tech Pros
-    * Motivation
-    * Productivity
-    * Leadership
-    * Technology
-    * People
-    * Entrepreneurship
-    * Being Unplugged
+* Recommendations
+  * [HanselMinutes](http://hanselminutes.com/) Fresh Air for Developers
+  * [Hello Tech Pros](http://hellotechpros.com/) &bull; Motivation &bull; * Productivity &bull; Leadership &bull; Technology &bull; People &bull; Entrepreneurship &bull; Being Unplugged
  
 ### About David Walker
 
@@ -57,7 +49,7 @@ title: Geeks Research And eXplain
   * Professional Scrum Master Level 1 [Scrum.org](http://www.scrum.org/)
   * [Github](http://github.com/Grax32)
   * [NuGet](https://www.nuget.org/profiles/Grax)
-  * Resume
+  * [Resume](/david-walker/resume.pdf)
 * Blogger
   * [coding.grax.com](http://coding.grax.com/)
 * Photographer
@@ -69,4 +61,3 @@ title: Geeks Research And eXplain
   * [Twitter](https://twitter.com/grax)
   * [LinkedIn](https://www.linkedin.com/in/davidalanwalker)
   * [Google Plus](https://plus.google.com/u/0/+FooNetwork/videos)
-  * [Resume](/)

@@ -1,0 +1,30 @@
+ul{
+  width:300px;
+  list-style:none;
+  padding:0;
+  text-align:center;
+  overflow:auto;
+}
+ul > li{
+  margin-bottom:15px;
+}
+li span{
+  display:block;
+  clear:both;
+  background:#5A9BD5;
+  padding:15px 0;
+}
+ul ul li{
+  float:left;
+  width:90px;
+  margin:15px 15px 0 0;
+}
+ul ul li:nth-child(3){
+  margin-right:0;
+}
+ul li a{
+  background:#5A9BD5;
+  display:block;
+  width:100%;
+  padding:15px 0;
+}
