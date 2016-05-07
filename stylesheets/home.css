@@ -3,12 +3,16 @@ ul {
     background-color: lightyellow;
 }
 
+li {
+    margin: 5px;
+}
+
 ul ul {
     border: 0 none;
 }
 
 ul ul ul {
-    border-bottom: 1px solid black;
+    list-style-type: none;
 }
 
 ul ul li {
@@ -18,7 +22,7 @@ ul ul li {
 
 ul ul ul li {
     background-color: lightgreen;
-    list-style-type: none;
+    border-bottom: 1px solid black;
 }
 
 
