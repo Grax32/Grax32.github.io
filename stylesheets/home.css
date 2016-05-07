@@ -1,6 +1,8 @@
 
 ul {
     background-color: lightyellow;
+    list-style-type: none;
+    list-style-position: inside;
 }
 
 li {
@@ -9,10 +11,11 @@ li {
 
 ul ul {
     border: 0 none;
+    background-color: red;
 }
 
 ul ul ul {
-    list-style-type: none;
+    background-color: blue;
 }
 
 ul ul li {
