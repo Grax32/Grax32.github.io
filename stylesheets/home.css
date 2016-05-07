@@ -7,11 +7,19 @@ ul ul {
     border: 0 none;
 }
 
+ul ul ul {
+    border-bottom: 1px solid black;
+}
+
 ul ul li {
     background-color: lightgray;
     padding: 5px;
 }
 
+ul ul ul li {
+    background-color: lightgreen;
+    list-style-type: none;
+}
 
 
 h1,h2,h3,h4,h5,h6{
