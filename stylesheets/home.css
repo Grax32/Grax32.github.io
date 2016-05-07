@@ -10,29 +10,21 @@ li {
     margin: 5px;
 }
 
-ul ul {
-    border: 0 none;
-    background-color: red;
-    padding: 5px;
-}
-
 ul ul ul {
     background-color: green;
+    border: 0 none;
 }
 
 ul ul li {
-    background-color: lightgray;
-    padding: 5px;
-}
-
-ul ul ul li {
     background-color: lightgreen;
     border-bottom: 1px solid black;
+    padding: 3px;
 }
 
 
 h1,h2,h3,h4,h5,h6{
     width: 100%;
     border: 1px solid black;
+    border-width: 0 1px;
     background-color: lightblue;
 }

@@ -6,23 +6,25 @@ title: Geeks Research And eXplain
 
 ### Building Strong Careers
 
-&bull; [On Success](/2014/01/on-success)
-> Accomplishments require the audacity to think you can do it, a desire to accomplish more than you already have, and the discipline to make it happen
+* [On Success](/2014/01/on-success)
+  * Accomplishments require the audacity to think you can do it, a desire to accomplish more than you already have, and the discipline to make it happen
   
 ### Building Strong Teams
 
-&bull; [4 Steps to More Effective Meetings](/2015/06/4-steps-to-more-effective-meetings)
-> Strong team meetings make for stronger teams
+* [4 Steps to More Effective Meetings](/2015/06/4-steps-to-more-effective-meetings)
+  * Strong team meetings make for stronger teams
   
 ### Building Great Code
 
-* ASP.NET
-    * [Strongly-Typed ViewData, Session, and Application Variables](/2013/06/simple-strongly-typed-pattern-for) * Reduce errors, enhance refactorability, enable intellisense with strongly-typed properties *
-    * [Trim all strings Submitted to MVC Controllers](/2015/03/trimming-all-strings-submitted-to-aspnet) * How often do you really need a leading or trailing spaces in an input field? *
-* C#
-    * [Quickly Fill an Array With a Value (or Pattern of Values)](/2014/04/better-array-fill-function) * Init an int array to -1, set all strings to "BLANK", init all pixels to light blue *
+* [Strongly-Typed ViewData, Session, and Application Variables](/2013/06/simple-strongly-typed-pattern-for)
+  * Reduce errors, enhance refactorability, enable intellisense with strongly-typed properties
+* [Trim all strings Submitted to MVC Controllers](/2015/03/trimming-all-strings-submitted-to-aspnet)
+  * How often do you really need a leading or trailing spaces in an input field?
+* [Quickly Fill an Array With a Value (or Pattern of Values)](/2014/04/better-array-fill-function)
+  * Init an int array to -1, set all strings to "BLANK", init all pixels to light blue
 * Generic Coding
-  
+  * Some neat generic stuff
+    
 ### Opinions
 
 ## Projects
