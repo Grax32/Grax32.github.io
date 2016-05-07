@@ -2,25 +2,30 @@
 layout: default
 title: Geeks Research And eXplain
 ---
-### Subjects
+## Subjects
 
-* Building Strong Careers
-  * [On Success](/2014/01/on-success) * Accomplishments require the audacity to think you can do it, a desire to accomplish more than you already have, and the discipline to make it happen *
+### Building Strong Careers
+
+&bull; [On Success](/2014/01/on-success)
+> Accomplishments require the audacity to think you can do it, a desire to accomplish more than you already have, and the discipline to make it happen
   
-* Building Strong Teams
-  * [4 Steps to More Effective Meetings](/2015/06/4-steps-to-more-effective-meetings) * Strong team meetings make for stronger teams *
+### Building Strong Teams
+
+&bull; [4 Steps to More Effective Meetings](/2015/06/4-steps-to-more-effective-meetings)
+> Strong team meetings make for stronger teams
   
-* Building Great Code
-  * ASP.NET
+### Building Great Code
+
+* ASP.NET
     * [Strongly-Typed ViewData, Session, and Application Variables](/2013/06/simple-strongly-typed-pattern-for) * Reduce errors, enhance refactorability, enable intellisense with strongly-typed properties *
     * [Trim all strings Submitted to MVC Controllers](/2015/03/trimming-all-strings-submitted-to-aspnet) * How often do you really need a leading or trailing spaces in an input field? *
-  * C#
+* C#
     * [Quickly Fill an Array With a Value (or Pattern of Values)](/2014/04/better-array-fill-function) * Init an int array to -1, set all strings to "BLANK", init all pixels to light blue *
-  * Generic Coding
+* Generic Coding
   
-* Opinions
+### Opinions
 
-### Projects
+## Projects
 
 * Interpolation Format Provider &bull; [NuGet](/) &bull; [GitHub](/)
   * A string format provider for .NET
@@ -29,9 +34,9 @@ title: Geeks Research And eXplain
 * fFastMapper &bull; [NuGet](/) &bull; [CodePlex](/)
   * High-speed, compact, and portable object mapper for .NET Windows 8 apps, Windows Phone 8, .NET 4.0 and higher
 
-### Media
+## Media
 
-#### Foo Network
+### Foo Network
 
 * Original Creations
   * Geeks Research And eXplain - Explaining the mysterious parts of the tech world
@@ -43,7 +48,7 @@ title: Geeks Research And eXplain
   * [HanselMinutes](http://hanselminutes.com/) Fresh Air for Developers
   * [Hello Tech Pros](http://hellotechpros.com/) &bull; Motivation &bull; * Productivity &bull; Leadership &bull; Technology &bull; People &bull; Entrepreneurship &bull; Being Unplugged
  
-### About David Walker
+## About David Walker
 
 * Software Architect/Developer
   * Professional Scrum Master Level 1 [Scrum.org](http://www.scrum.org/)
