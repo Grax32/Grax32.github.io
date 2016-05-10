@@ -2,21 +2,21 @@
 layout: default
 title: Geeks Research And eXplain
 ---
-## Subjects
+## Continuous Improvement
 
-### Building Strong Lives
+### Life
 
 * [On Success](/2014/01/on-success)
   * Accomplishments require the audacity to think you can do it, a desire to accomplish more than you already have, and the discipline to make it happen
   
-### Building Strong Teams
+### Team
 
 * [4 Steps to More Effective Meetings](/2015/06/4-steps-to-more-effective-meetings)
   * Strong meetings make for stronger teams
 * [Using Communication to Unlock the Group Brilliance](/)
   * Diverse groups bring varied backgrounds and skills, making the group smarter than the individual
     
-### Building Great Code
+### Code
 
 * [Strongly-Typed ViewData, Session, and Application Variables - ASP.NET, C#](/2013/06/simple-strongly-typed-pattern-for)
   * Reduce errors, enhance refactorability, enable intellisense with strongly-typed properties
@@ -57,21 +57,4 @@ title: Geeks Research And eXplain
   * [HanselMinutes](http://hanselminutes.com/) Fresh Air for Developers
   * [Hello Tech Pros](http://hellotechpros.com/) &bull; Motivation &bull; * Productivity &bull; Leadership &bull; Technology &bull; People &bull; Entrepreneurship &bull; Being Unplugged
  
-## About David Walker
 
-* Software Architect/Developer
-  * Professional Scrum Master Level 1 [Scrum.org](http://www.scrum.org/)
-  * [Github](http://github.com/Grax32)
-  * [NuGet](https://www.nuget.org/profiles/Grax)
-  * [Resume](/david-walker/resume.pdf)
-* Blogger
-  * [coding.grax.com](http://coding.grax.com/)
-* Photographer
-  * [Instagram](https://www.instagram.com/grax32/)
-  * [Grax Photos on Facebook](https://www.facebook.com/Grax-Photo-516272355223679/)
-* Movie/Video Maker
-  * [Foo Network](http://foo.network/)
-* Internet personality
-  * [Twitter](https://twitter.com/grax)
-  * [LinkedIn](https://www.linkedin.com/in/davidalanwalker)
-  * [Google Plus](https://plus.google.com/u/0/+FooNetwork/videos)
