@@ -10,6 +10,10 @@ li {
     margin: 5px;
 }
 
+ul ul {
+    padding: 5px;
+}
+
 ul ul ul {
     background-color: green;
     border: 0 none;
