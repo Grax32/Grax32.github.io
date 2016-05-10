@@ -1,22 +1,21 @@
 ---
 layout: default
-title: Geeks Research And eXplain
+title: Geeks Research And Xplain
 ---
-## Continuous Improvement
 
-### Life
+### Continuous Improvement of Your Life
 
 * [On Success](/2014/01/on-success)
   * Accomplishments require the audacity to think you can do it, a desire to accomplish more than you already have, and the discipline to make it happen
   
-### Team
+### Continuous Improvement of Your Team
 
 * [4 Steps to More Effective Meetings](/2015/06/4-steps-to-more-effective-meetings)
   * Strong meetings make for stronger teams
 * [Using Communication to Unlock the Group Brilliance](/)
   * Diverse groups bring varied backgrounds and skills, making the group smarter than the individual
     
-### Code
+### Continuous Improvement of Your Code
 
 * [Strongly-Typed ViewData, Session, and Application Variables - ASP.NET, C#](/2013/06/simple-strongly-typed-pattern-for)
   * Reduce errors, enhance refactorability, enable intellisense with strongly-typed properties
@@ -31,10 +30,10 @@ title: Geeks Research And eXplain
 
 * [Female Code Camp Speakers](/)
   * It is upsetting when technical events seem to be excluding people based on non-technical criteria such as gender, race, sexual orientation, etc.  However; it is unfair to rant, point fingers, or call names without giving the organizers a fair chance to correct things.
-* [The Computer Doesn't Know You're Gay](/)
-  * The computer works or doesn't work based on the inputs it is given.  It has no bias for or against anyone.
+* [The Computer Doesn't Know You're Gay...](/)
+  * or black, white, tall, short, skinny, fat, cute, ugly, or ordinary. The computer works or doesn't work based on the inputs it is given.  It has no bias for or against anyone.
 
-## Projects
+### Software Projects
 
 * Interpolation Format Provider &bull; [NuGet](/) &bull; [GitHub](/)
   * A string format provider for .NET
@@ -43,15 +42,15 @@ title: Geeks Research And eXplain
 * fFastMapper &bull; [NuGet](/) &bull; [CodePlex](/)
   * High-speed, compact, and portable object mapper for .NET Windows 8 apps, Windows Phone 8, .NET 4.0 and higher
 
-## Media
-
-### Foo Network
+### [Foo Network](http://foo.network/) - Video Projects
 
 * Original Creations
   * Geeks Research And eXplain - Explaining the mysterious parts of the tech world
     * [Mads Kristensen Interview](https://www.youtube.com/watch?v=73-CqZEF7Ak&feature=youtu.be)
+    * [Redundant Web Hosting with a Cluster of Raspbery Pi](/)
   * Retro Notes - Doing retrospectives about whatever
     * [Nebraska.Code 2015 Retrospective](https://www.youtube.com/watch?v=AWard2V9tVY)
+    * [Tesla Model X Retrospective](/)
     
 * Recommendations
   * [HanselMinutes](http://hanselminutes.com/) Fresh Air for Developers

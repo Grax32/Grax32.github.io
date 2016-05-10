@@ -1,5 +1,20 @@
+header {
+    background: black;
+    color: white;
+}
+
+header a {
+    color: white;
+}
+
+.bs-docs-header p {
+    font-style: italic;
+    padding-left: 25px;    
+}
+
 a {
-    font-style: normal;    
+    font-weight: bold;
+    color: #9C2123;   
 }
 
 ul {
@@ -18,7 +33,6 @@ ul ul {
 
 ul ul li {
     font-style: italic;
-    border-bottom: 1px solid black;
     padding: 4px;
 }
 
@@ -39,13 +53,18 @@ ul ul ul li:before {
     font-size: 1.5em;
 }
 
-h1 {
-    width: 100%;
+h1,h2,h3,h4,h5,h6{
+    border: 0 solid #9C2123;
+    border-top-width: 1px;
+    border-bottom-width: 3px;
+    background-color: #EEEEEE;
+    color: black;
+    padding-left: 8px;
+    padding-top: 13px;
 }
 
-h1,h2,h3,h4,h5,h6{
-    border: 1px solid black;
-    border-width: 1px 0;
-    background-color: lightblue;
-    padding-left: 8px;
+h1 {
+    width: 100%;
+    padding: 15px;
 }
+
