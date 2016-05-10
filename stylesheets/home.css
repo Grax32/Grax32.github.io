@@ -1,3 +1,6 @@
+a {
+    font-style: normal;    
+}
 
 ul {
     list-style-type: none;
@@ -20,7 +23,6 @@ ul ul li {
 }
 
 ul ul ul {
-    background-color: green;
     border: 0 none;
 }
 
@@ -31,7 +33,7 @@ ul ul ul li {
 }
 
 ul ul ul li:before {
-    content: "&bull";
+    content: "\2022 ";
 }
 
 h1 {
