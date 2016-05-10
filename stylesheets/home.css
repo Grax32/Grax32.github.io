@@ -30,10 +30,13 @@ ul ul ul li {
     font-style:  italic;
     padding: 4px;
     display: inline;
+    border: 0 none;
+    background-color: #EEEEEE;
 }
 
 ul ul ul li:before {
-    content: "\2022 ";
+    content: "\2022\00a0";
+    font-size: 1.5em;
 }
 
 h1 {

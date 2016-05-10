@@ -24,10 +24,15 @@ title: Geeks Research And eXplain
   * How often do you really need a leading or trailing spaces in an input field?
 * [Quickly Fill an Array With a Value (or Pattern of Values) - C#](/2014/04/better-array-fill-function)
   * Set all values in an int array to -1, set all strings to "BLANK", initialize all pixels to light blue
-* [Generic Coding - C#](/)
-  * Introduction 
+* [Introduction to Generic Coding - C#](/)
+  * An Introduction to C# Generic Coding
     
 ### Opinions
+
+* [Female Code Camp Speakers](/)
+  * It is upsetting when technical events seem to be excluding people based on non-technical criteria such as gender, race, sexual orientation, etc.  However; it is unfair to rant, point fingers, or call names without giving the organizers a fair chance to correct things.
+* [The Computer Doesn't Know You're Gay](/)
+  * The computer works or doesn't work based on the inputs it is given.  It has no bias for or against anyone.
 
 ## Projects
 
