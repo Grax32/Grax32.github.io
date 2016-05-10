@@ -1,17 +1,22 @@
 
 ul {
-    background-color: lightyellow;
     list-style-type: none;
     list-style-position: inside;
-    padding: 25px;
+    padding: 5px;
 }
 
 li {
-    margin: 5px;
+    margin: 2px;
 }
 
 ul ul {
-    padding: 5px;
+    padding: 0;
+}
+
+ul ul li {
+    font-style: italic;
+    border-bottom: 1px solid black;
+    padding: 4px;
 }
 
 ul ul ul {
@@ -19,16 +24,23 @@ ul ul ul {
     border: 0 none;
 }
 
-ul ul li {
-    background-color: lightgreen;
-    border-bottom: 1px solid black;
-    padding: 3px;
+ul ul ul li {
+    font-style:  italic;
+    padding: 4px;
+    display: inline;
 }
 
+ul ul ul li:before {
+    content: "&bull";
+}
+
+h1 {
+    width: 100%;
+}
 
 h1,h2,h3,h4,h5,h6{
-    width: 100%;
     border: 1px solid black;
-    border-width: 0 1px;
+    border-width: 1px 0;
     background-color: lightblue;
+    padding-left: 8px;
 }
