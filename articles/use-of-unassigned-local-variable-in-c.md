@@ -31,4 +31,4 @@ if (condtion)
 Console.WriteLine(<u>myvar</u>);
 </pre>
 <br />
-This code works. &nbsp;Be aware that now you are responsible for assigning a value or you will get a null reference exception. &nbsp;To be on the safer side, I only initialize a variable to null when I have reviewed the following code and I am satisfied that I will not get a null reference exception.<br />
+This code works. Be aware that now you are responsible for assigning a value or you will get a null reference exception. To be on the safer side, I only initialize a variable to null when I have reviewed the following code and I am satisfied that I will not get a null reference exception.<br />

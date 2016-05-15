@@ -3,6 +3,10 @@ layout: default
 title: Geeks Research And Xplain
 ---
 
+### Latest Improvements
+
+* Improve Your Code: [Ridiculously Easy Scheduled Azure Web Jobs](/2015/12/ridiculously-easy-scheduled-azure)
+
 ### Continuous Improvement of Your Life
 
 * [On Success](/2014/01/on-success)
@@ -35,12 +39,16 @@ title: Geeks Research And Xplain
 
 ### Software Projects
 
-* Interpolation Format Provider &bull; [NuGet](/) &bull; [GitHub](/)
+* OrderByString &bull; [Source](https://github.com/Grax32/OrderByString/) &bull; [NuGet](https://www.nuget.org/packages/OrderByString/) &bull; [Web Site](https://github.com/Grax32/OrderByString/)
+  * Use strings in OrderBy/ThenBy statements
+* EasyResource &bull; [Source](https://github.com/Grax32/Easy-Resources) &bull; [NuGet](https://www.nuget.org/packages/EasyResource/) &bull; [Web Site](https://github.com/Grax32/Easy-Resources)
+  * Easily retrieve embedded resources from assemblies
+* Interpolation Format Provider &bull; [Source](https://github.com/Grax32/InterpolationFormatProvider/) &bull; [NuGet](https://www.nuget.org/packages/InterpolationFormatProvider/) &bull; [Web Site](https://github.com/Grax32/InterpolationFormatProvider/)
   * A string format provider for .NET
-* fFastInjector &bull; [NuGet](/) &bull; [CodePlex](/)
-  * High-speed, compact, and portable dependency injector for .NET Windows 8 apps, Windows Phone 8, .NET 4.0 and higher
-* fFastMapper &bull; [NuGet](/) &bull; [CodePlex](/)
-  * High-speed, compact, and portable object mapper for .NET Windows 8 apps, Windows Phone 8, .NET 4.0 and higher
+* fFastInjector 1.0.1 &bull; [Source](https://ffastinjector.codeplex.com/) &bull; [NuGet](https://www.nuget.org/packages/fFastInjector/) &bull; [Web Site](https://ffastinjector.codeplex.com/SourceControl/latest)
+  * High-speed, compact, and portable dependency injector for .NET 4.0+, Windows 8/10 apps, Windows Phone 8/10 and newer.
+* fFastMapper &bull; [Source](https://ffastmapper.codeplex.com/SourceControl/latest) &bull; [NuGet](https://www.nuget.org/packages/fFastMapper/) &bull; [Web Site](https://ffastmapper.codeplex.com/)
+  * High-speed, compact, and portable object mapper for .NET 4.0+, Windows 8/10 apps, Windows Phone 8/10 and newer.
 
 ### [Foo Network](http://foo.network/) - Video Projects
 

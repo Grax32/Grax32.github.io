@@ -7,6 +7,15 @@ header a {
     color: white;
 }
 
+.bs-docs-header {
+    background-color: #222233;
+    color: white;
+}
+
+.bs-docs-header h1{
+    border-top-width: 0;
+}
+
 .bs-docs-header p {
     font-style: italic;
     padding-left: 25px;    
@@ -25,6 +34,7 @@ ul {
 
 li {
     margin: 2px;
+    font-weight: bold;
 }
 
 ul ul {
@@ -34,6 +44,9 @@ ul ul {
 ul ul li {
     font-style: italic;
     padding: 4px;
+    padding-top: 0px;
+    margin-top: 1px;
+    font-weight: normal;
 }
 
 ul ul ul {
@@ -42,10 +55,10 @@ ul ul ul {
 
 ul ul ul li {
     font-style:  italic;
-    padding: 4px;
     display: inline;
     border: 0 none;
-    background-color: #EEEEEE;
+    background-color: #FFFFEE;
+    padding: 4px;
 }
 
 ul ul ul li:before {
@@ -53,12 +66,12 @@ ul ul ul li:before {
     font-size: 1.5em;
 }
 
-h1,h2,h3,h4,h5,h6{
-    border: 0 solid #9C2123;
-    border-top-width: 1px;
-    border-bottom-width: 3px;
-    background-color: #EEEEEE;
-    color: black;
+h1,h2,h3,h4,h5,h6 {
+    border: 0 solid black;
+    border-top-width: 2px;
+    border-bottom-width: 4px;
+    background-color: #222233;
+    color: white;
     padding-left: 8px;
     padding-top: 13px;
 }
@@ -68,3 +81,10 @@ h1 {
     padding: 15px;
 }
 
+h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
+    color: oldlace;
+}
+
+.bs-docs-nav {
+    margin-bottom: 1px;
+}

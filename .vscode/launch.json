@@ -3,14 +3,13 @@
     "configurations": [
         {
             "name": "Launch",
-            "type": "node",
+            "type": "jekyll",
             "request": "launch",
-            "program": "${workspaceRoot}/app.js",
             "stopOnEntry": false,
-            "args": [],
+            "args": ["serve"],
             "cwd": "${workspaceRoot}",
             "preLaunchTask": null,
-            "runtimeExecutable": null,
+            "runtimeExecutable": "c:\\tools\\ruby22\\bin\\jekyll",
             "runtimeArgs": [
                 "--nolazy"
             ],
