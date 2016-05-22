@@ -1,3 +1,7 @@
+---
+title: About David Walker
+name: about
+---
 
 ## About David Walker
 

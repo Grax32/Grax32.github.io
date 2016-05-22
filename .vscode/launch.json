@@ -1,36 +1,14 @@
 {
-    "version": "0.2.0",
+    "version": "0.1.0",
     "configurations": [
         {
-            "name": "Launch",
-            "type": "jekyll",
+            "name": "View Jekyll Site",
+            "type": "chrome",
             "request": "launch",
-            "stopOnEntry": false,
-            "args": ["serve"],
-            "cwd": "${workspaceRoot}",
-            "preLaunchTask": null,
-            "runtimeExecutable": "c:\\tools\\ruby22\\bin\\jekyll",
-            "runtimeArgs": [
-                "--nolazy"
-            ],
-            "env": {
-                "NODE_ENV": "development"
-            },
-            "externalConsole": false,
-            "sourceMaps": false,
-            "outDir": null
-        },
-        {
-            "name": "Attach",
-            "type": "node",
-            "request": "attach",
-            "port": 5858,
-            "address": "localhost",
-            "restart": false,
-            "sourceMaps": false,
-            "outDir": null,
-            "localRoot": "${workspaceRoot}",
-            "remoteRoot": null
+            "url": "http://localhost:4000/",
+            "webRoot": "${workspaceRoot}",
+            "sourceMaps": true,
+            "preLaunchTask": "Serve"
         }
     ]
 }

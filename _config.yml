@@ -34,3 +34,17 @@ exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffe
 
 gems: [jekyll-sitemap]
 
+collections:
+  home_page_sections:
+    output: true
+    permalink: /home/:path/
+    
+defaults:
+    scope:
+        path: ""
+        type: home_page_sections
+    values:
+        layout: pages
+
+section_pre: "<section class='col-md-4'>"
+section_post: "</section>"
