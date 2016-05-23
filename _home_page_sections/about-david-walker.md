@@ -3,7 +3,7 @@ title: About David Walker
 name: about
 ---
 
-## About David Walker
+### About David Walker
 
 * Software Architect/Developer
   * Professional Scrum Master Level 1 [Scrum.org](http://www.scrum.org/)
