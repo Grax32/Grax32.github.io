@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r"
         crossorigin="anonymous">
     <link rel="stylesheet" href="/stylesheets/pygment_trac.css" />
-    <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css">
+    <link rel="stylesheet" type="text/css" href="/stylesheets/resume.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -24,17 +24,19 @@
 </head>
 
 <body>
-    <header>
-        <h1>{{ page.title }}</h1>
-        <hr />
-    </header>
+    <div class="container resume-container">
+        <header class="row">
+            <div class="page-title col-md-4 col-xs-6">
+                {{ page.title }}
+            </div>
+            <div class="col-md-4 col-xs-4">{{ page.subtitle }}</div>
+        </header>
 
-    <section class="col-md-10">
-        {{content}}
-    </section>
-    <section class="col-md-2">
-        More stuff over here
-    </section>
+        <section class="col-md-12">
+            {{content}}
+        </section>
+
+    </div>
     <script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
         crossorigin="anonymous"></script>

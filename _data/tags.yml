@@ -1,0 +1,7 @@
+team:
+  slug: team
+  name: Team
+  
+software:
+  slug: software
+  name: Software Projects

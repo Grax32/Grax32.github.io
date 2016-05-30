@@ -1,0 +1,18 @@
+---
+title: Categories
+permalink: /category
+---
+<html><body>
+<h1>Categories</h1>
+<hr/>
+
+{% for data_tag_entry in site.data.tags %}
+{% assign data_tag_slug = data_tag_entry[0] %}
+{% assign data_tag = data_tag_entry[1] %}
+
+Tag: <a href="/category/{{ data_tag.slug }}">{{ data_tag.name }}</a><br/>
+
+{% endfor %}
+
+
+</body></html>

@@ -46,5 +46,3 @@ defaults:
     values:
         layout: pages
 
-section_pre: "<section class='col-md-4'>"
-section_post: "</section>"
