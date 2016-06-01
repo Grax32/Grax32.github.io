@@ -2,6 +2,8 @@
 layout: pages
 permalink: /2015/12/ridiculously-easy-scheduled-azure.html
 title: Ridiculously Easy Scheduled Azure WebJobs
+tags: 
+ - coding
 ---
 If you are hosting on Azure, you might have been introduced to WebJobs. &nbsp;WebJobs are great for performing background or batch tasks.
 

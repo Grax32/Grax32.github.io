@@ -3,7 +3,7 @@ title: Continuous Improvement of Your Code
 name: code
 ---
 
-### Continuous Improvement of Your Code
+### [Continuous Improvement of Your Code](/improve/your/coding)
 
 * [Strongly-Typed ViewData, Session, and Application Variables - ASP.NET, C#](/2013/06/simple-strongly-typed-pattern-for)
   * Reduce errors, enhance refactorability, enable intellisense with strongly-typed properties

@@ -8,10 +8,8 @@ name: foo
 * Original Creations
   * Geeks Research And eXplain - Explaining the mysterious parts of the tech world
     * [Mads Kristensen Interview](https://www.youtube.com/watch?v=73-CqZEF7Ak&feature=youtu.be)
-    * [Redundant Web Hosting with a Cluster of Raspbery Pi](/)
   * Retro Notes - Doing retrospectives about whatever
     * [Nebraska.Code 2015 Retrospective](https://www.youtube.com/watch?v=AWard2V9tVY)
-    * [Tesla Model X Retrospective](/)
     
 * Recommendations
   * [HanselMinutes](http://hanselminutes.com/) Fresh Air for Developers

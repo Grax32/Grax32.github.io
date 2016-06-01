@@ -3,7 +3,7 @@ title: Software Projects
 name: projects
 ---
 
-### Software Projects
+### [Software Projects](/software/projects)
 
 * OrderByString &bull; [Source](https://github.com/Grax32/OrderByString/) &bull; [NuGet](https://www.nuget.org/packages/OrderByString/) &bull; [Web Site](https://github.com/Grax32/OrderByString/)
   * Use strings in OrderBy/ThenBy statements.

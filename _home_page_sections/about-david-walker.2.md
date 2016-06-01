@@ -3,7 +3,7 @@ title: About David Walker
 name: about-2
 ---
 
-* Movie/Video Maker
+* Video Maker
   * [Foo Network](http://foo.network/)
 * Internet personality
   * [Twitter](https://twitter.com/grax)

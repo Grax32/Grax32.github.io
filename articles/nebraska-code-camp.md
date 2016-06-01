@@ -2,6 +2,8 @@
 layout: pages
 permalink: /2012/03/nebraska-code-camp.html
 title: Nebraska Code Camp
+tags:
+ - opinion
 ---
 Don't miss my Nebraska Code Camp session on Augmented Reality with Microsoft's Kinect for Windows.  I will be talking about the commercial API for the Kinect.  (The description was written before the commercial API was released)<br />
 <br />

@@ -26,6 +26,10 @@ a {
     color: #9C2123;   
 }
 
+h3 a {
+    font-weight: normal;
+}
+
 ul {
     list-style-type: none;
     list-style-position: inside;
@@ -87,4 +91,13 @@ h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
 
 .bs-docs-nav {
     margin-bottom: 1px;
+}
+
+h3 {
+    padding: 10px;
+}
+
+img {
+    border: 2px solid white;
+    border-radius: 25px;
 }

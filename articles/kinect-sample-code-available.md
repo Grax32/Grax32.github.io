@@ -2,6 +2,8 @@
 layout: pages
 permalink: /2012/02/kinect-sample-code-available.html
 title: Kinect sample code available
+tags: 
+ - coding
 ---
 
 Here is the code the goes along with my January 25 presentation titled "Augmented Reality with the Kinect" at the Lincoln .NET Users Group.

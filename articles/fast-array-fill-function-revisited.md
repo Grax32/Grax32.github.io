@@ -2,6 +2,8 @@
 layout: pages
 permalink: /2013/06/fast-array-fill-function-revisited.html
 title: Fast array fill function (revisited)
+tags:
+ - coding
 ---
 Update: &nbsp;A reader ( <a class="g-profile" href="https://plus.google.com/113579231183226302374" target="_blank">+Michael Hsu</a>&nbsp;)&nbsp;posted a faster improved version at&nbsp;<a href="https://github.com/mykohsu/Extensions/blob/master/ArrayExtensions.cs">https://github.com/mykohsu/Extensions/blob/master/ArrayExtensions.cs</a>&nbsp;and I blogged about it at&nbsp;<a href="http://coding.grax.com/2014/04/better-array-fill-function.html">http://coding.grax.com/2014/04/better-array-fill-function.html</a><br />
 <br />

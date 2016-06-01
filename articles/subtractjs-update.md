@@ -2,6 +2,8 @@
 layout: pages
 permalink: /2013/12/subtractjs-update.html
 title: SubtractJS Update
+tags:
+ - software
 ---
 Some of you already know how amazing SubtractJS 1.0 is, but now I have something else to add to it.  With SubtractJS 1.0.1, you can add an additional class "sj-margin-box-model" to make it easy to set up percentage-based sections.
 

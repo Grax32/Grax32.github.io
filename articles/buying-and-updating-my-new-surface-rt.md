@@ -2,6 +2,8 @@
 layout: pages
 permalink: /2013/12/buying-and-updating-my-new-surface-rt.html
 title: Buying and Updating My New Surface RT Tablet
+tags:
+ - opinion
 ---
 <div>
 This has been a great year for me for getting new or updated electronic devices. &nbsp;When I saw the Black Friday special for the $199 Surface RT 32GB, I decided it was time to buy.</div>

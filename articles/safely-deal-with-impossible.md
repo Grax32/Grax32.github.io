@@ -2,6 +2,8 @@
 layout: pages
 permalink: /2014/09/safely-deal-with-impossible.html
 title: Safely deal with the impossible
+tags:
+ - coding
 ---
 I wanted to point out this little hidden coding gem from Ted Neward's column in the <a href="http://msdn.microsoft.com/en-us/magazine/dn781363.aspx">September 2014 issue of MSDN Magazine</a>.<br />
 <br />

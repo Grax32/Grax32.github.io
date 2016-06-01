@@ -2,6 +2,8 @@
 layout: pages
 permalink: /2014/10/tiny-template-engine-pattern-that-you.html
 title: Tiny Template Engine Pattern That You Can Remember
+tags:
+ - coding
 ---
 <b>Edit</b>: Updated with working code samples for JavaScript and C#. &nbsp;See also string interpolation.<br />
 <br />

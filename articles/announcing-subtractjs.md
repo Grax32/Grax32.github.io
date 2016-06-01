@@ -2,6 +2,8 @@
 layout: pages
 permalink: /2013/12/announcing-subtractjs.html
 title: Announcing SubtractJS
+tags: 
+ - software
 ---
 <h4>
 Quick Summary:</h4>

@@ -2,6 +2,8 @@
 layout: pages
 permalink: /2015/03/trimming-all-strings-submitted-to-aspnet.html
 title: Trimming all strings submitted to ASP.NET
+tags:
+ - coding
 ---
 <b>"Usernames cannot end with a space." 
 You had the time to code that error message, but not the time to call trim()?</b><br />

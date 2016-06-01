@@ -2,6 +2,8 @@
 layout: pages
 permalink: /2014/10/combining-function-expressions-in-c.html
 title: Combining Function Expressions in C# using a ReplacementVisitor
+tags:
+ - coding
 ---
 When working with expressions, I often want to combine multiple expressions into one. &nbsp;Using a ReplacementVisitor enables me to do that.<br />
 <h3>

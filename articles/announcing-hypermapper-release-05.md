@@ -2,6 +2,7 @@
 layout: pages
 permalink: /2013/04/announcing-hypermapper-release-05.html
 title: Announcing fFastMapper release 0.5
+tags: [ software ]
 ---
 (Sorry for any confusion. The name HyperMapper is trademarked by another organization, so I had to change it).<br />
 <br />

@@ -2,6 +2,8 @@
 layout: pages
 permalink: /2012/03/kinect-sample-code-from-code-camp.html
 title: Kinect sample code from Code Camp
+tags:
+ - coding
 ---
 I have posted my code from Nebraska Code Camp.  The most significant change is that I am using shaders to merge the multiple layers I am creating.<br />
 <br />

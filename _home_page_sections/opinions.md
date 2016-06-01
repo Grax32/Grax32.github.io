@@ -3,10 +3,9 @@ title: Opinions
 name: opinions
 ---
 
-### Opinions
+### [Opinions](/here/is/my/opinion)
 
-* [Female Code Camp Speakers](/)
+* [Orlando's Melrose Technology Center Rocks](/2014/04/orlandos-melrose-technology-center-rocks.html)
+  * The public library in Orlando has an amazing facility for Makers of many varieties.  Individual Audio/Video, group Audio/Video, 3D printing, meeting places, and classes are all available.
+* [Female Code Camp Speakers](/2014/03/female-code-camp-speakers.html)
   * It is upsetting when technical events seem to be excluding people based on non-technical criteria such as gender, race, sexual orientation, etc.  However; it is unfair to rant, point fingers, or call names without giving the organizers a fair chance to correct things.
-* [The Computer Doesn't Know You're Gay...](/)
-  * or black, white, tall, short, skinny, fat, cute, ugly, or ordinary. The computer works or doesn't work based on the inputs it is given.  It has no bias for or against anyone.
-

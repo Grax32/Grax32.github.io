@@ -2,6 +2,8 @@
 layout: pages
 permalink: /2015/01/orderbystring-enables-string-search.html
 title: OrderByString enables string search parameters in LINQ OrderBy clauses
+tags:
+ - coding
 ---
 Here is something new to play with. &nbsp;I just released a package that adds commands for OrderBy that take strings for property name and direction.<br />
 <br />

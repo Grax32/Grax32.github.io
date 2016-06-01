@@ -35,14 +35,24 @@ exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffe
 gems: [jekyll-sitemap]
 
 collections:
-  home_page_sections:
+  tags:
     output: true
-    permalink: /home/:path/
+    permalink: /improve/your/:path/
+    
+  home_page_sections:
+    output: false
     
 defaults:
+  -
     scope:
-        path: ""
+        path: blank
         type: home_page_sections
     values:
-        layout: pages
-
+        layout: ""
+  -
+    scope:
+        path: ""
+        type: tags
+    values:
+        layout: category
+ 
