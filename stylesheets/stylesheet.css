@@ -109,9 +109,6 @@ p {
   margin: 10px 0 15px 0;
 }
 
-footer p {
-  color: #f2f2f2;
-}
 
 a {
   text-decoration: none;
@@ -448,4 +445,11 @@ Small Device Styles
 
 .grax-content-pane p:first-of-type {
   font-size: 1.2em;
+}
+
+.grax-author-pane {
+  background-color: #FEFEFE;
+  border: 1px solid #D0D0D0;
+  border-top-width: 0; 
+  font-style: italic;  
 }

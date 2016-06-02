@@ -41,6 +41,9 @@ collections:
     
   home_page_sections:
     output: false
+  
+  authors:
+    output: false
     
 defaults:
   -

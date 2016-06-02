@@ -1,5 +1,5 @@
 <html>
-
+{% assign author = page.author | default: "dwalker" %}
 <head>
     <title>{{ page.title }}</title>
 
@@ -11,12 +11,12 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:description" content="Continuously Improve Yourself, Your Team, and Your Code" />
-    <meta property="og:image" content="{{ site.url }}{{ page.ogImage | default: "/images/grax-logo.jpg" }}" />
+    <meta property="og:image" content="{{ site.url }}{{ page.ogImage | default: " /images/grax-logo.jpg " }}" />
 
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
         crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r"
-        crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"
+        integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css" />
     <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css">
 
@@ -44,6 +44,11 @@
             pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
             laborum.
         </section>
+    </div>
+    <div class="row">
+        <footer class="col-md-10 grax-author-pane">
+             {{ site.authors | where:"name", author | map: "output" | first }}
+        </footer>
     </div>
     <script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
