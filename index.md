@@ -4,8 +4,12 @@ title: Geeks Research And Xplain
 ---
 
 <section class="row">
-  <section class="col-md-12">
-    {{ site.home_page_sections | where:"name", "latest" | map: "output" | first }}
+  <section class="col-md-12"><h3>Latest Improvements</h3></section>
+  <section class="col-md-6">
+    {{ site.home_page_sections | where:"name", "latest-1" | map: "output" | first }}
+  </section>
+  <section class="col-md-6">
+    {{ site.home_page_sections | where:"name", "latest-2" | map: "output" | first }}
   </section>
 </section>
 

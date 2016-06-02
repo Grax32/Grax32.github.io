@@ -101,3 +101,8 @@ img {
     border: 2px solid white;
     border-radius: 25px;
 }
+
+img.plain {
+    border: 0 none;
+    border-radius: 0%;
+}
