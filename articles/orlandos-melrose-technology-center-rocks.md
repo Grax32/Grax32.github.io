@@ -4,6 +4,7 @@ permalink: /2014/04/orlandos-melrose-technology-center-rocks.html
 title: Orlando's Giant Melrose Technology Center is a Maker's Paradise 
 tags: 
  - opinion
+ogImage: /articles/images/melrose-center.jpg
 ---
 
 <style>

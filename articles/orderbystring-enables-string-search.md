@@ -3,7 +3,7 @@ layout: pages
 permalink: /2015/01/orderbystring-enables-string-search.html
 title: OrderByString enables string search parameters in LINQ OrderBy clauses
 tags:
- - coding
+ - software
 ---
 Here is something new to play with. &nbsp;I just released a package that adds commands for OrderBy that take strings for property name and direction.<br />
 <br />
@@ -22,4 +22,6 @@ Since these commands parse the strings and then call the standard IQueryable/IEn
 <br />
 <br />
 <br />
-Get or review the source at&nbsp;<a href="https://github.com/Grax32/OrderByString" rel="nofollow" style="border: 0px; color: #0c65a5; cursor: pointer; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 19.5px; margin: 0px; padding: 0px; text-decoration: none;">https://github.com/Grax32/OrderByString</a>&nbsp;and install the NuGet package from&nbsp;<a href="https://www.nuget.org/packages/OrderByString/" rel="nofollow" style="border: 0px; color: #0c65a5; cursor: pointer; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 19.5px; margin: 0px; padding: 0px; text-decoration: none;">https://www.nuget.org/packages/OrderByString/</a><br />
+Get or review the source at&nbsp;<a href="https://github.com/Grax32/OrderByString" rel="nofollow" style="border: 0px; color: #0c65a5; cursor: pointer; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 19.5px; margin: 0px; padding: 0px; text-decoration: none;">https://github.com/Grax32/OrderByString</a><br/>
+<br/>
+Install the NuGet package from&nbsp;<a href="https://www.nuget.org/packages/OrderByString/" rel="nofollow" style="border: 0px; color: #0c65a5; cursor: pointer; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; line-height: 19.5px; margin: 0px; padding: 0px; text-decoration: none;">https://www.nuget.org/packages/OrderByString/</a><br />

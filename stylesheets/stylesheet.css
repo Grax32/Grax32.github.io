@@ -436,3 +436,16 @@ Small Device Styles
   }
 
 }
+
+/*
+  Specialized customizations
+*/
+
+.grax-content-pane {
+  background-color: #FEFEFE;
+  border: 1px solid #D0D0D0;  
+}
+
+.grax-content-pane p:first-of-type {
+  font-size: 1.2em;
+}

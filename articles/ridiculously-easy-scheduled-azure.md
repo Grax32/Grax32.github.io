@@ -61,7 +61,7 @@ You should now have a folder that looks like this:
 </div>
 Each of those 3 files has the "Build Action" set to "Content" and the "Copy to Output Directory" set to "Do not copy".
 
-#### And ... we're done.
+<h4>And ... we're done.</h4>
 
 Now we just need to publish to an Azure instance.
 
