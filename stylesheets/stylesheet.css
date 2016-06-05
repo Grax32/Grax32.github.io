@@ -453,3 +453,22 @@ Small Device Styles
   border-top-width: 0; 
   font-style: italic;  
 }
+
+.grax-navigation-pane {
+  background-color: whitesmoke;
+  font-size: .9em;
+  padding: 15px;
+}
+
+.grax-navigation-pane ul {
+  list-style-type: none;
+  padding-left: 5px;
+}
+
+b {
+  font-weight: bold;
+}
+
+i {
+  font-style: italic;
+}

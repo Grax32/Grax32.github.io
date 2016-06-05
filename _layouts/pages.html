@@ -38,11 +38,15 @@
             {{content}}
         </section>
         <section class="col-md-2 grax-navigation-pane">
-            <b>Lorem ipsum</b> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-            commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est
-            laborum.
+            <a href="/">Home</a><br/>
+            <a href="/improve/your/life">Improve Your Life</a><br/>
+            <a href="/improve/your/team">Improve Your Team</a><br/>
+            <a href="/improve/your/code">Improve Your Code</a><br/>
+            <a href="/here/is/my/opinion">Opinion</a><br/>
+            <a href="/software/projects">Software Projects</a><br/>
+            <a href="http://foo.network/">Foo Network</a><br/>
+            <hr />
+            {{ site.page_sections | where:"category", page.category | map: "output" | first }}
         </section>
     </div>
     <div class="row">

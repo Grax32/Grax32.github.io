@@ -4,6 +4,7 @@ permalink: /2014/03/female-code-camp-speakers.html
 title: Female Code Camp Speakers?
 tags: 
  - opinion
+category: opinions
 ---
 Yesterday was the first day of 4th annual Nebraska Code Camp. &nbsp;It is an opportunity for developers of all types to meet, learn, and network with each other.<br />
 <br />

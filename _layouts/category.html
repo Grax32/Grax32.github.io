@@ -23,24 +23,39 @@
     <title>{{ page.title }}</title>
 </head>
 
-<body>
-    <header>
+<body class="container">
+    <header class="row">
         <h1>{{ page.title }}</h1>
         <hr />
     </header>
 
-    <section class="col-md-12">
-        {{content}}
-        
-        {% assign sitePages = site.pages }
-        {% sitePages | sort: "permalink", "first" %}
-        {% for sitePage in sitePages reversed %} 
-            {% if sitePage.tags contains page.slug %}
-                <a href="{{ sitePage.url | replace: ".html", "" }}">{{ sitePage.title }}</a><br/> 
-            {% endif %} 
-        {% endfor %}
-    </section>
+<!--
+    {% assign sitePages = site.pages } 
+    {% sitePages | sort: "permalink", "first" %}
+    -->
 
+    <div class="row">
+        <section class="col-md-10">
+            {{content}} 
+            {% assign content = content | strip %}
+            {% if content != "" %}
+              <hr/>
+            {% endif %}
+             {% for sitePage in sitePages
+            reversed %} {% if sitePage.tags contains page.slug %}
+            {% assign sitePageUrl = sitePage.url | replace: ".html", "" %}
+            <a href="{{ sitePageUrl }}">{{ sitePage.title }}</a><br/> {% endif %} {% endfor %}
+        </section>
+        <section class="col-md-2 grax-navigation-pane">
+            <a href="/">Home</a><br/>
+            <a href="/improve/your/life">Improve Your Life</a><br/>
+            <a href="/improve/your/team">Improve Your Team</a><br/>
+            <a href="/improve/your/code">Improve Your Code</a><br/>
+            <a href="/here/is/my/opinion">Opinion</a><br/>
+            <a href="/software/projects">Software Projects</a><br/>
+            <a href="http://foo.network/">Foo Network</a><br/>
+        </section>
+    </div>
     <script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
         crossorigin="anonymous"></script>

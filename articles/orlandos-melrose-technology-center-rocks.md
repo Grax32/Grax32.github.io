@@ -5,14 +5,14 @@ title: Orlando's Giant Melrose Technology Center is a Maker's Paradise
 tags: 
  - opinion
 ogImage: /articles/images/melrose-center.jpg
+category: opinions
 ---
 
 <style>
-h3 {
+.grax-content-pane h3 {
  clear: both;
  background: lightblue;
  display: block;
- width: 90%;
  margin: 10px;
  margin-left: 0px;
  padding-left: 10px;
@@ -22,7 +22,6 @@ h3.post-title{
 }
 </style>
 
-<br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://1.bp.blogspot.com/-aLyRBLcTd9o/U2AGNSqd-MI/AAAAAAAAl9Y/KFIOb_tyb6Y/s1600/WP_20140426_001.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-aLyRBLcTd9o/U2AGNSqd-MI/AAAAAAAAl9Y/KFIOb_tyb6Y/s1600/WP_20140426_001.jpg" height="200" width="112" /></a></div>
 I just returned from my vacation to Orlando, Florida. &nbsp;This time we did things a little different and skipped the Disney and Universal parks. &nbsp;We visited some museums, Leu Gardens, Gatorland, the Merritt Island Manatee Overlook, and a couple of beaches. &nbsp;But one of the most exciting things we saw was the <a href="http://tic.ocls.info/">Dorothy Lumley Melrose Technology Center</a>.<br />

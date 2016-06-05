@@ -12,11 +12,11 @@ TLDR: 2 CSS Gotchas today.  First, the default CSS box model will cause an overf
 <br />
 Here we have a simple box with 2 boxes inside of it.  Each of the boxes are 50% high, which using normal math would be 100% but we are using CSS math.<br />
 <br />
-<div style="background: gray; border: 1px solid black; height: 200px; overflow: auto; position: relative; width: 300px;">
-<div style="background: red; border: 1px solid black; height: 50%; margin: 0; padding: 2px; width: 100%;">
+<div style="background: gray; border: 1px solid black; height: 200px; overflow: auto; position: relative; width: 300px; box-sizing: content-box;">
+<div style="background: red; border: 1px solid black; height: 50%; margin: 0; padding: 2px; width: 100%; box-sizing: content-box;">
 1
 </div>
-<div style="background: green; border: 1px solid black; height: 50%; margin: 0; padding: 2px; width: 100%;">
+<div style="background: green; border: 1px solid black; height: 50%; margin: 0; padding: 2px; width: 100%; box-sizing: content-box;">
 2
 </div>
 </div>

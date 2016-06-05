@@ -9,8 +9,8 @@ tags:
 <br />
 Let's say you have a bunch of property values and you need a simple template engine. &nbsp;Here is a fairly simple pattern that you can memorize to make a templating function for almost any language.<br />
 <br />
-1. &nbsp;Determine your delimiters. &nbsp;The pattern I am outlining only works with distinct start and end delimiters. &nbsp;For example, "{{" for start and "}}" for end. &nbsp;Your template will resemble <br />
-<pre>"<span style="background-color: #eeeeee;">The quick {{Color}} {{Animal}} jumped over the lazy dog</span>"</pre>
+1. &nbsp;Determine your delimiters. &nbsp;The pattern I am outlining only works with distinct start and end delimiters. &nbsp;For example, "\{\{" for start and "\}\}" for end. &nbsp;Your template will resemble <br />
+<pre>"<span style="background-color: #eeeeee;">The quick {% raw %}{{Color}} {{Animal}}{% endraw %} jumped over the lazy dog</span>"</pre>
 and that would yield the output of "<span style="background-color: #eeeeee;">The quick brown fox jumped over the lazy dog</span>" for the input of <span style="background-color: #eeeeee;">{Animal: fox, Color: brown}</span>.  &nbsp;Any delimiters will work as long as they are not contained in your template string (adding escaping is an exercise for some other time. &nbsp;For now, just don't use delimiters that appear in your template text.)<br />
 <br />
 2. &nbsp;Split the template on the start delimiter. &nbsp;Store the resulting array of fragments in a variable.<br />
@@ -25,12 +25,12 @@ Here is some pseudo-code demonstrating the concepts<br />
 <br />
 <pre>var returnValue = "";
 
-var templateFragments = template.Split("{{");
+var templateFragments = template.Split({% raw %}"{{"{% endraw %});
 
 returnValue&nbsp;+= templateFragments[0];
 
 for (var i = 1; i &lt; templateFragments.Length; i++) {
-&nbsp; &nbsp; &nbsp;var fragmentSections = templateFragments[i].Split("}}", 2);
+&nbsp; &nbsp; &nbsp;var fragmentSections = templateFragments[i].Split({% raw %}"}}"{% endraw %}, 2);
 &nbsp; &nbsp; &nbsp;returnValue&nbsp;+= properties[fragmentSections[0]];
 &nbsp; &nbsp; &nbsp;returnValue&nbsp;+= fragmentSections[1];
 }

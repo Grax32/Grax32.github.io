@@ -13,8 +13,9 @@ ReplacementVisitor is a memorable pattern* for C#. &nbsp;I first saw it somewher
 <pre>&nbsp; &nbsp; &nbsp; &nbsp; public class ReplaceVisitor : ExpressionVisitor
 &nbsp; &nbsp; &nbsp; &nbsp; {
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Expression _left;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Expression _right;</pre>
-<pre>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; public ReplaceVisitor(Expression left, Expression right)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Expression _right;
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; public ReplaceVisitor(Expression left, Expression right)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; {
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _left = left;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; _right = right;
@@ -40,9 +41,10 @@ I usually like to pair this with a function that encapsulates the replacement op
 &nbsp; &nbsp; &nbsp; &nbsp; }
 
 </pre>
-<pre><h3 style="font-family: 'Times New Roman'; white-space: normal;">
+
+<h3 style="font-family: 'Times New Roman'; white-space: normal;">
 Expression Composition</h3>
-</pre>
+
 Now there are lots of different ways to combine function expressions but I am going to demonstrate a fairly direct combination pattern.
 <br />
 <br />

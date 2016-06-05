@@ -4,6 +4,7 @@ permalink: /2014/04/better-array-fill-function.html
 title: Better Array Fill Function
 tags:
  - coding
+category: coding
 ---
 So last week, <a class="g-profile" href="https://plus.google.com/113579231183226302374" target="_blank">+Michael Hsu</a>&nbsp;visited my blog and took my array fill function and <a href="https://github.com/mykohsu/Extensions/blob/master/ArrayExtensions.cs">made it better</a>.<br />
 <br />
