@@ -3,7 +3,7 @@ title: Foo Network
 name: foo
 ---
 
-### [Foo Network](http://foo.network/) - Video Projects
+### [Foo Network](http://foonetwork.space/) - Video Projects
 
 * Original Creations
   * Geeks Research And eXplain - Explaining the mysterious parts of the tech world
