@@ -11,6 +11,5 @@ name: code
   * How often do you really need a leading or trailing spaces in an input field?
 * [Quickly Fill an Array With a Value (or Pattern of Values) - C#](/2014/04/better-array-fill-function)
   * Set all values in an int array to -1, set all strings to "BLANK", initialize all pixels to light blue
-* [Introduction to Generic Coding - C#](/)
-  * An Introduction to C# Generic Coding
+
     
