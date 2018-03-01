@@ -45,7 +45,7 @@ so this undoes Alex's change.
 
 Id | FirstName | LastName | PhoneNumber
 ----|---|---|---
-5|Marco|Polo(*Reverts Alex's change*)|555-555-1234
+5|Marco|Polo(*Reverts Alex's change*)|555-555-9999
 
 ## Fixing the Problem
 
@@ -63,7 +63,7 @@ Now let us revisit our situation with Alex and Betty, but with optimistic concur
 
 Again starting with a row containing the values:
 
-Id | FirstName | LastName | PhoneNumber,RowVersion
+Id | FirstName | LastName | PhoneNumber|RowVersion
 ----|---|---|---|---
 5|Marco|Polo|555-555-1234|17
 
@@ -72,14 +72,15 @@ Alex opens a screen containing the data from that row and Betty opens a screen c
 Alex changes the LastName to Lauren and saves the record.  This update causes the RowVersion
 to change to 27 (assuming other activity in the database) and the record now looks like the following:  .
 
-Id | FirstName | LastName | PhoneNumber,RowVersion
+Id | FirstName | LastName | PhoneNumber|RowVersion
 ----|---|---|---|---
 5|Marco|Lauren|555-555-1234|27
 
 
 Betty changes the PhoneNumber to 555-555-9999 and attempts to save the record while referencing the RowVersion of 17.  
 Because the current RowVersion value is 27, the update fails.  Betty is informed that her update failed and she must
-refresh and redo the update based on the updated data.
+refresh and redo the update based on the updated data.  When she refreshes, she gets the updated LastName value and 
+then she can save safely without overwriting someone else's change.
 
 ## Summary
 
