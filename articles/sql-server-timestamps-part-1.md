@@ -18,6 +18,11 @@ To demonstrate the problem we are addressing with concurrency checks, imagine th
 columns Id, FirstName, LastName, and PhoneNumber.  We have a row in there containing the values Id=5, FirstName=Marco,
 LastName=Polo, and PhoneNumber=555-555-1234.
 
+| Id | FirstName | LastName | PhoneNumber
+|----|---|---|---
+|5|Marco|Polo|555-555-1234
+
+
 Alex opens a screen containing Id=5, FirstName=Marco,
 LastName=Polo, and PhoneNumber=555-555-1234
 Betty opens a screen containing the same data.
