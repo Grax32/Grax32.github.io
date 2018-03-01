@@ -480,5 +480,8 @@ footer table {
 footer td {
 	vertical-align: top;
 	border: 0 none;
+}
+
+footer td:nth-child(2) {
 	padding-top: 20px;
 }
