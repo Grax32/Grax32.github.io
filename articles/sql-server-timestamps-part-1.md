@@ -14,26 +14,38 @@ This value can be used to implement what is called optimistic concurrency.  With
 database implements a restriction that an update can succeed only if the row being updated has been unchanged from the
 time that the data that the update is based on was read.
 
+## The Concurrency Problem
+
 To demonstrate the problem we are addressing with concurrency checks, imagine that we are given a table that contains the
-columns Id, FirstName, LastName, and PhoneNumber.  We have a row in there containing the values Id=5, FirstName=Marco,
-LastName=Polo, and PhoneNumber=555-555-1234.
+columns Id, FirstName, LastName, and PhoneNumber.  We have the following row in there.
 
-| Id | FirstName | LastName | PhoneNumber
-|----|---|---|---
-|5|Marco|Polo|555-555-1234
+Id | FirstName | LastName | PhoneNumber
+----|---|---|---
+5|Marco|Polo|555-555-1234
 
 
-Alex opens a screen containing Id=5, FirstName=Marco,
-LastName=Polo, and PhoneNumber=555-555-1234
-Betty opens a screen containing the same data.
+Alex opens a screen containing the data from that row and Betty opens a screen containing the same data.
 
-Alex changes the LastName to Lauren and saves the record with the following values: Id=5, FirstName=Marco,
-LastName=Lauren, and PhoneNumber=555-555-1234
-Betty changes the PhoneNumber to 555-555-9999 and saves the record with these values: Id=5, FirstName=Marco,
-LastName=Polo, and PhoneNumber=555-555-9999.
+Alex changes the LastName to Lauren and saves the record with the following values: 
+Id | FirstName | LastName | PhoneNumber
+----|---|---|---
+5|Marco|Lauren|555-555-1234
+
+
+Betty changes the PhoneNumber to 555-555-9999 and saves the record with these values: 
+Id | FirstName | LastName | PhoneNumber
+----|---|---|---
+5|Marco|Polo|555-555-9999
+
 
 Since Betty retrieved the record before Alex saved the update, Betty is working with the value Polo for the LastName field
 so this undoes Alex's change.
+
+Id | FirstName | LastName | PhoneNumber
+----|---|---|---
+5|Marco|Polo(*Reverts Alex's change*)|555-555-1234
+
+## Fixing the Problem
 
 So, to address this problem, we either need to lock the record when Alex opens it (pessimistic concurrency) or block Betty's
 save on the basis that she isn't updating the latest version of that record (optimistic concurrency).  I don't want to spend
