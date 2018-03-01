@@ -472,3 +472,11 @@ b {
 i {
   font-style: italic;
 }
+
+footer table {
+	border: 0 none;
+}
+
+footer td {
+	vertical-align: top;
+}
