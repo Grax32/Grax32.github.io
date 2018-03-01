@@ -23,5 +23,5 @@ If, however, you create a method on the derived class that shares the same name 
 
 So, why is that bad?  Obviously, it isn't if that's what you want, but this is the kind of thing that can lead to mysterious bugs.  
 
-Good practice is to create a virtual method on the base class and an override method in the derived class.  It is also recommended to call the base method somewhere in the derived one, so that whatever functionality is in the base class will not be lost when overriding.
+A better practice is to create a virtual method on the base class and an override method in the derived class.  It is also recommended to call the base method somewhere in the derived one, so that whatever functionality is in the base class will not be lost when overriding.
 
