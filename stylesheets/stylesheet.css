@@ -480,4 +480,5 @@ footer table {
 footer td {
 	vertical-align: top;
 	border: 0 none;
+	padding-top: 20px;
 }
