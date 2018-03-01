@@ -27,12 +27,14 @@ Id | FirstName | LastName | PhoneNumber
 Alex opens a screen containing the data from that row and Betty opens a screen containing the same data.
 
 Alex changes the LastName to Lauren and saves the record with the following values: 
+
 Id | FirstName | LastName | PhoneNumber
 ----|---|---|---
 5|Marco|Lauren|555-555-1234
 
 
 Betty changes the PhoneNumber to 555-555-9999 and saves the record with these values: 
+
 Id | FirstName | LastName | PhoneNumber
 ----|---|---|---
 5|Marco|Polo|555-555-9999
@@ -59,19 +61,33 @@ the purposes of demonstration, I will use an integer value for the timestamp/row
 
 Now let us revisit our situation with Alex and Betty, but with optimistic concurrency.
 
-Again starting with a row containing the values Id=5, FirstName=Marco,
-LastName=Polo, PhoneNumber=555-555-1234, and RowVersion of 17.
+Again starting with a row containing the values:
 
-Alex opens a screen containing Id=5, FirstName=Marco,
-LastName=Polo, PhoneNumber=555-555-1234, and RowVersion of 17.
-Betty opens a screen containing the same data.
+Id | FirstName | LastName | PhoneNumber,RowVersion
+----|---|---|---|---
+5|Marco|Polo|555-555-1234|17
 
-Alex changes the LastName to Lauren and saves the record with the following values: Id=5, FirstName=Marco,
-LastName=Lauren, PhoneNumber=555-555-1234 and referencing RowVersion of 17.  This update causes the RowVersion
-to change to 27 (assuming other activity in the database).
+Alex opens a screen containing the data from that row and Betty opens a screen containing the same data.
 
-Betty changes the PhoneNumber to 555-555-9999 and attempts to save the record with these values: Id=5, FirstName=Marco,
-LastName=Polo, PhoneNumber=555-555-9999, referencing the RowVersion of 17.  Because the current RowVersion value is 27, the 
-update fails.  Betty is informed that her update failed and she must refresh and redo the update based on the updated data.
+Alex changes the LastName to Lauren and saves the record.  This update causes the RowVersion
+to change to 27 (assuming other activity in the database) and the record now looks like the following:  .
+
+Id | FirstName | LastName | PhoneNumber,RowVersion
+----|---|---|---|---
+5|Marco|Lauren|555-555-1234|27
+
+
+Betty changes the PhoneNumber to 555-555-9999 and attempts to save the record while referencing the RowVersion of 17.  
+Because the current RowVersion value is 27, the update fails.  Betty is informed that her update failed and she must
+refresh and redo the update based on the updated data.
+
+## Summary
+
+Optimistic concurrency is a generally a low-impact way to ensure that your users are not stepping on each other's updates and 
+undoing work that they thought they had completed.  Be aware, however, that it does not provide a great user experience 
+if your users are modifying a large amount of data in between save attempts.  In our next article, we will look at the
+actual SQL Server code for implementing optimistic integrity.  In a later article, we will cover using optimistic concurrency
+with complex object and collections.
+
 
 
