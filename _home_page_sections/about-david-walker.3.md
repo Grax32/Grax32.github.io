@@ -1,5 +1,5 @@
 ---
-title: About David Walker
+title: About The Author
 name: about-3
 ---
 
