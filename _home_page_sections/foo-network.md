@@ -13,4 +13,3 @@ name: foo
     
 * Recommendations
   * [HanselMinutes](http://hanselminutes.com/) Fresh Air for Developers
-  * [Hello Tech Pros](http://hellotechpros.com/) &bull; Motivation &bull; * Productivity &bull; Leadership &bull; Technology &bull; People &bull; Entrepreneurship &bull; Being Unplugged
