@@ -42,7 +42,7 @@ title: Geeks Research And Xplain
 </section>
 
 <section class="row">
-  <section class="col-md-12"><h3>About David Walker</h3></section>
+  <section class="col-md-12"><h3>About the Author</h3></section>
   <section class="col-md-4">
     {{ site.home_page_sections | where:"name", "about-1" | map: "output" | first }}
   </section>
