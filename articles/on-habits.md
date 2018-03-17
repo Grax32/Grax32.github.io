@@ -3,6 +3,7 @@ layout: pages
 permalink: /articles/on-habits
 title: On Habits
 tags:
+ - life-placeholder
 ---
 > Habits - 
 
