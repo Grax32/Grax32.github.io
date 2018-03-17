@@ -3,5 +3,5 @@ title: Latest Improvements
 name: latest-1
 ---
 
-* Improve Your Code: [Ridiculously Easy Scheduled Azure Web Jobs](/2015/12/ridiculously-easy-scheduled-azure)
-  * Add Web Jobs right into your project using the Web Job folder structure.
+* Improve Your Code: [SQL Server Row Version Introduction](/articles/sql-server-timestamp-introduction)
+  * Use the SQL Server timestamp/rowversion data type to implement optimistic concurrency.
