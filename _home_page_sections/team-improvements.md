@@ -15,4 +15,4 @@ name: team
   * Diverse groups bring varied backgrounds and skills, making the group smarter than the individual
 {% endcomment %}
 
-![Gators](/articles/images/baby-gators.jpg)
+![Dolphins](/articles/images/dolphins.jpg)
