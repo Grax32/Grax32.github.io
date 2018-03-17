@@ -87,7 +87,7 @@ then she can save safely without overwriting someone else's change.
 Optimistic concurrency is a generally a low-impact way to ensure that your users are not stepping on each other's updates and 
 undoing work that they thought they had completed.  Be aware, however, that it does not provide a great user experience 
 if your users are modifying a large amount of data in between save attempts.  In our next article, we will look at the
-actual SQL Server code for implementing optimistic integrity.  In a later article, we will cover using optimistic concurrency
+actual SQL Server code for implementing optimistic integrity.  In a [later article](/articles/sql-server-timestamp-basic-concurrency), we will cover using optimistic concurrency
 with complex object and collections.
 
 
