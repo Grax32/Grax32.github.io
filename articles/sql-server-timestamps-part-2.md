@@ -13,6 +13,7 @@ make the user refresh their start data and redo their change.
 
 Your first implementation might look something like this:
 
+```
 1.  if (@rowversion = (select RowVersion from OptimisticUsers where Id = @Id ))
 2.  begin
 3.	update OptimisticUsers set FirstName = @firstName, LastName = @lastName where id = @Id
@@ -21,6 +22,7 @@ Your first implementation might look something like this:
 6.  begin
 7.   raiserror('Optimistic concurrency error',15,-1,-1)
 8.  end
+```
 
 Great!  Now we are checking to see if the row's version changed and denying the update if it did.  What could go wrong?
 
@@ -31,11 +33,13 @@ row 1 and the update query in row 3.
 So what are we to do?  Rather than trying to get crazy with locking the row for that timespan, if we move the where clause into the update query, SQL Server will ensure that no
 queries will sneak in between the where query and the update portion.  
 
+```
 1.  update OptimisticUsers set FirstName = @firstName, LastName = @lastName where Id = @Id and RowVersion = @rowversion
 2.  if (@@rowcount = 0)
 3.  begin
 4.  	raiserror('Optimistic concurrency error',15,-1,-1)
 5.  end
+```
 
 Now the query succeeds only if the row is unchanged, and we have eliminated the race condition between the row version query and the update.
 
