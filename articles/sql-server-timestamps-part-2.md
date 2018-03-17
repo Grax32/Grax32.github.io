@@ -5,11 +5,11 @@ title: SQL Server Timestamp/RowVersion - Part 2 Optimistic Concurrency
 tags: [coding]
 ---
 
-As we discussed in our previous [article](/articles/sql-server-timestamp-introduction), the server server timestamp/rowversion type (rowversion is an alias for timestamp) is
+As we discussed in our previous [article](/articles/sql-server-timestamp-introduction), the SQL Server timestamp/rowversion type (rowversion is an alias for timestamp) is
 essentially a version number that can be used to determine if a row has been updated subsequent to when we read it.
 
-When we want to implement optimistic concurrency, we need to query the database to determine if the row has changed.  If it has changed, we will reject the transaction and
-make the user refresh their start data and redo their change.
+When we want to implement optimistic concurrency, we need to query the database to determine if the row has changed (more detail on this in the previous article).  If it
+has changed, we will reject the transaction and make the user refresh their start data and redo their change.
 
 Your first implementation might look something like this:
 
@@ -26,9 +26,10 @@ Your first implementation might look something like this:
 
 Great!  Now we are checking to see if the row's version changed and denying the update if it did.  What could go wrong?
 
-The issue, and this is one that will generate bugs in a busy app and "could not duplicate" messages from your developer, is the window between the query that selects the 
+The issue, and this is one that could generate bugs in a busy app and "could not duplicate" messages from your developer, is the window between the query that selects the 
 row version and the query that updates the row.  Even in a transaction, there is no guarantee that the row in OptimisticUsers will not be updated between the select query in
-row 1 and the update query in row 3.
+row 1 and the update query in row 3.  Since the goal of optimistic concurrency is to ensure that if a user is told that their change was saved, that it will not be inadvertently
+reversed, this version risks that a change will be committed between the read and the write and then overwritten by this update.
 
 So what are we to do?  Rather than trying to get crazy with locking the row for that timespan, if we move the where clause into the update query, SQL Server will ensure that no
 queries will sneak in between the where query and the update portion.  
