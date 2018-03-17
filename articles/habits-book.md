@@ -59,13 +59,7 @@ often saves the material from being disintegrated altogether. When the structure
 yielded, the same inertia becomes a condition 
 of its comparative permanence in the new 
 form, and of the new habits the body then 
-manifests. Plasticity, then, in the wide 
-
-
-
-6 HABIT 
-
-sense of the word, means the possession of a 
+manifests. Plasticity, then, in the wide sense of the word, means the possession of a 
 structure weak enough to yield to an influence, but strong enough not to yield all at 
 once. Each relatively stable phase of equilibrium in such a structure is marked by what 
 we may call a new set of habits. Organic 
@@ -83,10 +77,6 @@ by all good recent writers on the subject.
 
 1 In the sense above explained, which applies to inner structure 
 as well as to outer form. 
-
-
-
-HABIT 7 
 
 They call attention to analogues of acquired 
 habits exhibited by dead matter. Thus 
@@ -107,13 +97,7 @@ It costs less trouble to fold a paper when it
 has been folded already. This saving of 
 trouble is due to the essential nature of habit, 
 which brings it about that, to reproduce the 
-effect, a less amount of the outward cause is 
-
-
-
-8 HABIT 
-
-required. The sounds of a violin improve by 
+effect, a less amount of the outward cause is required. The sounds of a violin improve by 
 use in the hands of an able artist, because the 
 fibres of the wood at last contract habits of 
 vibration conformed to harmonic relations. 
@@ -132,10 +116,6 @@ anywhere is a locus minoris resistcntia:, more
 
 1 Revue Philosophique, I, 324. 
 
-
-
-HABIT 9 
-
 liable to be abraded, inflamed, to suffer pain 
 and cold, than are the neighboring parts. 
 A sprained ankle, a dislocated arm, are in 
@@ -152,13 +132,7 @@ happen to have once begun; and how the
 forcible cutting short by medicine of a few 
 attacks is often sufficient to enable the physiological forces to get possession of the field 
 again, and to bring the organs back to functions of health. Epilepsies, neuralgias, convulsive affections of various sorts, insomnias, 
-are so many cases in point. And, to take 
-
-
-
-10 HABIT 
-
-what are more obviously habits, the success 
+are so many cases in point. And, to take what are more obviously habits, the success 
 with which a * weaning' treatment can often 
 be applied to the victims of unhealthy indulgence of passion, or of mere complaining or 
 irascible disposition, shows us how much the 
@@ -199,13 +173,7 @@ our body are exposed; for nature has carefully shut up our brain and spinal cord
 bony boxes, where no influences of this sort 
 can get at them. She has floated them in 
 fluid so that only the severest shocks can 
-give them a concussion, and blanketed and 
-
-
-
-12 HABIT 
-
-wrapped them about in an altogether exceptional way. The only impressions that can 
+give them a concussion, and blanketed and wrapped them about in an altogether exceptional way. The only impressions that can 
 be made upon them are through the blood, 
 on the one hand, and through the sensory 
 nerve-roots, on the other; and it is to the 
@@ -222,13 +190,7 @@ sense-organs make with extreme facility
 paths which do not easily disappear. For, 
 of course, a simple habit, like every other 
 nervous event the habit of snuffling, for 
-example, or of putting one's hands into one's 
-
-
-
-HABIT 13 
-
-pockets, or of biting one's nails is, mechanically, nothing but a reflex discharge; and 
+example, or of putting one's hands into one's pockets, or of biting one's nails is, mechanically, nothing but a reflex discharge; and 
 its anatomical substratum must be a path 
 in the system. The most complex habits, 
 as we shall presently see more fully, are, from 
@@ -243,13 +205,7 @@ reflex or path in a pre-existing nervous
 system. Here, as in so many other cases, 
 it is only the premier pas qui coute. For the 
 entire nervous system is nothing but a system of paths between a sensory terminus a 
-quo and a muscular, glandular, or other 
-
-
-
-14 HABIT 
-
-terminus ad quern. A path once traversed by 
+quo and a muscular, glandular, or other terminus ad quern. A path once traversed by 
 a nerve-current might be expected to follow 
 the law of most of the paths we know, and 
 to be scooped out and made more permeable 
@@ -271,10 +227,6 @@ plausible views of the nerve-current make it
 iSome paths, to be sure, are banked up by bodies moving 
 through them under too great pressure, and made impervious. 
 These special cases we disregard. 
-
-
-
-HABIT 15 
 
 out to be the passage of some such wave of 
 rearrangement as this. If only a part of the 
@@ -301,9 +253,6 @@ action must before that, at least once, have been impulsive or
 reflex. It is this very first occurrence of all that we consider in 
 the text. 
 
-
-
-16 HABIT 
 
 verse it the first time? 1 In answering this 
 question we can only fall back on our general 
