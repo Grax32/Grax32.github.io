@@ -1,0 +1,135 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="jekyll-build-time" content="{{ site.time }}" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb4E" crossorigin="anonymous">
+    <style type="text/css">
+        .bs-docs-header h1 {
+            border-top-width: 0;
+        }
+
+        .bs-docs-header p {
+            font-style: italic;
+            padding-left: 25px;
+        }
+
+        a {
+            font-weight: bold;
+            color: #9C2123;
+        }
+
+        h3 a {
+            font-weight: normal;
+        }
+
+        ul {
+            list-style-type: none;
+            list-style-position: inside;
+            padding: 5px;
+        }
+
+        li {
+            margin: 2px;
+            font-weight: bold;
+        }
+
+        ul ul {
+            padding: 0;
+        }
+
+            ul ul li {
+                font-style: italic;
+                padding: 4px;
+                padding-top: 0px;
+                margin-top: 1px;
+                font-weight: normal;
+            }
+
+        h1 {
+            background-image: url(/images/lizard-leaf.jpg);
+            background-size: cover;
+            width: 100vw;
+            color: black;
+        }
+
+        h2, h3, h4, h5, h6 {
+            background-color: lightgray;
+            border: 0 solid black;
+            border-top-width: 2px;
+            border-bottom-width: 4px;
+            padding-left: 8px;
+            padding-top: 13px;
+        }
+
+        h1 {
+            width: 100%;
+            padding: 15px;
+        }
+
+            h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+                color: oldlace;
+            }
+
+        h3 {
+            padding: 10px;
+        }
+
+        img {
+            border: 2px solid white;
+            border-radius: 25px;
+            max-width: 100%;
+        }
+
+        .project-table th {
+            white-space: nowrap;
+        }
+
+        .project-table td {
+            border: 1px solid lightgray;
+            margin: 0;
+            padding: 3px;
+        }
+
+        .cia-tagline {
+            font-weight: bold;
+        }
+
+            .cia-tagline .fa-lock {
+                color: rgb(178,23,23);
+            }
+
+            .cia-tagline .fa-edit {
+                color: rgb(23,47,128);
+            }
+
+            .cia-tagline .fa-arrow-up {
+                color: rgb(30,181,47);
+            }
+    </style>
+    <title>{{ page.title }}</title>
+</head>
+
+<body>
+    <div class="bs-docs-header" id="content" tabindex="-1">
+        <div class="container">
+            <h1>{{ page.title }}</h1>
+            <p class="cia-tagline"><i class="fas fa-lock"></i> | <i class="fas fa-edit"></i> | <i class="fas fa-arrow-up"></i> </p>
+        </div>
+    </div>
+    <div class="container bs-docs-container">
+        {{content}}
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha384-vk5WoKIaW/vJyUAd9n/wmopsmNhiy+L2Z+SBxGYnUkunIxVxAv/UtMOhba/xskxh" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+    {% include google-analytics.html %}
+</body>
+
+</html>

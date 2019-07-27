@@ -8,10 +8,7 @@ name: about-2
 * Scrum Master
   * Professional Scrum Master Level 1 [Scrum.org](http://www.scrum.org/) 
 * Amateur Photographer
-  * [Instagram](https://www.instagram.com/grax32/)
-  * [Grax Photos on Facebook](https://www.facebook.com/Grax-Photo-516272355223679/)
-* Video
-  * [Foo Network](http://foonetwork.space/)
+  * [Grax Photography on Facebook](https://www.facebook.com/Grax-Photo-516272355223679/)
 * Social Media
   * [Twitter](https://twitter.com/grax)
   * [LinkedIn](https://www.linkedin.com/in/davidalanwalker)

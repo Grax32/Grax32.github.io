@@ -5,19 +5,11 @@ name: projects
 
 ### [Software Projects](/software/projects)
 
-* OrderByString &bull; [Source](https://github.com/Grax32/OrderByString/) &bull; [NuGet](https://www.nuget.org/packages/OrderByString/) &bull; [Web Site](https://github.com/Grax32/OrderByString/)
-  * Use strings in OrderBy/ThenBy statements.
-  * Completely compatible with Entity Framework and other IQueryable providers.
-{% comment %}
-* EasyResource &bull; [Source](https://github.com/Grax32/Easy-Resources) &bull; [NuGet](https://www.nuget.org/packages/EasyResource/) &bull; [Web Site](https://github.com/Grax32/Easy-Resources)
-  * Easily retrieve embedded resources from assemblies.
-{% endcomment %}
-* Interpolation Format Provider &bull; [Source](https://github.com/Grax32/InterpolationFormatProvider/) &bull; [NuGet](https://www.nuget.org/packages/InterpolationFormatProvider/) &bull; [Web Site](https://github.com/Grax32/InterpolationFormatProvider/)
-  * A string format provider for .NET.
-  * Use name/value pairs or property names (even from anonymous types) to put values in string.
-* fFastInjector 1.0.1 &bull; [Source](https://ffastinjector.codeplex.com/) &bull; [NuGet](https://www.nuget.org/packages/fFastInjector/) &bull; [Web Site](https://ffastinjector.codeplex.com/SourceControl/latest)
-  * High-speed, compact, and portable dependency injector for .NET 4.0+, Windows 8/10 apps, Windows Phone 8/10 and newer.
-{% comment %}
-* fFastMapper &bull; [Source](https://ffastmapper.codeplex.com/SourceControl/latest) &bull; [NuGet](https://www.nuget.org/packages/fFastMapper/) &bull; [Web Site](https://ffastmapper.codeplex.com/)
-  * High-speed, compact, and portable object mapper for .NET 4.0+, Windows 8/10 apps, Windows Phone 8/10 and newer.
-{% endcomment %}
+{:.project-table}
+| Project | Source  | Package  | Project Site  |
+|---|---|---|---|
+| **OrderByString** &bull; Use strings in OrderBy / ThenBy statements with IQueryable providers. | [Source](https://github.com/Grax32/OrderByString/) | [![OrderByString](https://img.shields.io/nuget/v/orderbystring)](https://www.nuget.org/packages/OrderByString/) | [![OrderByString](https://img.shields.io/website/https/www.grax.com/OrderByString)](https://www.grax.com/OrderByString) 
+| **EasyResource**  &bull; Easily retrieve embedded resources | [Source](https://github.com/Grax32/easyresource/) | [![EasyResource](https://img.shields.io/nuget/v/easyresource)](https://www.nuget.org/packages/EasyResource/) | [![EastResource](https://img.shields.io/website/https/www.grax.com/EasyResource)](https://www.grax.com/EasyResource) |
+| **Interpolation Format Provider**  &bull; Fill template strings from dictionary or anonymous types | [Source](https://github.com/Grax32/interpolationformatprovider/) | [![InterpolationFormatProvider](https://img.shields.io/nuget/v/interpolationformatprovider)](https://www.nuget.org/packages/InterpolationFormatProvider/) | [![InterpolationFormatProvider](https://img.shields.io/website/https/www.grax.com/InterpolationFormatProvider)](https://www.grax.com/InterpolationFormatProvider) |
+| **fFastInjector**  &bull; High-speed, compact, and portable dependency injector | [Source](https://github.com/Grax32/ffastinjector/)  | [![fFastInjector](https://img.shields.io/nuget/v/ffastinjector)](https://www.nuget.org/packages/fFastInjector/) | [![fFastInjector](https://img.shields.io/website/https/www.grax.com/fFastInjector)](https://www.grax.com/fFastInjector/) |
+| **fFastMapper** &bull; High-speed mapping between types | [Source](https://github.com/Grax32/fFastMapper/)  | [![fFastMapper](https://img.shields.io/nuget/v/fFastMapper)](https://www.nuget.org/packages/fFastMapper/) | [![fFastMapper](https://img.shields.io/website/https/www.grax.com/fFastMapper)](https://www.grax.com/fFastMapper) |
