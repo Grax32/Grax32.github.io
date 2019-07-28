@@ -9,13 +9,14 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb4E" crossorigin="anonymous">
     <style type="text/css">
-        .bs-docs-header h1 {
-            border-top-width: 0;
-        }
-
-        .bs-docs-header p {
-            font-style: italic;
-            padding-left: 25px;
+        .bs-docs-header {
+            background-image: url(/images/lizard-leaf.jpg);
+            background-size: cover;
+            border: 0 solid black;
+            border-top-width: 2px;
+            border-bottom-width: 4px;
+            padding-left: 8px;
+            padding-top: 13px;
         }
 
         a {
@@ -51,8 +52,6 @@
             }
 
         h1 {
-            background-image: url(/images/lizard-leaf.jpg);
-            background-size: cover;
             width: 100vw;
             color: black;
         }
@@ -72,7 +71,7 @@
         }
 
             h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-                color: oldlace;
+                color: black;
             }
 
         h3 {
@@ -97,6 +96,8 @@
 
         .cia-tagline {
             font-weight: bold;
+            font-size: 1.4em;
+            border-bottom: 2px solid black;
         }
 
             .cia-tagline .fa-lock {
@@ -118,9 +119,17 @@
     <div class="bs-docs-header" id="content" tabindex="-1">
         <div class="container">
             <h1>{{ page.title }}</h1>
-            <p class="cia-tagline"><i class="fas fa-lock"></i> | <i class="fas fa-edit"></i> | <i class="fas fa-arrow-up"></i> </p>
         </div>
     </div>
+
+    <div class="container cia-tagline">
+        <div class="row">
+            <div class="col-md-4"> <i class="fas fa-lock"></i> Confidentiality </div>
+            <div class="col-md-4"> <i class="fas fa-edit"></i> Integrity </div>
+            <div class="col-md-4"> <i class="fas fa-arrow-up"></i> Availability </div>
+        </div>
+    </div>
+
     <div class="container bs-docs-container">
         {{content}}
     </div>

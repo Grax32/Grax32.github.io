@@ -1,15 +1,8 @@
 ---
 layout: home-page-2019
-title: Grax Secure Application Lifestyle
+title: Secure Application Lifestyle
 tagLine: Living the lifestyle
 ---
-
-<section class="row">
-  <section class="col-md-12"><h3>Latest Improvements</h3></section>
-  <section class="col-md-12">
-    {{ site.home_page_sections | where:"name", "latest-1" | map: "output" | first }}
-  </section>
-</section>
 
 <section class="row">
   <section class="col-md-4">
