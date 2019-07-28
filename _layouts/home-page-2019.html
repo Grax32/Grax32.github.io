@@ -10,14 +10,24 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb4E" crossorigin="anonymous">
     <style type="text/css">
         .bs-docs-header {
-            background-image: url(/images/lizard-leaf.jpg);
-            background-size: cover;
-            border: 0 solid black;
-            border-top-width: 2px;
-            border-bottom-width: 4px;
             padding-left: 8px;
             padding-top: 13px;
+            font-weight: bold;
+            color: white;
         }
+
+            .bs-docs-header.header-background {
+                position: absolute;
+                top: 0;
+                left: 0;
+                margin: 0;
+                padding: 0;
+                width: 100vw;
+                background-image: url(/images/lizard-leaf.jpg);
+                background-size: cover;
+                filter: blur(8px);
+                z-index: -1;
+            }
 
         a {
             font-weight: bold;
@@ -50,11 +60,6 @@
                 margin-top: 1px;
                 font-weight: normal;
             }
-
-        h1 {
-            width: 100vw;
-            color: black;
-        }
 
         h2, h3, h4, h5, h6 {
             background-color: lightgray;
@@ -117,7 +122,13 @@
 </head>
 
 <body>
-    <div class="bs-docs-header" id="content" tabindex="-1">
+    <div class="bs-docs-header header-background" tabindex="-1">
+        <div class="container">
+            <h1>{{ page.title }}</h1>
+        </div>
+    </div>
+
+    <div class="bs-docs-header header-text">
         <div class="container">
             <h1>{{ page.title }}</h1>
         </div>
