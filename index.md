@@ -25,14 +25,9 @@ title: Geeks Research And Xplain
 </section>
 
 <section class="row">
-  <section class="col-md-6">
-    {{ site.home_page_sections | where:"name", "opinions" | map: "output" | first }}
-  </section>
-
-  <section class="col-md-6">
+  <section class="col-md-12">
     {{ site.home_page_sections | where:"name", "projects" | map: "output" | first }}
   </section>
-
 </section>
 
 <section class="row">
