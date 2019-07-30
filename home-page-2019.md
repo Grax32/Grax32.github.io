@@ -1,6 +1,6 @@
 ---
 layout: home-page-2019
-title: Secure Application Lifestyle
+title: [GRAX] Secure Software
 tagLine: Living the lifestyle
 ---
 
