@@ -5,16 +5,8 @@ tagLine: Living the lifestyle
 ---
 
 <section class="row">
-  <section class="col-md-4">
-    {{ site.home_page_sections | where:"name", "life" | map: "output" | first }}
-  </section>
-
-  <section class="col-md-4">
-    {{ site.home_page_sections | where:"name", "team" | map: "output" | first }}
-  </section>
-
-  <section class="col-md-4">
-    {{ site.home_page_sections | where:"name", "code" | map: "output" | first }}
+  <section class="col-md-12">
+    {{ site.home_page_sections | where:"name", "articles" | map: "output" | first }}
   </section>
 </section>
 
