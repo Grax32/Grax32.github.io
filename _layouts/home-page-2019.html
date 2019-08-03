@@ -9,82 +9,33 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.min.css" integrity="sha384-i1LQnF23gykqWXg6jxC2ZbCbUMxyw5gLZY6UiUS98LYV5unm8GWmfkIS6jqJfb4E" crossorigin="anonymous">
     <style type="text/css">
-        .bs-docs-header {
-            padding-left: 8px;
-            font-weight: bold;
-            color: white;
-            margin-bottom: 25px;
-        }
-
-            .bs-docs-header h3 {
-                border: 0;
-                margin: 0;
-                padding: 2px;
-            }
-
-            .bs-docs-header.header-background {
-                position: absolute;
-                top: 0;
-                left: 0;
-                margin: 0;
-                padding: 0;
-                width: 100vw;
-                background-image: url(/images/lizard-leaf.jpg);
-                background-size: cover;
-                filter: blur(8px);
-                z-index: -1;
-            }
-
-        a {
-            font-weight: bold;
-            color: #9C2123;
-        }
-
-        ul {
-            list-style-type: none;
-            list-style-position: inside;
-            padding: 5px;
-        }
-
-        li {
-            margin: 2px;
-            font-weight: bold;
-        }
-
-        ul ul {
+        .page-header {
+            width: 100vw;
+            margin: 0;
             padding: 0;
+            border: 0 none;
+            position: relative;
         }
 
-            ul ul li {
-                font-style: italic;
-                padding: 4px;
-                padding-top: 0px;
-                margin-top: 1px;
-                font-weight: normal;
-            }
-
-        h2, h3, h4, h5, h6 {
-            background-color: rgba(245,245,245,.4);
-            border: 0 solid lightgray;
-            border-top-width: 2px;
-            border-bottom-width: 4px;
-            padding-left: 8px;
-            padding-top: 13px;
-        }
-
-        h1 {
+        .page-header-main {
             width: 100%;
-            padding: 15px;
+            min-height: 120px;
         }
 
-            h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
-                color: black;
-            }
+        .page-header-author-image {
+            position: absolute;
+            border-radius: 10px;
+            border: 5px white solid;
+            left: 10px;
+            bottom: 10px;
+            height: 80%;
+            min-height: 100px;
+        }
 
-        img {
-            border: 2px solid white;
-            border-radius: 25px;
-            max-width: 100%;
+        .page-header-text{
+            position:absolute;
+            right: 5vw;
+            bottom: 5vw;
         }
 
         .project-table th {
@@ -121,11 +72,10 @@
 </head>
 
 <body>
-    <div class="bs-docs-header header-background" tabindex="-1">
-        <div class="container">
-            <h1>{{ page.title }}</h1>
-            <h3>Secure Software, Strong Teams</h3>
-        </div>
+    <div class="page-header">
+        <img class="page-header-main" src="/images/lizardleaf.jpg" alt="Photo by David Walker" />
+        <img class="page-header-author-image" src="/images/dwalker.jpg" alt="David Walker" />
+        <div class="page-header-text"> {{ page.title }}</div> 
     </div>
 
     <div class="bs-docs-header header-text">

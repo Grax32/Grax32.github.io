@@ -1,7 +1,7 @@
 ---
 layout: home-page-2019
-title: Secure Software
-tagLine: Living the lifestyle
+title: David Walker
+tagLine: Articles and Information
 ---
 
 <section class="row">
