@@ -11,6 +11,7 @@
     <style type="text/css">
         .page-header {
             width: 100vw;
+            max-width: 1440px;
             margin: 0;
             padding: 0;
             border: 0 none;
@@ -25,17 +26,40 @@
         .page-header-author-image {
             position: absolute;
             border-radius: 10px;
-            border: 5px white solid;
+            border: 2px rgba(255,255,255,.6) solid;
             left: 10px;
             bottom: 10px;
             height: 80%;
             min-height: 100px;
+            background-color: rgba(0,0,0,.4);
         }
 
-        .page-header-text{
-            position:absolute;
-            right: 5vw;
-            bottom: 5vw;
+        .page-header-text {
+            position: absolute;
+            left: 200px;
+            bottom: 10px;
+            background-color: rgba(0,0,0,.1);
+            color: white;
+            padding: 5px;
+            border-radius: 10px;
+            border: 0 none;
+        }
+
+            .page-header-text h1 {
+                -webkit-text-stroke: black 1px;
+                text-stroke: black 1px;
+                font-size: 20px;
+                font-weight: bold;
+            }
+
+            .page-header-text h3 {
+                font-size: 14px;
+            }
+
+        @media(max-width: 767px) {
+            .page-header-text {
+                left: 100px;
+            }
         }
 
         .project-table th {
@@ -74,14 +98,10 @@
 <body>
     <div class="page-header">
         <img class="page-header-main" src="/images/lizardleaf.jpg" alt="Photo by David Walker" />
-        <img class="page-header-author-image" src="/images/dwalker.jpg" alt="David Walker" />
-        <div class="page-header-text"> {{ page.title }}</div> 
-    </div>
-
-    <div class="bs-docs-header header-text">
-        <div class="container">
-            <h1>{{ page.title }}</h1>
-            <h3>Secure Software, Strong Teams</h3>
+        <img class="page-header-author-image" src="/images/david-walker.png" alt="David Walker" />
+        <div class="page-header-text">
+            <h1>David Walker</h1>
+            <h3>Secure Software &bull; Strong Teams &bull; DotNet Core &bull; ASP.NET</h3>
         </div>
     </div>
 

@@ -1,8 +1,15 @@
 ---
 layout: home-page-2019
 title: David Walker
-tagLine: Articles and Information
 ---
+
+<section class="row">
+  <section class="col-md-12">
+
+### [Disambiguation](/disambiguation)
+For other things named "Grax", see [Grax (disambiguation)](/disambiguation)
+  </section>
+</section>
 
 <section class="row">
   <section class="col-md-12">
