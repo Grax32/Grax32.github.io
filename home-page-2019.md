@@ -5,11 +5,7 @@ title: David Walker
 
 <section class="row">
   <section class="col-md-12">
-
-### [Disambiguation](/disambiguation)
-
-For other things named "Grax", see [Grax (disambiguation)](/disambiguation)
-
+    {{ site.home_page_sections | where:"name", "disambiguation" | map: "output" | first }}
   </section>
 </section>
 
