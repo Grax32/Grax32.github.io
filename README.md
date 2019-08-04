@@ -1,4 +1,4 @@
-# Grax32.github.io
+# Grax.com
 ## Web Site
 
 > Web site for Grax.com 
