@@ -4,7 +4,7 @@ title: Grax (disambiguation)
 ---
 
 *Grax refers to the David Walker, a secure software consultant, enterprise software
-developer, proponent of happy, functional, productive teams, and photographer.**
+developer, proponent of happy, functional, productive teams, and photographer.*
 
 Grax may also refer to:
 
@@ -17,6 +17,6 @@ Listed items have no relationship to this site or David Walker.
 Listings may be provided as a courtesy.
 
 Request addition, modifications, or deletions 
-below.
+below:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScL2VDazA_3aBQiJuEigBCrxrELkA9sIU5VjNLNN0hX0R3Mjg/viewform?embedded=true" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
