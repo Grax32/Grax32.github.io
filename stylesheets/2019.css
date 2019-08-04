@@ -1,0 +1,101 @@
+.page-header {
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    border: 0 none;
+    position: relative;
+    background-image: url(/images/lizardleaf-bg.jpg);
+    background-size: cover;
+}
+
+.page-header-main-image {
+    width: 100%;
+    max-width: 1440px;
+}
+
+.page-header-author-image {
+    position: absolute;
+    border-radius: 10px;
+    border: 2px rgba(255,255,255,.6) solid;
+    left: 10px;
+    bottom: 10px;
+    width: 200px;
+    background-color: rgba(0,0,0,.4);
+    transition: width 1s;
+}
+
+.page-header-text {
+    position: absolute;
+    left: 220px;
+    bottom: 10px;
+    background-color: rgba(0,0,0,.2);
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    border: 0 none;
+    transition: left 1s;
+}
+
+    .page-header-text h1 {
+        -webkit-text-stroke: black 1px;
+        text-stroke: black 1px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .page-header-text h3 {
+        font-size: 14px;
+    }
+
+@media(min-width: 1170px) {
+    .page-header {
+        min-height: 12vh;
+    }
+
+    .page-header-text {
+        left: 220px;
+    }
+
+        .page-header-text h1 {
+            font-size: 4vh;
+        }
+
+        .page-header-text h3 {
+            font-size: 3vh;
+        }
+
+    .page-header-author-image {
+        width: 200px;
+    }
+
+    @media (max-height: 2000px) {
+        .page-header-author-image {
+            width: 9vh;
+        }
+
+        .page-header-text {
+            left: 11vh;
+        }
+    }
+}
+
+@media(min-width: 700px) and (max-width: 1169px) {
+    .page-header-text {
+        left: 130px;
+    }
+
+    .page-header-author-image {
+        width: 120px;
+    }
+}
+
+@media(max-width: 699px) {
+    .page-header-text {
+        left: 90px;
+    }
+
+    .page-header-author-image {
+        width: 80px;
+        max-width: 9vh;
+    }
+}
