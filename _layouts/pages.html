@@ -22,7 +22,7 @@
     <title>{{ page.title }}</title>
 </head>
 
-<body class="container">
+<body>
     <div class="page-header">
         <img class="page-header-main-image" src="/images/lizardleaf.jpg" alt="Photo by David Walker" />
         <img class="page-header-author-image" src="/images/david-walker.png" alt="David Walker" />
@@ -31,23 +31,26 @@
             <h3>Secure&nbsp;Software &bull;&nbsp;Strong&nbsp;Teams &bull;&nbsp;DotNet&nbsp;Core &bull;&nbsp;ASP.NET &bull;&nbsp;SQL Server</h3>
         </div>
     </div>
-    <header class="row">
-        <h1 class="col-md-10">{{ page.title }}</h1>
-    </header>
-    <div class="row">
-        <section class="col-md-10 grax-content-pane">
-            {{content}}
-        </section>
-        <section class="col-md-2 grax-navigation-pane">
-            <a href="/">Home</a><br />
-            <a href="/improve/your/life">Improve Your Life</a><br />
-            <a href="/improve/your/team">Improve Your Team</a><br />
-            <a href="/improve/your/code">Improve Your Code</a><br />
-            <a href="/here/is/my/opinion">Opinion</a><br />
-            <a href="/software/projects">Software Projects</a><br />
-            <hr />
-            {{ site.page_sections | where:"category", page.category | map: "output" | first }}
-        </section>
+
+    <div class="container">
+        <header class="row">
+            <h1 class="col-md-10">{{ page.title }}</h1>
+        </header>
+        <div class="row">
+            <section class="col-md-10 grax-content-pane">
+                {{content}}
+            </section>
+            <section class="col-md-2 grax-navigation-pane">
+                <a href="/">Home</a><br />
+                <a href="/improve/your/life">Improve Your Life</a><br />
+                <a href="/improve/your/team">Improve Your Team</a><br />
+                <a href="/improve/your/code">Improve Your Code</a><br />
+                <a href="/here/is/my/opinion">Opinion</a><br />
+                <a href="/software/projects">Software Projects</a><br />
+                <hr />
+                {{ site.page_sections | where:"category", page.category | map: "output" | first }}
+            </section>
+        </div>
     </div>
 
     <script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
@@ -55,5 +58,4 @@
             crossorigin="anonymous"></script>
     {% include google-analytics.html %}
 </body>
-
 </html>
