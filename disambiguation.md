@@ -1,5 +1,5 @@
 ---
-layout: home-page-2019
+layout: home
 title: Grax (disambiguation)
 ---
 
