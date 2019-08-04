@@ -29,37 +29,63 @@
             border: 2px rgba(255,255,255,.6) solid;
             left: 10px;
             bottom: 10px;
-            height: 80%;
-            min-height: 100px;
+            width: 200px;
             background-color: rgba(0,0,0,.4);
+            transition: width 1s;
         }
 
         .page-header-text {
             position: absolute;
-            left: 200px;
+            left: 220px;
             bottom: 10px;
             background-color: rgba(0,0,0,.1);
             color: white;
             padding: 5px;
             border-radius: 10px;
             border: 0 none;
+            transition: left 1s;
         }
 
-            .page-header-text h1 {
-                -webkit-text-stroke: black 1px;
-                text-stroke: black 1px;
-                font-size: 20px;
-                font-weight: bold;
-            }
-
-            .page-header-text h3 {
-                font-size: 14px;
-            }
-
-        @media(max-width: 767px) {
+        
+        @media(max-width: 1170px) {
             .page-header-text {
-                left: 100px;
+                left: 220px;
             }
+
+            .page-header-author-image {
+                width: 200px;
+            }
+        }
+
+        @media(min-width: 700px) and (max-width: 1169px) {
+            .page-header-text {
+                left: 130px;
+            }
+
+            .page-header-author-image {
+                width: 120px;
+            }
+        }
+
+        @media(max-width: 699px) {
+            .page-header-text {
+                left: 90px;
+            }
+
+            .page-header-author-image {
+                width: 80px;
+            }
+        }
+
+        .page-header-text h1 {
+            -webkit-text-stroke: black 1px;
+            text-stroke: black 1px;
+            font-size: 20px;
+            font-weight: bold;
+        }
+
+        .page-header-text h3 {
+            font-size: 14px;
         }
 
         .project-table th {
@@ -101,7 +127,7 @@
         <img class="page-header-author-image" src="/images/david-walker.png" alt="David Walker" />
         <div class="page-header-text">
             <h1>David Walker</h1>
-            <h3>Secure Software &bull; Strong Teams &bull; DotNet Core &bull; ASP.NET</h3>
+            <h3>Secure&nbsp;Software &bull; Strong&nbsp;Teams &bull; DotNet&nbsp;Core &bull; ASP.NET</h3>
         </div>
     </div>
 
