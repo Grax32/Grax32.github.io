@@ -1,6 +1,6 @@
 ---
 layout: pages
-permalink: /2015/12/ridiculously-easy-scheduled-azure.html
+permalink: /articles/azure-web-jobs-in-source-code
 title: Ridiculously Easy Scheduled Azure WebJobs
 tags: 
  - coding
