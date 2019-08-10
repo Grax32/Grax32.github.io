@@ -1,7 +1,7 @@
 ---
 layout: pages
 permalink: /articles/azure-web-jobs-in-source-code
-title: Ridiculously Easy Scheduled Azure WebJobs
+title: Azure Web Jobs in Source Code
 tags: 
  - coding
 ---
