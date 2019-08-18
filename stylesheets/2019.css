@@ -100,12 +100,13 @@
     }
 }
 
-.grax-context-pane table {
+.grax-content-pane table {
     border: 1px solid black;
+    margin: 10px 5px;
 }
 
-.grax-context-pane td,
-.grax-context-pane th {
+.grax-content-pane td,
+.grax-content-pane th {
     padding: 5px;
     border: 1px solid gray;
 }
