@@ -99,3 +99,13 @@
         max-width: 9vh;
     }
 }
+
+.grax-context-pane table {
+    border: 1px solid black;
+}
+
+.grax-context-pane td,
+.grax-context-pane th {
+    padding: 5px;
+    border: 1px solid gray;
+}
