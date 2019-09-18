@@ -8,7 +8,7 @@ tags:
 
 Update 1: I decided to revisit this with a [a new blog post](/2013/06/fast-array-fill-function-revisited.html)
 
-Update 2: A reader ([+Michael Hsu](https://plus.google.com/113579231183226302374)) posted an improved version on [GitHub](https://github.com/mykohsu/Extensions/blob/master/ArrayExtensions.cs) and I blogged about it [here](http://coding.grax.com/2014/04/better-array-fill-function.html)
+Update 2: A reader ([+Michael Hsu](https://plus.google.com/113579231183226302374)) posted an improved version on [GitHub](https://github.com/mykohsu/Extensions/blob/master/ArrayExtensions.cs) and I blogged about it [here](/2014/04/better-array-fill-function.html)
 
 In the course of my other work this week, I discovered a method for quickly initializing an array to a single value or to a repeating value.
 

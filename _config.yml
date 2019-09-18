@@ -1,5 +1,5 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: Grax Media
+name: Secure Application Lifestyle
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: Continuous Improvement for your Life, your Team, and your Code
@@ -20,7 +20,7 @@ category_dir: /
 #baseurl: /path/to/blog 
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://grax.com
+url: http://secureapplicationlifestyle.com
 
 #### Under the Hood Stuff #####
 

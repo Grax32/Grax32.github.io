@@ -10,6 +10,6 @@ name: about-2
 * Photography
   * [Grax Photography](https://www.facebook.com/Grax-Photo-516272355223679/)
 * Social Media
-  * [StackOverflow - @grax](https://stackoverflow.com/users/1056639/grax) 
-  * [Twitter - @grax](https://twitter.com/grax)
-  * [LinkedIn - @grax](https://www.linkedin.com/in/davidalanwalker)
+  * [StackOverflow](https://stackoverflow.com/users/1056639/grax) 
+  * [Twitter - @grax32](https://twitter.com/grax32)
+  * [LinkedIn](https://www.linkedin.com/in/davidalanwalker)
