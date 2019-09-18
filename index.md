@@ -5,12 +5,6 @@ title: David Walker
 
 <section class="row">
   <section class="col-md-12">
-    {{ site.home_page_sections | where:"name", "disambiguation" | map: "output" | first }}
-  </section>
-</section>
-
-<section class="row">
-  <section class="col-md-12">
     {{ site.home_page_sections | where:"name", "articles" | map: "output" | first }}
   </section>
 </section>
