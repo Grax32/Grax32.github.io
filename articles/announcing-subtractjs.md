@@ -50,9 +50,9 @@ Body</div>
 <br />
 SubtractJS lets you use standard CSS properties to control your layout. &nbsp;The five classes, "sj-fill-top", "sj-fill-bottom", "sj-fill-left", "sj-fill-right", and "sj-fill" tell SubtractJS how to manipulate your page. &nbsp;On every resize, SubtractJS computes the width or height needed to fill the parent element and still allow space for your padding, border, and margin. <br />
 <br />
-SubtractJS works best when the style tag for the affected elements does not contain values for height, width, margin, padding, border, or overflow. &nbsp;Define these properties in a style that you apply to the element via a style sheet. &nbsp;See the <a href="http://g.grax.com/1e7pjpm" target="_blank">SubtractJS samples</a>&nbsp;or the <a href="http://g.grax.com/1d56Hrs" target="_blank">SubtractJS preview page</a>&nbsp;for some examples of how this can work.<br />
+SubtractJS works best when the style tag for the affected elements does not contain values for height, width, margin, padding, border, or overflow. &nbsp;Define these properties in a style that you apply to the element via a style sheet. &nbsp;See the <i style="text-decoration: line-through;">SubtractJS samples</i>&nbsp;or the <i style="text-decoration: line-through;">SubtractJS preview page</i>&nbsp;for some examples of how this can work.<br />
 <br />
 <h4>
 How do I get it?</h4>
-You can download or enter issues or bugs at&nbsp;<a href="http://g.grax.com/19c8KbM" target="_blank">SubtractJS on Codeplex</a><br />
-<a href="http://g.grax.com/1bnBVFy" target="_blank">SubtractJS </a>is also on NuGet. &nbsp;Enter "Install-Package subtractjs" in the Package Manager Console.
+You can download or enter issues or bugs at&nbsp;<i style="text-decoration: line-through;">SubtractJS on Codeplex</i><br />
+SubtractJS is available on NuGet. &nbsp;Enter "Install-Package subtractjs" in the Package Manager Console.
