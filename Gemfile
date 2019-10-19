@@ -1,2 +1,3 @@
-Build command: jekyll build
-Publish directory: _site
+
+source "https://rubygems.org"
+gem 'github-pages'
