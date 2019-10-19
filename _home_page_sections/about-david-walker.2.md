@@ -4,12 +4,12 @@ name: about-2
 ---
 
 * Software Architect/Developer
-  * [Github](http://github.com/Grax32) &bull; [NuGet](https://www.nuget.org/profiles/Grax) &bull; [Resume](/about/david-walker/resume.pdf)
+  * [Github](http://github.com/Grax32 - Grax32) &bull; [NuGet](https://www.nuget.org/profiles/Grax) &bull; [Resume](/about/david-walker/resume.pdf)
 * Scrum Master
   * [Professional Scrum Master Level 1 &bull; Scrum.org](http://www.scrum.org/) 
 * Photography
-  * [Grax Photography](https://www.facebook.com/Grax-Photo-516272355223679/)
+  * [Grax Photography](https://www.facebook.com/GraxPhoto/)
 * Social Media
-  * [StackOverflow](https://stackoverflow.com/users/1056639/grax) 
+  * [StackOverflow - Grax32](https://stackoverflow.com/users/1056639/grax32) 
   * [Twitter - @grax32](https://twitter.com/grax32)
-  * [LinkedIn](https://www.linkedin.com/in/davidalanwalker)
+  * [LinkedIn - Grax32](https://www.linkedin.com/in/grax32/)
