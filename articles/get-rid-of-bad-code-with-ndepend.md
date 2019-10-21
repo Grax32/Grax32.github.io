@@ -7,10 +7,10 @@ tags:
 ---
 <h3>
 <b>What is nDepend?</b></h3>
-<a href="http://www.ndepend.com/">nDepend</a> is a tool used for analyzing a .NET code base. &nbsp;It can find issues, track metrics, and create reports.<br />
+<a href="//www.ndepend.com/">nDepend</a> is a tool used for analyzing a .NET code base. &nbsp;It can find issues, track metrics, and create reports.<br />
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="http://www.ndepend.com/Res/CQLEdition2.PNG" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="http://www.ndepend.com/Res/CQLEdition2.PNG" height="362" width="400" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="//www.ndepend.com/Res/CQLEdition2.PNG" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="//www.ndepend.com/Res/CQLEdition2.PNG" height="362" width="400" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">nDepend version 5</td></tr>
 </tbody></table>
 <br />
@@ -30,5 +30,5 @@ The installation method is different from most other tools I use. &nbsp;You plac
 <br />
 <h3>
 Summary</h3>
-nDepend is easy to use and powerful. &nbsp;Within 15 minutes of installing it, I found that someone in my project had written code that incorrectly crossed layers. &nbsp;I love the Abstractness VS Instability chart. &nbsp;(More on that <a href="http://www.hanselman.com/blog/ExitingTheZoneOfPainStaticAnalysisWithNDepend.aspx">here</a> from Scott Hanselman).<br />
+nDepend is easy to use and powerful. &nbsp;Within 15 minutes of installing it, I found that someone in my project had written code that incorrectly crossed layers. &nbsp;I love the Abstractness VS Instability chart. &nbsp;(More on that <a href="//www.hanselman.com/blog/ExitingTheZoneOfPainStaticAnalysisWithNDepend.aspx">here</a> from Scott Hanselman).<br />
 <br />

@@ -8,7 +8,7 @@ tags:
 fFastInjector 1.0.1 is here! &nbsp;(I skipped the 1.0.0 release since that programs with that version number always seems to have problems.)<br />
 <br />
 <h3>
-<a href="http://4.bp.blogspot.com/-M10eCQqSx5E/VLuuv9044mI/AAAAAAAAmOk/a8_n99f4Ooc/s1600/IMG_3941crop.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://4.bp.blogspot.com/-M10eCQqSx5E/VLuuv9044mI/AAAAAAAAmOk/a8_n99f4Ooc/s1600/IMG_3941crop.jpg" height="200" width="191" /></a>Awesome! What is it?</h3>
+<a href="//4.bp.blogspot.com/-M10eCQqSx5E/VLuuv9044mI/AAAAAAAAmOk/a8_n99f4Ooc/s1600/IMG_3941crop.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="//4.bp.blogspot.com/-M10eCQqSx5E/VLuuv9044mI/AAAAAAAAmOk/a8_n99f4Ooc/s1600/IMG_3941crop.jpg" height="200" width="191" /></a>Awesome! What is it?</h3>
 <div>
 fFastInjector is one of the fastest and smallest dependency injectors available for .NET. &nbsp;It is available as a portable class library that targets .NET framework 4, Windows 8/8.1, and Windows Phone 8.1 or as a file that compiles into your dll.<br />
 <br />

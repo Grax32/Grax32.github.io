@@ -23,7 +23,7 @@ h3.post-title{
 </style>
 
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-aLyRBLcTd9o/U2AGNSqd-MI/AAAAAAAAl9Y/KFIOb_tyb6Y/s1600/WP_20140426_001.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-aLyRBLcTd9o/U2AGNSqd-MI/AAAAAAAAl9Y/KFIOb_tyb6Y/s1600/WP_20140426_001.jpg" height="200" width="112" /></a></div>
+<a href="//1.bp.blogspot.com/-aLyRBLcTd9o/U2AGNSqd-MI/AAAAAAAAl9Y/KFIOb_tyb6Y/s1600/WP_20140426_001.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="//1.bp.blogspot.com/-aLyRBLcTd9o/U2AGNSqd-MI/AAAAAAAAl9Y/KFIOb_tyb6Y/s1600/WP_20140426_001.jpg" height="200" width="112" /></a></div>
 I just returned from my vacation to Orlando, Florida. &nbsp;This time we did things a little different and skipped the Disney and Universal parks. &nbsp;We visited some museums, Leu Gardens, Gatorland, the Merritt Island Manatee Overlook, and a couple of beaches. &nbsp;But one of the most exciting things we saw was the <a href="http://tic.ocls.info/">Dorothy Lumley Melrose Technology Center</a>.<br />
 <br />
 The Melrose Technology Center takes up 26,000 square feet on the 2nd floor of the Orlando Public Library. &nbsp;It is for the free use of residents of Orange County (except Winter Garden and Maitland)*. &nbsp;This is almost enough reason to pick up and move to Orange County.<br />

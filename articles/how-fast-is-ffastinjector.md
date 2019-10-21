@@ -46,32 +46,32 @@ For more information, and installation and usage instructions, see my <a href="/
 <div class="separator" style="clear: both; text-align: center;">
 <br /></div>
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="http://2.bp.blogspot.com/-E2FRcZ_YvQI/UaoXxcDNApI/AAAAAAAAlrY/p0lwWXUsg7U/s1600/01-Singleton.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="480" src="http://2.bp.blogspot.com/-E2FRcZ_YvQI/UaoXxcDNApI/AAAAAAAAlrY/p0lwWXUsg7U/s640/01-Singleton.png" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="//2.bp.blogspot.com/-E2FRcZ_YvQI/UaoXxcDNApI/AAAAAAAAlrY/p0lwWXUsg7U/s1600/01-Singleton.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="480" src="//2.bp.blogspot.com/-E2FRcZ_YvQI/UaoXxcDNApI/AAAAAAAAlrY/p0lwWXUsg7U/s640/01-Singleton.png" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Entire List -- Singleton</td></tr>
 </tbody></table>
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-8fHXu3IHgKg/UaoXxXC6_LI/AAAAAAAAlrg/xkmqdTP8Qfo/s1600/02-Transient.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="480" src="http://1.bp.blogspot.com/-8fHXu3IHgKg/UaoXxXC6_LI/AAAAAAAAlrg/xkmqdTP8Qfo/s640/02-Transient.png" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="//1.bp.blogspot.com/-8fHXu3IHgKg/UaoXxXC6_LI/AAAAAAAAlrg/xkmqdTP8Qfo/s1600/02-Transient.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="480" src="//1.bp.blogspot.com/-8fHXu3IHgKg/UaoXxXC6_LI/AAAAAAAAlrg/xkmqdTP8Qfo/s640/02-Transient.png" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Entire List -- Transient</td></tr>
 </tbody></table>
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="http://2.bp.blogspot.com/-E8LqDu5qgII/UaoXxYaArCI/AAAAAAAAlrc/xTGqDenSGVU/s1600/03-Combined.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="480" src="http://2.bp.blogspot.com/-E8LqDu5qgII/UaoXxYaArCI/AAAAAAAAlrc/xTGqDenSGVU/s640/03-Combined.png" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="//2.bp.blogspot.com/-E8LqDu5qgII/UaoXxYaArCI/AAAAAAAAlrc/xTGqDenSGVU/s1600/03-Combined.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="480" src="//2.bp.blogspot.com/-E8LqDu5qgII/UaoXxYaArCI/AAAAAAAAlrc/xTGqDenSGVU/s640/03-Combined.png" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Entire List -- Combined</td></tr>
 </tbody></table>
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="http://2.bp.blogspot.com/-GTN_i0XbtiQ/UaoXzteDm8I/AAAAAAAAlrw/KxUVCEaR5nU/s1600/01-Singleton.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="480" src="http://2.bp.blogspot.com/-GTN_i0XbtiQ/UaoXzteDm8I/AAAAAAAAlrw/KxUVCEaR5nU/s640/01-Singleton.png" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="//2.bp.blogspot.com/-GTN_i0XbtiQ/UaoXzteDm8I/AAAAAAAAlrw/KxUVCEaR5nU/s1600/01-Singleton.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="480" src="//2.bp.blogspot.com/-GTN_i0XbtiQ/UaoXzteDm8I/AAAAAAAAlrw/KxUVCEaR5nU/s640/01-Singleton.png" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Five fastest -- Singleton</td></tr>
 </tbody></table>
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="http://4.bp.blogspot.com/-7mlzJKXNYds/UaoXzhItAmI/AAAAAAAAlr4/bmm9LvFuBk4/s1600/02-Transient.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="480" src="http://4.bp.blogspot.com/-7mlzJKXNYds/UaoXzhItAmI/AAAAAAAAlr4/bmm9LvFuBk4/s640/02-Transient.png" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="//4.bp.blogspot.com/-7mlzJKXNYds/UaoXzhItAmI/AAAAAAAAlr4/bmm9LvFuBk4/s1600/02-Transient.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="480" src="//4.bp.blogspot.com/-7mlzJKXNYds/UaoXzhItAmI/AAAAAAAAlr4/bmm9LvFuBk4/s640/02-Transient.png" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Five Fastest -- Transient</td></tr>
 </tbody></table>
 <br />
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="http://3.bp.blogspot.com/-COku8NgmfCE/UaoXzgRvInI/AAAAAAAAlr0/1WO2KzpK2jE/s1600/03-Combined.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="480" src="http://3.bp.blogspot.com/-COku8NgmfCE/UaoXzgRvInI/AAAAAAAAlr0/1WO2KzpK2jE/s640/03-Combined.png" width="640" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="//3.bp.blogspot.com/-COku8NgmfCE/UaoXzgRvInI/AAAAAAAAlr0/1WO2KzpK2jE/s1600/03-Combined.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="480" src="//3.bp.blogspot.com/-COku8NgmfCE/UaoXzgRvInI/AAAAAAAAlr0/1WO2KzpK2jE/s640/03-Combined.png" width="640" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Five fastest -- Combined</td></tr>
 </tbody></table>
 

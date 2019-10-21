@@ -56,7 +56,7 @@ And back to Easy WebJobs...
 
 You should now have a folder that looks like this:
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-52YkEsz3t_o/VnVBmbDreMI/AAAAAAAAmU4/358oQXojUcQ/s1600/screenshot.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="307" src="http://1.bp.blogspot.com/-52YkEsz3t_o/VnVBmbDreMI/AAAAAAAAmU4/358oQXojUcQ/s320/screenshot.png" width="320" /></a></div>
+<a href="//1.bp.blogspot.com/-52YkEsz3t_o/VnVBmbDreMI/AAAAAAAAmU4/358oQXojUcQ/s1600/screenshot.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="307" src="//1.bp.blogspot.com/-52YkEsz3t_o/VnVBmbDreMI/AAAAAAAAmU4/358oQXojUcQ/s320/screenshot.png" width="320" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 Each of those 3 files has the "Build Action" set to "Content" and the "Copy to Output Directory" set to "Do not copy".
@@ -68,12 +68,12 @@ Now we just need to publish to an Azure instance.
 After you publish this web site to the root instance of an Azure web app, visit&nbsp;https://YOURSITE.scm.azurewebsites.net/azurejobs/#/jobs/triggered/MyEasyJob to see that the job is recognized, is running, and to view the results.
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="http://4.bp.blogspot.com/-gVeaVDqggN8/VnVMsoL-R9I/AAAAAAAAmVM/dlf130N0PQQ/s1600/screenshot-webjob-details.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="269" src="http://4.bp.blogspot.com/-gVeaVDqggN8/VnVMsoL-R9I/AAAAAAAAmVM/dlf130N0PQQ/s320/screenshot-webjob-details.png" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="//4.bp.blogspot.com/-gVeaVDqggN8/VnVMsoL-R9I/AAAAAAAAmVM/dlf130N0PQQ/s1600/screenshot-webjob-details.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="269" src="//4.bp.blogspot.com/-gVeaVDqggN8/VnVMsoL-R9I/AAAAAAAAmVM/dlf130N0PQQ/s320/screenshot-webjob-details.png" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">The results of a running WebJob</td></tr>
 </tbody></table>
 Click on a specific result to see the details of the job run.
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
-<tr><td style="text-align: center;"><a href="http://2.bp.blogspot.com/-3vPoyXWPowQ/VnVNEEy-fCI/AAAAAAAAmVY/g24_Wvu9Kmw/s1600/screenshot-webjob-results.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="265" src="http://2.bp.blogspot.com/-3vPoyXWPowQ/VnVNEEy-fCI/AAAAAAAAmVY/g24_Wvu9Kmw/s320/screenshot-webjob-results.png" width="320" /></a></td></tr>
+<tr><td style="text-align: center;"><a href="//2.bp.blogspot.com/-3vPoyXWPowQ/VnVNEEy-fCI/AAAAAAAAmVY/g24_Wvu9Kmw/s1600/screenshot-webjob-results.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="265" src="//2.bp.blogspot.com/-3vPoyXWPowQ/VnVNEEy-fCI/AAAAAAAAmVY/g24_Wvu9Kmw/s320/screenshot-webjob-results.png" width="320" /></a></td></tr>
 <tr><td class="tr-caption" style="text-align: center;">Detailed output from a specific run</td></tr>
 </tbody></table>
 Note that you can see the command it ran with the environment variable substituted (the red portion is where it put the web site's host name) and the results that the web page returned are on the 2nd to last line. &nbsp;Our web page returned just "OK" and that result is printed here.

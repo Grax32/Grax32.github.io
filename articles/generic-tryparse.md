@@ -24,5 +24,5 @@ I came up with this nifty little extension method today.  This method works in a
 &nbsp;&nbsp;&nbsp;&nbsp;}</pre>
 
 
-<a class="g-profile" href="http://plus.google.com/108573066018819777334" target="_blank">+Scott Hanselman</a>&nbsp;has a <a href="http://www.hanselman.com/blog/TypeConvertersTheresNotEnoughTypeDescripterGetConverterInTheWorld.aspx">post</a> that talks more about TypeDescriptor.GetConverter and how to roll your own converters.  Also read the comments on that post for some potential gotchas with using TypeConverters.
+Scott Hanselman&nbsp;has a <a href="http://www.hanselman.com/blog/TypeConvertersTheresNotEnoughTypeDescripterGetConverterInTheWorld.aspx">post</a> that talks more about TypeDescriptor.GetConverter and how to roll your own converters.  Also read the comments on that post for some potential gotchas with using TypeConverters.
 
