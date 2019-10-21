@@ -85,4 +85,4 @@ or here is a box split into 5 columns of 20 percent each, again with margins and
 </div>
 </div>
 <br />
-Get the update via NuGet or download it from CodePlex at <a href="http://g.grax.com/KhXlha">http://g.grax.com/KhXlha</a>
+Get the update via NuGet or download it from CodePlex at (Link Unavailable)
