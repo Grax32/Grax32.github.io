@@ -56,13 +56,13 @@ Unfortunately, I was not able to visit the <a href="http://tic.ocls.info/video/"
 <h3>
 Fabrication Lab (3D Printers and Electronics)</h3>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-Vdor19FI1Dk/U2A6Ugd0YOI/AAAAAAAAl-M/2_grTmtUGBU/s1600/WP_20140426_016.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-Vdor19FI1Dk/U2A6Ugd0YOI/AAAAAAAAl-M/2_grTmtUGBU/s1600/WP_20140426_016.jpg" height="112" width="200" /></a></div>
+<a href="//1.bp.blogspot.com/-Vdor19FI1Dk/U2A6Ugd0YOI/AAAAAAAAl-M/2_grTmtUGBU/s1600/WP_20140426_016.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="//1.bp.blogspot.com/-Vdor19FI1Dk/U2A6Ugd0YOI/AAAAAAAAl-M/2_grTmtUGBU/s1600/WP_20140426_016.jpg" height="112" width="200" /></a></div>
 The fabrication lab is used to teach classes on 3D printing, creating circuit boards, and electronics. <br />
 <br />
 In my opinion, the stars of this room, though, are the two 3D printers. &nbsp;They tell me that the MakerBot: Replicator 2 can print items up to about the size of a football and the CubeX Duo can print items up to about the size of a basketball. &nbsp;In addition, the CubeX Duo is a dual extruder, so you can create multi-colored items.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-mrxmQI7obuk/U2A-nowu_SI/AAAAAAAAl-g/succDsK1Fec/s1600/WP_20140426_014-crop.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://1.bp.blogspot.com/-mrxmQI7obuk/U2A-nowu_SI/AAAAAAAAl-g/succDsK1Fec/s1600/WP_20140426_014-crop.jpg" height="195" width="200" /></a></div>
+<a href="//1.bp.blogspot.com/-mrxmQI7obuk/U2A-nowu_SI/AAAAAAAAl-g/succDsK1Fec/s1600/WP_20140426_014-crop.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="//1.bp.blogspot.com/-mrxmQI7obuk/U2A-nowu_SI/AAAAAAAAl-g/succDsK1Fec/s1600/WP_20140426_014-crop.jpg" height="195" width="200" /></a></div>
 The library will, currently, print items for library cardholders at cost. &nbsp;You create the 3D file and send it to them. &nbsp;They tell you how much it will cost and, if you approve, create the object for you to pick up. &nbsp;An example that they showed me was a cookie cutter that they said would cost about $2.50 to print. &nbsp;Not the best price for a cookie cutter but pretty cool if it was a cookie cutter (or other item) that you designed yourself.<br />
 <br />
 If you haven't done 3D printing before, I recommend taking the class so that you can understand how 3D printing works, how to optimize your designs, and what to expect from the whole 3D printing process.<br />
@@ -70,7 +70,7 @@ If you haven't done 3D printing before, I recommend taking the class so that you
 <h3>
 Photo Studio</h3>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-Ss52YwjwqMc/U2BBzDocgoI/AAAAAAAAl-s/sRoRS6UeGWY/s1600/WP_20140426_010.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-Ss52YwjwqMc/U2BBzDocgoI/AAAAAAAAl-s/sRoRS6UeGWY/s1600/WP_20140426_010.jpg" height="112" width="200" /></a></div>
+<a href="//1.bp.blogspot.com/-Ss52YwjwqMc/U2BBzDocgoI/AAAAAAAAl-s/sRoRS6UeGWY/s1600/WP_20140426_010.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="//1.bp.blogspot.com/-Ss52YwjwqMc/U2BBzDocgoI/AAAAAAAAl-s/sRoRS6UeGWY/s1600/WP_20140426_010.jpg" height="112" width="200" /></a></div>
 The <a href="http://tic.ocls.info/photo/">photo studio</a> is sized appropriately for professional-looking photo shoots and photo editing. &nbsp;You could probably do some minor video shooting as well but it doesn't have the same noise reducing materials as the video studio. &nbsp;You are, however, in a library and the ambient noise level seems pretty low.<br />
 <br />
 The studio is fully equipped with lights, camera, and backdrops.<br />
@@ -79,13 +79,13 @@ More Audio</h3>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-MvY80CPhuCA/U2BECF6CnII/AAAAAAAAl_A/O_TR9V_hJH8/s1600/WP_20140426_012-crop.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://1.bp.blogspot.com/-MvY80CPhuCA/U2BECF6CnII/AAAAAAAAl_A/O_TR9V_hJH8/s1600/WP_20140426_012-crop.jpg" height="156" width="200" /></a></div>
+<a href="//1.bp.blogspot.com/-MvY80CPhuCA/U2BECF6CnII/AAAAAAAAl_A/O_TR9V_hJH8/s1600/WP_20140426_012-crop.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="//1.bp.blogspot.com/-MvY80CPhuCA/U2BECF6CnII/AAAAAAAAl_A/O_TR9V_hJH8/s1600/WP_20140426_012-crop.jpg" height="156" width="200" /></a></div>
 These things look like portable jail cells but they are small recording booths. &nbsp;These are appropriate for recording a single user speaking, singing, or playing an instrument. &nbsp;They contain the digital recording equipment and the booth serves to keep out outside noises. &nbsp;Some of the possible uses are recording an e-book, podcast, or voice-over or singing alone or with an instrument.<br />
 <br />
 <h3>
 More Video</h3>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-YHKVpJYyI2k/U2BF9o-hB7I/AAAAAAAAl_M/AWLMLoaqLmU/s1600/WP_20140426_024.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-YHKVpJYyI2k/U2BF9o-hB7I/AAAAAAAAl_M/AWLMLoaqLmU/s1600/WP_20140426_024.jpg" height="112" width="200" /></a></div>
+<a href="//2.bp.blogspot.com/-YHKVpJYyI2k/U2BF9o-hB7I/AAAAAAAAl_M/AWLMLoaqLmU/s1600/WP_20140426_024.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="//2.bp.blogspot.com/-YHKVpJYyI2k/U2BF9o-hB7I/AAAAAAAAl_M/AWLMLoaqLmU/s1600/WP_20140426_024.jpg" height="112" width="200" /></a></div>
 There are also a couple of video production suites. &nbsp;These are rooms that can be used to edit video in a more collaborative setting. &nbsp;The workstations mentioned earlier can also be used for editing video, but they are in a shared space where you have to be sensitive about the needs of the other users. &nbsp;In the editing suite, you can turn up the audio or bring in additional people to advice or comment on the editing process.<br />
 <br />
 <br />

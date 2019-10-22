@@ -8,7 +8,7 @@ tags:
 Here is something new to play with. &nbsp;I just released a package that adds commands for OrderBy that take strings for property name and direction.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-1Pc3hjbN_zE/VMzf1wSKVrI/AAAAAAAAmO8/UQpYUBBcdRE/s1600/InstagramCapture_7cf04b3e-5656-48dd-ab21-572180662bff.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-1Pc3hjbN_zE/VMzf1wSKVrI/AAAAAAAAmO8/UQpYUBBcdRE/s1600/InstagramCapture_7cf04b3e-5656-48dd-ab21-572180662bff.jpg" height="200" width="200" /></a><a href="http://1.bp.blogspot.com/-1Pc3hjbN_zE/VMzf1wSKVrI/AAAAAAAAmO8/UQpYUBBcdRE/s1600/InstagramCapture_7cf04b3e-5656-48dd-ab21-572180662bff.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><br /></a></div>
+<a href="//1.bp.blogspot.com/-1Pc3hjbN_zE/VMzf1wSKVrI/AAAAAAAAmO8/UQpYUBBcdRE/s1600/InstagramCapture_7cf04b3e-5656-48dd-ab21-572180662bff.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="//1.bp.blogspot.com/-1Pc3hjbN_zE/VMzf1wSKVrI/AAAAAAAAmO8/UQpYUBBcdRE/s1600/InstagramCapture_7cf04b3e-5656-48dd-ab21-572180662bff.jpg" height="200" width="200" /></a><a href="//1.bp.blogspot.com/-1Pc3hjbN_zE/VMzf1wSKVrI/AAAAAAAAmO8/UQpYUBBcdRE/s1600/InstagramCapture_7cf04b3e-5656-48dd-ab21-572180662bff.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><br /></a></div>
 Usage is very flexible. &nbsp;Here are some of the different ways to use the new commands:<br />
 <br />
 &nbsp;.OrderBy("Property").ThenBy("OtherProperty");<br />

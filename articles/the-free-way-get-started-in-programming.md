@@ -30,7 +30,7 @@ If you are under a certain age, I think the age is 13, you need a parent's permi
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-I-YmPJ8biz8/Uz18FNYUu1I/AAAAAAAAl7U/1tsrY2ftEOE/s1600/downloadVSExpress.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-I-YmPJ8biz8/Uz18FNYUu1I/AAAAAAAAl7U/1tsrY2ftEOE/s1600/downloadVSExpress.png" height="237" width="400" /></a></div>
+<a href="//1.bp.blogspot.com/-I-YmPJ8biz8/Uz18FNYUu1I/AAAAAAAAl7U/1tsrY2ftEOE/s1600/downloadVSExpress.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//1.bp.blogspot.com/-I-YmPJ8biz8/Uz18FNYUu1I/AAAAAAAAl7U/1tsrY2ftEOE/s1600/downloadVSExpress.png" height="237" width="400" /></a></div>
 <br />
 <br />
 Create your Visual Studio Online account&nbsp;by entering a name for your account on the "few more details" screen. &nbsp;Say that we call our account "something" then the url for your account will be something.visualstudio.com. &nbsp;You will use this later on to tell Azure where to find the code for your web site.<br />
@@ -67,7 +67,7 @@ Find the Solution Explorer window on the right side of your screen. &nbsp;Press 
 Right-click on the Solution and select "Check in"<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://1.bp.blogspot.com/-UsoNJOc5JGw/Uz2CNKuDpBI/AAAAAAAAl8Y/gqPH6IbZA30/s1600/vs-solution-view.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-UsoNJOc5JGw/Uz2CNKuDpBI/AAAAAAAAl8Y/gqPH6IbZA30/s1600/vs-solution-view.png" height="308" width="320" /></a></div>
+<a href="//1.bp.blogspot.com/-UsoNJOc5JGw/Uz2CNKuDpBI/AAAAAAAAl8Y/gqPH6IbZA30/s1600/vs-solution-view.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//1.bp.blogspot.com/-UsoNJOc5JGw/Uz2CNKuDpBI/AAAAAAAAl8Y/gqPH6IbZA30/s1600/vs-solution-view.png" height="308" width="320" /></a></div>
 <br />
 On the check-in screen, enter a comment and click "Check in"<br />
 <br />
@@ -88,7 +88,7 @@ However, we want to set up a free web site, not a trial web site. &nbsp;Click "A
 Now you should see 2 Subscriptions. &nbsp;"Free Trial" and "Pay-As-You-Go"<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-VGnlF-f8Ras/Uz2AU3qrpnI/AAAAAAAAl7o/tHtCCoSDPzw/s1600/subscriptionsPage.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-VGnlF-f8Ras/Uz2AU3qrpnI/AAAAAAAAl7o/tHtCCoSDPzw/s1600/subscriptionsPage.png" height="213" width="400" /></a></div>
+<a href="//2.bp.blogspot.com/-VGnlF-f8Ras/Uz2AU3qrpnI/AAAAAAAAl7o/tHtCCoSDPzw/s1600/subscriptionsPage.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//2.bp.blogspot.com/-VGnlF-f8Ras/Uz2AU3qrpnI/AAAAAAAAl7o/tHtCCoSDPzw/s1600/subscriptionsPage.png" height="213" width="400" /></a></div>
 <br />
 Click "Portal" to set up your free web site.<br />
 <br />
@@ -141,7 +141,7 @@ The build and deploy process will kick off automatically and will probably take 
 <br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://2.bp.blogspot.com/-Bg4BQwdZl-A/Uz2CDwWN6UI/AAAAAAAAl8Q/i7byBfMfzzA/s1600/default-page.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-Bg4BQwdZl-A/Uz2CDwWN6UI/AAAAAAAAl8Q/i7byBfMfzzA/s1600/default-page.png" height="232" width="400" /></a></div>
+<a href="//2.bp.blogspot.com/-Bg4BQwdZl-A/Uz2CDwWN6UI/AAAAAAAAl8Q/i7byBfMfzzA/s1600/default-page.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="//2.bp.blogspot.com/-Bg4BQwdZl-A/Uz2CDwWN6UI/AAAAAAAAl8Q/i7byBfMfzzA/s1600/default-page.png" height="232" width="400" /></a></div>
 <br />
 <br />
 You now have Visual Studio Express 2013 for Web installed on your machine, your source code is safely housed at your VisualStudio.com site (you can add up to four additional users to your project), and your code is automatically built and deployed to your Azure web site whenever you check in. &nbsp;You are practically a professional developer already, all you need now is to learn to program.<br />
