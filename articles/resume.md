@@ -15,13 +15,13 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
   * Architect – Tournament Management System 
   * Lead Developer – Upgrade Legacy Software Systems
 * Software Engineer – Nebraska Department of Roads
-<i>May 2010 - June 2015</i>
+<i>July 2012 - June 2015</i>
   * Architect/Engineer – Finance System 
   * Technical Leadership Working Group – Lead technical direction 
-* [2010 - 2010] Senior Software Engineer – Election Systems and Software 
-<i>May 2010 - June 2010</i>
+* Senior Software Engineer – Election Systems and Software 
+<i>May 2012 - July 2012</i>
 * Senior Consultant – QA Technologies 
-<i>May 2005 - June 2010</i>
+<i>May 2009 - May 2012</i>
   * Architect/Mentor/Senior Developer – Nebraska Department of Roads 
     * Architect/Engineer – NDOR Common 
     * Architect/Engineer – Electronic Accident Form 
@@ -30,7 +30,7 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
   * Architect/Engineer/Database Consultant – EnrollTrac 
   * Internal QA Technologies project 
 * Senior DevOps Engineer –– Vorteon, LLC 
-<i>May 2005 - June 2010</i>
+<i>June 2000 - March 2010</i>
   * Architect/Lead Engineer – SolutionsDesk Service Desk Application 
   * Architect/DevOps Engineer – Online Banking Instant Credit Card Approval 
     * Annually Audited Secure Hosting
@@ -51,16 +51,12 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
   * Nebraska.Code
   * Nebraska Code Camp
   
-* Chief Architect/Lead Developer – Open Source Projects 
-  * fFastMapper
-  * fFastInjector
-
 ### TECHNOLOGIES 
 
-* Visual Studio and VS Code
-* Git
+* Visual Studio, VS Code
+* Git, TFS, SVN
 * C#, ASP.NET MVC, Entity Framework, TSQL, JavaScript, HTML, CSS 
-* Microsoft SQL Server
+* Microsoft SQL Server, PostgreSQL
 * Azure Devops, VSTS, TFS
 
 ### EDUCATION AND TRAINING 
@@ -75,34 +71,37 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
 ### WORK EXPERIENCE 
 
 * Technical Architect – AgileThought, Inc
-  * Certified Scrum Master
+<i>June 2015 - Present</i>
+  * Secure Software Consultant - Secure Document Transmission System
   * Architect – Tournament Management System
-    * Single Page Web Application
-    * Database Design 
   * Lead Developer – Upgrade Legacy Software Systems
 * Software Engineer – Nebraska Department of Roads 
+<i>July 2012 - June 2015</i>
   * Architect/Engineer – Finance System 
-    * Automated the TFS Build and Deployment 
-    * Train and mentor other teams in TFS Build and Deployment
-    * Redesigned production move process with automation without breaking existing processes 
+    * Automated the Build and Deployment 
+    * Train and mentor other teams in Build and Deployment
     * Migrated DB2 tables and procedures to SQL Server
     * Mentor development team in TSQL stored procedure development 
     * Mentor development team in JavaScript development 
     * Created Entity Framework extension methods for common business filters 
     * C# Mentor
     * Work with subject matter experts to compile requirements 
-    * Researched legacy program and database structure to uncover potential additional requirements 
+    * Researched legacy program and database structure to uncover additional requirements 
     * Rewrite a COBOL, mainframe, DB2 system into a Windows Server, C# and SQL Server System 
-    * Agile development process with production moves every three weeks 
+    * Agile development process
+    * Continuous integreation
+    * Continuous delivery with production moves every three weeks 
     * Engaged and motivated customer involvement and satisfaction 
   * Technical Leadership Working Group – Lead technical direction 
     * Identify enterprise technical debt and create project proposals to eliminate it. 
     * Eliminate old product versions and technologies to streamline development and operations. 
     * Evaluate new products and product versions and plan upgrades. 
 * Senior Software Engineer – Election Systems and Software 
+<i>May 2012 - July 2012</i>
   * Research and Recommend performance enhancements 
   * Research and Recommend development methodology enhancements 
 * Senior Consultant – QA Technologies 
+<i>May 2009 - May 2012</i>
   * Architect/Mentor/Senior Developer – Nebraska Department of Roads 
     * Architect/Engineer – NDOR Common 
       * A common library used by multiple projects within Nebraska Department of Roads. 
@@ -122,7 +121,8 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
     * Translated Existing VB.NET Code to C# 
     * Enhanced plugin architecture with both interface–based plugins and XML–based plugins 
     * Technology: C#.NET, .NET remoting, and MS SQL Server 
-* Senior Software Engineer –– Vorteon, LLC 
+* Senior DevOps Engineer –– Vorteon, LLC 
+<i>June 2000 - March 2010</i>
   * Defined Standards and Practices for projects/developers including Agile methodology and testing. 
   * Designed and implemented projects designed for stability, reliability, ease of use, ease of development, high security. 
   * Architect/Lead Engineer – SolutionsDesk Service Desk Application 
@@ -136,6 +136,7 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
     * Technology: VB.NET, ASP.NET, MS SQL Server (2000, 2005), VBScript, ASP 
   * Architect/Lead Engineer – Online Banking Instant Credit Card Approval 
     * Designed and Developed FDIC–Compliant internet banking solution 
+    * Configured and Installed Secure Hosting environment (annually audited) using Linux servers
     * Defined and Implemented secure, highly reliable, highly available coding standards 
     * Implemented Change Management system 
   * Architect/Lead Engineer – SMTP Spam Filter Server 
@@ -151,20 +152,22 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
 ### OTHER EXPERIENCE 
 
 * Lecturer/Presenter 
-  * Augmented Reality with C#, Windows 7, and Microsoft Kinect 
-    * Lincoln .NET Users Group – January 2012 
-    * Nebraska Code Camp 2012 
+  * Secure Application Lifestyle
+    * ISC&#x00B2; Security Congress - October 2019
+
+  * MultiThreaded Debugging in Visual Studio
+  * Hosting .NET on Linux
+    * Orlando .NET Users Group - November 2016
+
   * Fun with C# Generics 
-    * Lincoln .NET Users Group – April 2013 
-    * Nebraska Code Camp 2013 
     * Omaha .NET Users Group – June 2014 
-* Chief Architect/Lead Developer – Open Source Projects 
-  * fFastMapper 
-    * fFastMapper is a high–speed tool to map and transfer property values between objects. 
-  * fFastInjector 
-    * fFastInjector is a high–speed and compact dependency injector. 
- 
- 
+    * Nebraska Code Camp 2013 
+    * Lincoln .NET Users Group – April 2013 
+
+  * Augmented Reality with C#, Windows 7, and Microsoft Kinect 
+    * Nebraska Code Camp 2012 
+    * Lincoln .NET Users Group – January 2012 
+     
 ### TECHNOLOGIES
  
 * Visual Studio
