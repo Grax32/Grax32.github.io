@@ -25,33 +25,38 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
     * C# Mentor 
   * Architect/Engineer/Database Consultant – EnrollTrac 
   * Internal QA Technologies project 
-* Senior Software Engineer –– Vorteon, LLC 
+* Senior DevOps Engineer –– Vorteon, LLC 
   * Architect/Lead Engineer – SolutionsDesk Service Desk Application 
-  * Architect/Lead Engineer – Online Banking Instant Credit Card Approval 
+  * Architect/DevOps Engineer – Online Banking Instant Credit Card Approval 
+    * Annually Audited Secure Hosting
+    * Secure Application Architecture
   * Senior Software Engineer – Ipoint Kiosk 
 
 ### Certifications
 
   * CSSLP - Certified Secure Software Lifecycle Professional
-  * Certified Scrum Master
+  * CSM Level 1 - Certified Scrum Master
 
 ### OTHER EXPERIENCE 
 
 * Lecturer/Presenter 
-  * Secure Software Lifestyle - 2019 ISC&#x00B2; Security Congress
-  * Introduction to C# Generics 
-  * Fun with C# Generics
-  * Augmented Reality with C#, Windows 7, and Microsoft Kinect
+  * ISC&#x00B2; Security Congress
+  * South Florida Code Camp
+  * Orlando Code Camp
+  * Nebraska.Code
+  * Nebraska Code Camp
+  
 * Chief Architect/Lead Developer – Open Source Projects 
   * fFastMapper
   * fFastInjector
 
 ### TECHNOLOGIES 
 
-* Visual Studio (2013, 2010, 2008, 2005, 2003) 
+* Visual Studio and VS Code
+* Git
 * C#, ASP.NET MVC, Entity Framework, TSQL, JavaScript, HTML, CSS 
-* Microsoft SQL Server (2005 through 2012) 
-* Team Foundation Server (2010 through 2013) 
+* Microsoft SQL Server
+* Azure Devops, VSTS, TFS
 
 ### EDUCATION AND TRAINING 
 
@@ -133,6 +138,11 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
   * Senior Software Engineer – Ipoint Kiosk 
     * Developed and Implemented Flash–based eyeglass try–on interface 
 
+### Certifications
+
+  * CSSLP - Certified Secure Software Lifecycle Professional
+  * CSM Level 1 - Certified Scrum Master
+
 ### OTHER EXPERIENCE 
 
 * Lecturer/Presenter 
@@ -147,26 +157,26 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
   * fFastMapper 
     * fFastMapper is a high–speed tool to map and transfer property values between objects. 
   * fFastInjector 
-    * fFastInjector is a high–speed and compact dependency injector, service locator, and/or IOC (inversion of control) container. 
-  * SubtractJS 
-    * SubtractJS is script that makes full–screen HTML layouts quick and easy. 
+    * fFastInjector is a high–speed and compact dependency injector. 
  
  
 ### TECHNOLOGIES
  
-* Visual Studio (2015, 2013, 2010, 2008, 2005, 2003) 
+* Visual Studio
+* VS Code
+* Git, GitFlow, branch, merge, rebase
 * C#, ASP.NET MVC, Entity Framework, TSQL, JavaScript, HTML, CSS 
 * Generic programming in C# 
 * Extension Methods 
 * Test–driven development 
-* Layered development 
+* Multi-tier development 
 * Dependency–Injection 
-* Microsoft SQL Server (2005 through 2016, SQL Azure)  
+* Microsoft SQL Server  
 * Database Design 
 * Data Normalization 
 * TSQL Queries and Stored Procedures 
-* Team Foundation Server (2010 through 2015) 
-* Automated build scripts, shelving, branching and merging, work item queries, TFS API 
+* Azure DevOps, VSTS, TFS
+* Build and deployment scripts
 
 ### EDUCATION AND TRAINING
  
