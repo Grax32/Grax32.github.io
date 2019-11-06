@@ -9,11 +9,13 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
 
 ### WORK EXPERIENCE 
 
-* [2015 - &nbsp;&nbsp;&nbsp;&nbsp;] Technical Architect – AgileThought, Inc 
+* Technical Architect – AgileThought, Inc 
+<i>June 2015 - Present</i>
   * Secure Software Consultant - Secure Document Transmission System
   * Architect – Tournament Management System 
   * Lead Developer – Upgrade Legacy Software Systems
-* [2010 - 2015] Software Engineer – Nebraska Department of Roads 
+* Software Engineer – Nebraska Department of Roads
+<i>May 2010 - June 2015</i>
   * Architect/Engineer – Finance System 
   * Technical Leadership Working Group – Lead technical direction 
 * [2010 - 2010] Senior Software Engineer – Election Systems and Software 
