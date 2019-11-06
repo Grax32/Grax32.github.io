@@ -37,7 +37,7 @@ i {
     border: 1px solid gray;
     display: block;
     padding-left: 3px;
-    width: min-content;
+    width: max-content;
 }
 
 @media screen {
