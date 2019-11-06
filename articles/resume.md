@@ -9,15 +9,15 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
 
 ### WORK EXPERIENCE 
 
-* Technical Architect – AgileThought, Inc 
+* [2015 - &nbsp;&nbsp;&nbsp;&nbsp;] Technical Architect – AgileThought, Inc 
   * Secure Software Consultant - Secure Document Transmission System
   * Architect – Tournament Management System 
   * Lead Developer – Upgrade Legacy Software Systems
-* Software Engineer – Nebraska Department of Roads 
+* [2010 - 2015] Software Engineer – Nebraska Department of Roads 
   * Architect/Engineer – Finance System 
   * Technical Leadership Working Group – Lead technical direction 
-* Senior Software Engineer – Election Systems and Software 
-* Senior Consultant – QA Technologies 
+* [2010 - 2010] Senior Software Engineer – Election Systems and Software 
+* [2010 - 2015] Senior Consultant – QA Technologies 
   * Architect/Mentor/Senior Developer – Nebraska Department of Roads 
     * Architect/Engineer – NDOR Common 
     * Architect/Engineer – Electronic Accident Form 
@@ -25,14 +25,14 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
     * C# Mentor 
   * Architect/Engineer/Database Consultant – EnrollTrac 
   * Internal QA Technologies project 
-* Senior DevOps Engineer –– Vorteon, LLC 
+* [2004 - 2012] Senior DevOps Engineer –– Vorteon, LLC 
   * Architect/Lead Engineer – SolutionsDesk Service Desk Application 
   * Architect/DevOps Engineer – Online Banking Instant Credit Card Approval 
     * Annually Audited Secure Hosting
     * Secure Application Architecture
   * Senior Software Engineer – Ipoint Kiosk 
 
-### Certifications
+### CERTIFICATIONS
 
   * CSSLP - Certified Secure Software Lifecycle Professional
   * CSM Level 1 - Certified Scrum Master
