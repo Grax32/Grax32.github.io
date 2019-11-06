@@ -19,7 +19,9 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
   * Architect/Engineer – Finance System 
   * Technical Leadership Working Group – Lead technical direction 
 * [2010 - 2010] Senior Software Engineer – Election Systems and Software 
-* [2010 - 2015] Senior Consultant – QA Technologies 
+<i>May 2010 - June 2010</i>
+* Senior Consultant – QA Technologies 
+<i>May 2005 - June 2010</i>
   * Architect/Mentor/Senior Developer – Nebraska Department of Roads 
     * Architect/Engineer – NDOR Common 
     * Architect/Engineer – Electronic Accident Form 
@@ -27,7 +29,8 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
     * C# Mentor 
   * Architect/Engineer/Database Consultant – EnrollTrac 
   * Internal QA Technologies project 
-* [2004 - 2012] Senior DevOps Engineer –– Vorteon, LLC 
+* Senior DevOps Engineer –– Vorteon, LLC 
+<i>May 2005 - June 2010</i>
   * Architect/Lead Engineer – SolutionsDesk Service Desk Application 
   * Architect/DevOps Engineer – Online Banking Instant Credit Card Approval 
     * Annually Audited Secure Hosting
