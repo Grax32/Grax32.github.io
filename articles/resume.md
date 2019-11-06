@@ -157,21 +157,12 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
 
   * MultiThreaded Debugging in Visual Studio
   * Hosting .NET on Linux
-    * Orlando .NET Users Group - November 2016
-
   * Fun with C# Generics 
-    * Omaha .NET Users Group – June 2014 
-    * Nebraska Code Camp 2013 
-    * Lincoln .NET Users Group – April 2013 
-
   * Augmented Reality with C#, Windows 7, and Microsoft Kinect 
-    * Nebraska Code Camp 2012 
-    * Lincoln .NET Users Group – January 2012 
      
 ### TECHNOLOGIES
  
-* Visual Studio
-* VS Code
+* Visual Studio, VS Code
 * Git, GitFlow, branch, merge, rebase
 * C#, ASP.NET MVC, Entity Framework, TSQL, JavaScript, HTML, CSS 
 * Generic programming in C# 
@@ -184,7 +175,7 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
 * Data Normalization 
 * TSQL Queries and Stored Procedures 
 * Azure DevOps, VSTS, TFS
-* Build and deployment scripts
+* Build and deployment automation
 
 ### EDUCATION AND TRAINING
  
