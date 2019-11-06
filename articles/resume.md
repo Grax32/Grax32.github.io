@@ -10,8 +10,8 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
 ### WORK EXPERIENCE 
 
 * Technical Architect – AgileThought, Inc 
-  * Certified Scrum Master
-  * Architect – Fish Tournament Management System 
+  * Secure Software Consultant - Secure Document Transmission System
+  * Architect – Tournament Management System 
   * Lead Developer – Upgrade Legacy Software Systems
 * Software Engineer – Nebraska Department of Roads 
   * Architect/Engineer – Finance System 
@@ -30,16 +30,21 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
   * Architect/Lead Engineer – Online Banking Instant Credit Card Approval 
   * Senior Software Engineer – Ipoint Kiosk 
 
+### Certifications
+
+  * CSSLP - Certified Secure Software Lifecycle Professional
+  * Certified Scrum Master
+
 ### OTHER EXPERIENCE 
 
 * Lecturer/Presenter 
+  * Secure Software Lifestyle - 2019 ISC&#x00B2; Security Congress
   * Introduction to C# Generics 
   * Fun with C# Generics
   * Augmented Reality with C#, Windows 7, and Microsoft Kinect
 * Chief Architect/Lead Developer – Open Source Projects 
   * fFastMapper
   * fFastInjector
-  * SubtractJS 
 
 ### TECHNOLOGIES 
 
@@ -61,7 +66,7 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
 
 * Technical Architect – AgileThought, Inc
   * Certified Scrum Master
-  * Architect – Fish Tournament Management System
+  * Architect – Tournament Management System
     * Single Page Web Application
     * Database Design 
   * Lead Developer – Upgrade Legacy Software Systems
