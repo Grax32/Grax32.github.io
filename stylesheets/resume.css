@@ -33,9 +33,11 @@ h3 {
 i {
     font-weight: 500;
     font-style: italic;
-    background-color: orange;
+    background-color: lightgray;
     border: 1px solid gray;
     display: block;
+    padding-left: 3px;
+    width: min-content;
 }
 
 @media screen {
