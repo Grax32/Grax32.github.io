@@ -35,6 +35,7 @@ i.date {
     font-style: italic;
     background-color: orange;
     border: 1px solid gray;
+    display: block;
 }
 
 @media screen {
