@@ -1,6 +1,7 @@
 ## Web Site
 
 > Web site for secureapplicationlifestyle.com, grax32.com, vorteon.com, photo.grax32.com
+
 > * Secure Application Lifestyle
 > * Coding
 > * Productive Happy Teams
