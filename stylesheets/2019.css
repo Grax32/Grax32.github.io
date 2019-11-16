@@ -9,7 +9,13 @@
 .page-header-main-image {
     width: 100%;
     max-width: 1440px;
-    max-height: 10vh;
+    max-height: 20vh;
+}
+
+.page-header-main-image {
+    width: 100%;
+    max-width: 1440px;
+    height: auto;
 }
 
 .page-header-author-image {
