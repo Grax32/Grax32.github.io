@@ -6,7 +6,7 @@
     position: relative;
 }
 
-.page-header-main-image {
+.page-header-main-image-crop {
     width: 100%;
     max-width: 1440px;
     max-height: 20vh;
