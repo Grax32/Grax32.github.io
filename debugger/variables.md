@@ -4,13 +4,10 @@ title: Debug
 permalink: /debug/variables
 tags: dbg
 ---
-<html><body>
-<pre>
-    site: {{ site | jsonify | escape }}
-    page: {{ page | jsonify | escape }}
-    layout: {{ layout | jsonify | escape }}
-    content: {{ content | jsonify | escape }}
-    paginator: {{ paginator | jsonify | escape }}
-</pre>
-</body>
-</html>
+{
+    "site": {{ site | jsonify }}
+    "page": {{ page | jsonify }}
+    "layout": {{ layout | jsonify }}
+    "content": {{ content | jsonify }}
+    "paginator": {{ paginator | jsonify }}
+}
