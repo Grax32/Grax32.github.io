@@ -1,9 +1,9 @@
 ---
-layout: home
+layout: blank
 title: Debug
 permalink: /debug/variables
 ---
-
+<html><body>
 <pre>
     site: {{ site | jsonify | escape }}
     page: {{ page | jsonify | escape }}
@@ -11,3 +11,5 @@ permalink: /debug/variables
     content: {{ content | jsonify | escape }}
     paginator: {{ paginator | jsonify | escape }}
 </pre>
+</body>
+</html>
