@@ -2,7 +2,7 @@
 name: Secure Application Lifestyle
 
 # 
-hostfamily: site.env["SERVER_HOST"] | default: "MAIN"
+hostfamily: site.env["SERVER_HOST"] 
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: Continuous Improvement for your Life, your Team, and your Code
