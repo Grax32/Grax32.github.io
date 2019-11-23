@@ -23,7 +23,7 @@ Our selected way of doing this is by creating a linked server on Sql Server (200
 </ul>
 <div>
 <div style="text-align: left;">
-<a imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img alt="" border="0" height="213" src="http://4.bp.blogspot.com/-oplnjJV3cfg/UYOuFFf-IDI/AAAAAAAAljo/HM0G8getifo/s320/IMG_2623-web.jpg" title="No.  It doesn't really relate to the story.  It is just a photo I took that I am proud of." width="320" /></a></div>
+<a imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img alt="" border="0" height="213" src="https://4.bp.blogspot.com/-oplnjJV3cfg/UYOuFFf-IDI/AAAAAAAAljo/HM0G8getifo/s320/IMG_2623-web.jpg" title="No.  It doesn't really relate to the story.  It is just a photo I took that I am proud of." width="320" /></a></div>
 We recently upgraded our DB2 environment from 9.x to 10.0. &nbsp;There are differences between the 2 in a linked server environment. &nbsp;I mention this because my observations below are based on the 10.0 environment and you may not have the same experience if you use a different version or a different driver for the link.</div>
 <div>
 <br /></div>

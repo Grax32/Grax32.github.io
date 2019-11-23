@@ -33,7 +33,7 @@ Multi-Use Space</h3>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-7DTYEC7vAEo/U2AI2F9BcYI/AAAAAAAAl9w/mQrWa8nxZYQ/s1600/WP_20140426_003.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://4.bp.blogspot.com/-7DTYEC7vAEo/U2AI2F9BcYI/AAAAAAAAl9w/mQrWa8nxZYQ/s1600/WP_20140426_003.jpg" height="112" width="200" /></a></div>
+<a href="https://4.bp.blogspot.com/-7DTYEC7vAEo/U2AI2F9BcYI/AAAAAAAAl9w/mQrWa8nxZYQ/s1600/WP_20140426_003.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="https://4.bp.blogspot.com/-7DTYEC7vAEo/U2AI2F9BcYI/AAAAAAAAl9w/mQrWa8nxZYQ/s1600/WP_20140426_003.jpg" height="112" width="200" /></a></div>
 When you enter the technology center, you see a vast open space that is sparsely populated with groupings of chairs, work areas, work tables, computer stations, etc. &nbsp;Each area is outfitted with power connections in the tables or popping up from the floor. &nbsp;One section is configured for meetings with a podium and chairs, another is configured with screens that can display a single computer or up to four at once.<br />
 <br />
 These spaces are intended for various types of collaboration including meetings, group work sessions, brainstorming, etc. &nbsp;The classroom is used for classes on things like Adobe Creative Suite, using the simulators, working with Gimp.<br />
@@ -46,7 +46,7 @@ And there is still lots more.<br />
 <h3>
 Video Studio / Audio Studio</h3>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-wW0hJK-Kg2A/U2ALLSSWZ1I/AAAAAAAAl98/qa-6GRh5p4I/s1600/WP_20140426_018.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-wW0hJK-Kg2A/U2ALLSSWZ1I/AAAAAAAAl98/qa-6GRh5p4I/s1600/WP_20140426_018.jpg" height="180" width="320" /></a></div>
+<a href="https://4.bp.blogspot.com/-wW0hJK-Kg2A/U2ALLSSWZ1I/AAAAAAAAl98/qa-6GRh5p4I/s1600/WP_20140426_018.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-wW0hJK-Kg2A/U2ALLSSWZ1I/AAAAAAAAl98/qa-6GRh5p4I/s1600/WP_20140426_018.jpg" height="180" width="320" /></a></div>
 The 2 most exciting spaces to me were the video studio and the audio studio.<br />
 <br />
 The <a href="http://tic.ocls.info/audio/">audio studio</a> is not ready for use yet but is a state-of-the-art audio recording studio with enough space to record an entire choir. &nbsp;While I have done plenty of live audio work, I am not an expert in professional audio recording equipment but it appears to have everything you need to create a completely professional recording.<br />

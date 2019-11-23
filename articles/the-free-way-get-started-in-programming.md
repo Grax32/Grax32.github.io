@@ -38,7 +38,7 @@ Create your Visual Studio Online account&nbsp;by entering a name for your accoun
 Create a new Visual Studio Online project from the something.visualstudio.com web page.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-LfchsorO98Q/Uz18DVzHKqI/AAAAAAAAl7Q/OmmcdLxAI0A/s1600/createNewProject.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://3.bp.blogspot.com/-LfchsorO98Q/Uz18DVzHKqI/AAAAAAAAl7Q/OmmcdLxAI0A/s1600/createNewProject.png" height="185" width="400" /></a></div>
+<a href="https://3.bp.blogspot.com/-LfchsorO98Q/Uz18DVzHKqI/AAAAAAAAl7Q/OmmcdLxAI0A/s1600/createNewProject.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-LfchsorO98Q/Uz18DVzHKqI/AAAAAAAAl7Q/OmmcdLxAI0A/s1600/createNewProject.png" height="185" width="400" /></a></div>
 <br />
 <br />
 Complete the install of Visual Studio Express but don't open it yet.<br />
@@ -93,7 +93,7 @@ Now you should see 2 Subscriptions. &nbsp;"Free Trial" and "Pay-As-You-Go"<br />
 Click "Portal" to set up your free web site.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-gJQHZcvYH5I/Uz2AEz6qacI/AAAAAAAAl7g/8iZasgTGjiw/s1600/azure-main.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-gJQHZcvYH5I/Uz2AEz6qacI/AAAAAAAAl7g/8iZasgTGjiw/s1600/azure-main.png" height="250" width="400" /></a></div>
+<a href="https://4.bp.blogspot.com/-gJQHZcvYH5I/Uz2AEz6qacI/AAAAAAAAl7g/8iZasgTGjiw/s1600/azure-main.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-gJQHZcvYH5I/Uz2AEz6qacI/AAAAAAAAl7g/8iZasgTGjiw/s1600/azure-main.png" height="250" width="400" /></a></div>
 <br />
 <br />
 Take the little tour if you wish, but then click "New" from the bottom left of the main page.<br />
@@ -101,10 +101,10 @@ Take the little tour if you wish, but then click "New" from the bottom left of t
 Select "COMPUTE", "WEB SITE", and "CUSTOM CREATE" to create your web site.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-Lv_ku5IXSu8/Uz2BIYrmEeI/AAAAAAAAl70/AbVAHXg_8KQ/s1600/newWebSite.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://3.bp.blogspot.com/-Lv_ku5IXSu8/Uz2BIYrmEeI/AAAAAAAAl70/AbVAHXg_8KQ/s1600/newWebSite.png" height="92" width="320" /></a></div>
+<a href="https://3.bp.blogspot.com/-Lv_ku5IXSu8/Uz2BIYrmEeI/AAAAAAAAl70/AbVAHXg_8KQ/s1600/newWebSite.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-Lv_ku5IXSu8/Uz2BIYrmEeI/AAAAAAAAl70/AbVAHXg_8KQ/s1600/newWebSite.png" height="92" width="320" /></a></div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-3SCjXB3f8j0/Uz2BX1jvoII/AAAAAAAAl78/WWkyXW8OeO8/s1600/azure-custom-create.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-3SCjXB3f8j0/Uz2BX1jvoII/AAAAAAAAl78/WWkyXW8OeO8/s1600/azure-custom-create.png" height="228" width="320" /></a></div>
+<a href="https://4.bp.blogspot.com/-3SCjXB3f8j0/Uz2BX1jvoII/AAAAAAAAl78/WWkyXW8OeO8/s1600/azure-custom-create.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-3SCjXB3f8j0/Uz2BX1jvoII/AAAAAAAAl78/WWkyXW8OeO8/s1600/azure-custom-create.png" height="228" width="320" /></a></div>
 <br />
 <br />
 Enter the URL. &nbsp;something.azurewebsites.net &nbsp;Since this is a free web site, you will not be able to set the domain name to anything that azurewebsites.net, even if you own your own domain.<br />
@@ -124,7 +124,7 @@ Click the Check Mark to create<br />
 "Where is your source code?"<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://4.bp.blogspot.com/-cgcLn6nQpM0/Uz2Bnt16L8I/AAAAAAAAl8E/EIEjZzaF4HY/s1600/azure-where-is-your-source.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-cgcLn6nQpM0/Uz2Bnt16L8I/AAAAAAAAl8E/EIEjZzaF4HY/s1600/azure-where-is-your-source.png" height="263" width="400" /></a></div>
+<a href="https://4.bp.blogspot.com/-cgcLn6nQpM0/Uz2Bnt16L8I/AAAAAAAAl8E/EIEjZzaF4HY/s1600/azure-where-is-your-source.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://4.bp.blogspot.com/-cgcLn6nQpM0/Uz2Bnt16L8I/AAAAAAAAl8E/EIEjZzaF4HY/s1600/azure-where-is-your-source.png" height="263" width="400" /></a></div>
 <br />
 <br />
 Click "Visual Studio Online"<br />
