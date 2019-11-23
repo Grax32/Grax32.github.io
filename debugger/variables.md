@@ -2,6 +2,7 @@
 layout: blank
 title: Debug
 permalink: /debug/variables
+tags: dbg
 ---
 <html><body>
 <pre>
