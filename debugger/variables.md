@@ -5,5 +5,5 @@ permalink: /debug/variables
 tags: dbg
 ---
 {
- {{ site.env["SERVER_HOST"] }}
+ {{ site.env["SERVER_HOST"] }}, {{ site.hostfamily }}
 }

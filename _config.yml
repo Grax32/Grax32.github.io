@@ -1,6 +1,9 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
 name: Secure Application Lifestyle
 
+# 
+hostfamily: site.env["SERVER_HOST"] | default: "MAIN"
+
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: Continuous Improvement for your Life, your Team, and your Code
 
@@ -27,12 +30,13 @@ url: https://grax32.com
 permalink: none
 
 # How many articles do you wish to appear on the front page:
-paginate: 8
+# paginate: 8
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, _site]
 
-plugins: [jekyll-sitemap, jekyll-paginate]
+plugins: [jekyll-sitemap]
+# , jekyll-paginate]
 
 collections:
   tags:
