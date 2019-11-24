@@ -40,7 +40,7 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
 ### CERTIFICATIONS
 
   * CSSLP - Certified Secure Software Lifecycle Professional
-  * CSM Level 1 - Certified Scrum Master
+  * PSM Level 1 - Professional Scrum Master
 
 ### OTHER EXPERIENCE 
 
@@ -147,7 +147,7 @@ pagefooter: David Walker &bull; 402-440-9707 &bull; dwalker@vorteon.com
 ### Certifications
 
   * CSSLP - Certified Secure Software Lifecycle Professional
-  * CSM Level 1 - Certified Scrum Master
+  * PSM Level 1 - Professional Scrum Master
 
 ### OTHER EXPERIENCE 
 
