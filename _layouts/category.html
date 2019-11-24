@@ -12,28 +12,30 @@
 
     <div class="row">
         <section class="col-md-10">
-            {{content}} 
+            {{content}}
+
             {% assign content = content | strip %}
+
             {% if content != "" %}
-              <hr/>
+                <hr />
             {% endif %}
-             {% for sitePage in sitePages
-            reversed %} {% if sitePage.tags contains page.slug %}
-            {% assign sitePageUrl = sitePage.url | replace: ".html", "" %}
-            <a href="{{ sitePageUrl }}">{{ sitePage.title }}</a><br/> {% endif %} {% endfor %}
+            {% for sitePage in site.pages %} 
+                {% if sitePage.tags contains page.slug %}
+                    {% assign sitePageUrl = sitePage.url | replace: ".html", "" %}
+                    <a href="{{ sitePageUrl }}">{{ sitePage.title }}</a><br /> 
+                {% endif %} 
+            {% endfor %}
         </section>
         <section class="col-md-2 grax-navigation-pane">
-            <a href="/">Home</a><br/>
-            <a href="/improve/your/life">Improve Your Life</a><br/>
-            <a href="/improve/your/team">Improve Your Team</a><br/>
-            <a href="/improve/your/code">Improve Your Code</a><br/>
-            <a href="/here/is/my/opinion">Opinion</a><br/>
-            <a href="/software/projects">Software Projects</a><br/>
+            <a href="/">Home</a><br />
+            <a href="/contact">Contact</a><br />
+            <a href="/improve/your/life">Improve Your Life</a><br />
+            <a href="/improve/your/team">Improve Your Team</a><br />
+            <a href="/improve/your/code">Improve Your Code</a><br />
+            <a href="/here/is/my/opinion">Opinion</a><br />
+            <a href="/software/projects">Software Projects</a><br />
         </section>
     </div>
-    <script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
-        crossorigin="anonymous"></script>
+    {% include trailing-scripts.html %}
 </body>
-
 </html>
