@@ -19,7 +19,7 @@
             {% if content != "" %}
                 <hr />
             {% endif %}
-            {% for sitePage in site.Pages %} 
+            {% for sitePage in site.pages %} 
                 {% if sitePage.tags contains page.slug %}
                     {% assign sitePageUrl = sitePage.url | replace: ".html", "" %}
                     <a href="{{ sitePageUrl }}">{{ sitePage.title }}</a><br /> 
