@@ -1,25 +1,11 @@
 ﻿<html>
-{% assign author = page.author | default: "dwalker" %}
 <head>
-    <title>{{ page.title }}</title>
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="jekyll-build-time" content="{{ site.time }}" />
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    {% include headers.html %}
 
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:description" content="Secure Software, Strong Teams" />
     <meta property="og:image" content="{{ site.url }}{{ page.ogImage | default: "/images/david-walker.png" }}" />
-
-    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
-          crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css"
-          integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css" />
-    <link rel="stylesheet" href="/stylesheets/2019.css">
-
-    <title>{{ page.title }}</title>
 </head>
 
 <body>
@@ -32,7 +18,7 @@
         </div>
     </div>
     <div class="page-topnav">
-        <a href="/">Home</a> &bull; <a href="/contact">Contact</a> 
+        <a href="/">Home</a> &bull; <a href="/contact">Contact</a>
     </div>
 
     <div class="container">
@@ -44,8 +30,6 @@
                 {{content}}
             </section>
             <section class="col-md-2 grax-navigation-pane">
-                <iframe src="https://www.facebook.com/plugins/like.php?href={{ page.url || absolute_url || url_encode }}%2F&width=96&layout=button&action=like&size=small&show_faces=true&share=true&height=65&appId=2187203368212843" width="96" height="65" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-                <br />
                 <a href="/">Home</a><br />
                 <a href="/improve/your/life">Improve Your Life</a><br />
                 <a href="/improve/your/team">Improve Your Team</a><br />
@@ -61,6 +45,5 @@
     <script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS"
             crossorigin="anonymous"></script>
-    {% include google-analytics.html %}
 </body>
 </html>

@@ -10,7 +10,7 @@ Implementing INotifyPropertyChanged got a little easier in C# 5.0 in .NET 4.5.  
 <br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-EU1bAo_qgMQ/VOesvD1AHYI/AAAAAAAAmPQ/0jzzxqYDHjo/s1600/WP_20141225_023.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://3.bp.blogspot.com/-EU1bAo_qgMQ/VOesvD1AHYI/AAAAAAAAmPQ/0jzzxqYDHjo/s1600/WP_20141225_023.jpg" height="112" width="200" /></a></div>
+<a href="https://3.bp.blogspot.com/-EU1bAo_qgMQ/VOesvD1AHYI/AAAAAAAAmPQ/0jzzxqYDHjo/s1600/WP_20141225_023.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-EU1bAo_qgMQ/VOesvD1AHYI/AAAAAAAAmPQ/0jzzxqYDHjo/s1600/WP_20141225_023.jpg" height="112" width="200" /></a></div>
 Before the CallerMemberName attribute, you had to some get the name of the property changed. &nbsp;The simplest way is to just type it in in a string like <span style="background-color: yellow;">OnPropertyChanged("BirthDate")</span> but I have also seen some nice solutions using expressions. &nbsp;However, with the CallerMemberName attribute, the compiler will fill in the name of the property.<br />
 <br />
 The performance is exactly the same as if you typed in the name of the property because the compiled code is actually the same as if you had typed it in. <br />
