@@ -2,6 +2,7 @@
 
 <head>
     {% include headers.html %}
+    {% assign sitePages = site.pages }
 </head>
 
 <body class="container">
@@ -13,14 +14,18 @@
     <div class="row">
         <section class="col-md-10">
             {{content}}
+
             {% assign content = content | strip %}
+
             {% if content != "" %}
-            <hr />
+                <hr />
             {% endif %}
-            {% for sitePage in sitePages
-            reversed %} {% if sitePage.tags contains page.slug %}
-            {% assign sitePageUrl = sitePage.url | replace: ".html", "" %}
-            <a href="{{ sitePageUrl }}">{{ sitePage.title }}</a><br /> {% endif %} {% endfor %}
+            {% for sitePage in sitePages %} 
+                {% if sitePage.tags contains page.slug %}
+                    {% assign sitePageUrl = sitePage.url | replace: ".html", "" %}
+                    <a href="{{ sitePageUrl }}">{{ sitePage.title }}</a><br /> 
+                {% endif %} 
+            {% endfor %}
         </section>
         <section class="col-md-2 grax-navigation-pane">
             <a href="/">Home</a><br />
