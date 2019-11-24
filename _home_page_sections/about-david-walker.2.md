@@ -8,7 +8,7 @@ name: about-2
 * Scrum Master
   * [Professional Scrum Master Level 1 &bull; Scrum.org](http://www.scrum.org/) 
 * Photography
-  * [Grax Photography](https://www.facebook.com/Grax32PhotoArt/)
+  * [Grax32 Art and Photography](https://www.facebook.com/Grax32PhotoArt/)
   * [Instagram - @Grax32](https://www.instagram.com/grax32/)
 * Social Media
   * [StackOverflow - Grax32](https://stackoverflow.com/users/1056639/grax32) 
