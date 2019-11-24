@@ -2,7 +2,6 @@
 
 <head>
     {% include headers.html %}
-    {% assign sitePages = site.pages %}
 </head>
 
 <body class="container">
@@ -20,7 +19,7 @@
             {% if content != "" %}
                 <hr />
             {% endif %}
-            {% for sitePage in sitePages %} 
+            {% for sitePage in site.Pages %} 
                 {% if sitePage.tags contains page.slug %}
                     {% assign sitePageUrl = sitePage.url | replace: ".html", "" %}
                     <a href="{{ sitePageUrl }}">{{ sitePage.title }}</a><br /> 
@@ -29,6 +28,7 @@
         </section>
         <section class="col-md-2 grax-navigation-pane">
             <a href="/">Home</a><br />
+            <a href="/contact">Contact</a><br />
             <a href="/improve/your/life">Improve Your Life</a><br />
             <a href="/improve/your/team">Improve Your Team</a><br />
             <a href="/improve/your/code">Improve Your Code</a><br />
