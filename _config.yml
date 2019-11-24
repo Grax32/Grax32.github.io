@@ -20,19 +20,20 @@ category_dir: /
 #baseurl: /path/to/blog 
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://secureapplicationlifestyle.com
+url: https://grax32.com
 
 #### Under the Hood Stuff #####
 
 permalink: none
 
 # How many articles do you wish to appear on the front page:
-paginate: 8
+# paginate: 8
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, _site]
 
-gems: [jekyll-sitemap]
+plugins: [jekyll-sitemap]
+# , jekyll-paginate]
 
 collections:
   tags:
