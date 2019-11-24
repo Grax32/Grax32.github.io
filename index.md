@@ -1,6 +1,11 @@
 ---
-layout: home
-title: David Walker
+oldlayout: home
+oldtitle: David Walker
+
+layout: redirect
+permalink: /
+destinationlink: https://grax32.com/
+
 ---
 
 <section class="row">
