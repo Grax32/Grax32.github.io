@@ -13,17 +13,9 @@
     <div class="row">
         <section class="col-md-10">
             {{content}}
-
-            {% assign content = content | strip %}
-
-            {% if content != "" %}
-                <hr />
-            {% endif %}
-            {% for sitePage in site.pages %} 
-                {% if sitePage.tags contains page.slug %}
-                    {% assign sitePageUrl = sitePage.url | replace: ".html", "" %}
-                    <a href="{{ sitePageUrl }}">{{ sitePage.title }}</a><br /> 
-                {% endif %} 
+            <hr />
+            {% for sitePage in site.pages | where_exp: "sitePage","sitePage.tags contains page.slug" %} 
+                <a href="{{ sitePage.url | replace: ".html", "" }}">{{ sitePage.title }}</a><br /> 
             {% endfor %}
         </section>
         <section class="col-md-2 grax-navigation-pane">
