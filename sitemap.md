@@ -1,5 +1,5 @@
 ---
 layout: blank
 ---
-{% site.pages | jsonify %}
+{{ site.pages | jsonify }}
 
