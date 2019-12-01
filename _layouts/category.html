@@ -14,8 +14,11 @@
         <section class="col-md-10">
             {{content}}
             <hr />
-            {% for sitePage in site.pages | where_exp: "sitePage","sitePage.tags contains page.slug" %} 
-                <a href="{{ sitePage.url | replace: ".html", "" }}">{{ sitePage.title }}</a><br /> 
+            {%
+                assign sitePages = site.pages | where_exp: "sitePage","sitePage.tags contains page.slug"
+            %}
+            {% for sitePage in sitePages %}
+                <a href="{{ sitePage.url | replace: ".html", "" }}">{{ sitePage.title }}</a><br />
             {% endfor %}
         </section>
         <section class="col-md-2 grax-navigation-pane">
