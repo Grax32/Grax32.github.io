@@ -1,0 +1,47 @@
+<html>
+  <head>
+    <title>Paycheck Preview</title>
+    <script type="text/javascript" src="functions.js"></script>
+    <script type="text/javascript" src="paycheckCalculate.js"></script>
+    <script type="text/javascript" src="data.js"></script>
+    <script type="text/javascript" src="employeeData.js"></script>
+    <script type="text/javascript" src="paycheckInput.js"></script>
+    <script type="text/javascript" src="paycheckRender.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h2>Paycheck Preview</h2>
+    </header>
+    <section class="employee-template">
+      <div class="name"></div>
+      <div class="dependents"></div>
+      <div class="paycheck"></div>
+      <div class="links">
+        <button class="edit-button">Edit</button>
+        <button class="delete-button">Delete</button>
+      </div>
+    </section>
+    <section class="employees"></section>
+    <section class="input">
+      <form>
+        Name:
+        <input type="text" name="name" value="" class="employee-data name" />
+        <div class="dependents"></div>
+        <input
+          type="text"
+          name="dependent-name"
+          value=""
+          class="employee-data dependent-name"
+        />
+        <button type="button" id="addDependent">Add Dependent</button>
+        <br />
+        <button type="button" id="editEmployeeSave">Save Employee</button>
+      </form>
+    </section>
+    <script type="text/javascript">
+      paycheckInput.init(employeeData, paycheckRender);
+      paycheckRender.init(employeeData, paycheckInput, paycheckCalculate);
+    </script>
+  </body>
+</html>
