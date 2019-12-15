@@ -1,0 +1,37 @@
+{
+  "name": "grax32.github.io",
+  "version": "2.0.0",
+  "description": "Web site for secureapplicationlifestyle.com, grax32.com, vorteon.com, photo.grax32.com",
+  "main": "index.js",
+  "scripts": {
+    "build": "node static-site-builder.js",
+    "start": "http-server dist -o",
+    "clean": "rimraf dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grax32/Grax32.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grax32/Grax32.github.io/issues"
+  },
+  "homepage": "https://github.com/Grax32/Grax32.github.io#readme",
+  "devDependencies": {
+    "http-server": "^0.12.0",
+    "path": "^0.12.7",
+    "rimraf": "^3.0.0",
+    "static-site": "^1.3.4"
+  },
+  "static-site": {
+    "source": "source",
+    "build": "dist",
+    "helpers": [
+      "helpers/trim-content.js",
+      "helpers/normalize-paths.js",
+      "helpers/apply-permalink.js"
+    ],
+    "template": "_templates/default.html"
+  }
+}

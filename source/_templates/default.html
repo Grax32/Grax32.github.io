@@ -1,9 +1,9 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <link rel="stylesheet" href="/stylesheets/home.css" />
-    {% include headers.html %}
+    {% include header.html %}
 </head>
 
 <body>
@@ -15,20 +15,13 @@
             <h3>Secure&nbsp;Software &bull;&nbsp;Strong&nbsp;Teams &bull;&nbsp;DotNet&nbsp;Core &bull;&nbsp;ASP.NET &bull;&nbsp;SQL Server</h3>
         </div>
     </div>
-
-    <div class="container cia-tagline">
-        <div class="row">
-            <div class="col-md-4"> <i class="fas fa-lock"></i> Confidentiality </div>
-            <div class="col-md-4"> <i class="fas fa-edit"></i> Integrity </div>
-            <div class="col-md-4"> <i class="fas fa-arrow-up"></i> Availability </div>
-        </div>
-    </div>
-
+    
     <div class="container bs-docs-container">
-        {{content}}
+      {% block content %}{% endblock %}
     </div>
 
-    {% include trailing-scripts.html %}
+     include trailing-scripts.html 
+    {% include "footer.html" %}
 
 </body>
 </html>

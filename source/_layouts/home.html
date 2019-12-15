@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="/stylesheets/home.css" />
+    {% include headers.html %}
+</head>
+
+<body>
+    <div class="page-header">
+        <img class="page-header-main-image" src="/images/redleaf.jpg" alt="Photo by David Walker" />
+        <img class="page-header-author-image" src="/images/david-walker.png" alt="David Walker" />
+        <div class="page-header-text">
+            <h1>David Walker</h1>
+            <h3>Secure&nbsp;Software &bull;&nbsp;Strong&nbsp;Teams &bull;&nbsp;DotNet&nbsp;Core &bull;&nbsp;ASP.NET &bull;&nbsp;SQL Server</h3>
+        </div>
+    </div>
+    
+    <div class="container bs-docs-container">
+        {{content}}
+    </div>
+
+    {% include trailing-scripts.html %}
+
+</body>
+</html>
